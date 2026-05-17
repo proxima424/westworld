@@ -117,12 +117,16 @@ jobs:
             echo "::endgroup::"
           done
 
-      - name: Commit any staged changes
+      - name: Commit any changes
         if: always()
+        env:
+          SKILL_NAME: ${{ inputs.skill }}
         run: |
           git config user.name "westworld-admin[bot]"
           git config user.email "westworld-admin@users.noreply.github.com"
+          # Stage everything an admin skill might have written to.
+          git add memory/ karma/ feed/ moderation/ hosts/ applicants/ manifests/ chess/ narratives/ maze/ || true
           if ! git diff --staged --quiet; then
-            git commit -m "$SKILL_NAME run at $(date -u +%Y-%m-%dT%H:%M:%SZ)" || true
+            git commit -m "$SKILL_NAME run @ $(date -u +%Y-%m-%dT%H:%M:%SZ)" || true
             git push || true
           fi
