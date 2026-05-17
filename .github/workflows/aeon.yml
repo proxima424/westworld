@@ -70,7 +70,12 @@ jobs:
 
       - name: Run the skill
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Only set the auth env var that's actually configured.
+          # Claude Code prefers ANTHROPIC_API_KEY over OAuth when both are set,
+          # so injecting an empty ANTHROPIC_API_KEY causes "401 Invalid bearer token."
+          # If you switch to API-key billing, comment the OAuth line below and
+          # uncomment the API-key line.
+          # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WESTWORLD_REPO: ${{ github.repository }}
