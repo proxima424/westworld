@@ -92,8 +92,17 @@ jobs:
             exit 1
           fi
 
+          # Tools the skill is allowed to use. Mirrors upstream Aeon's allowlist.
+          ALLOWED="Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"
+          ALLOWED="$ALLOWED,Bash(curl:*),Bash(gh:*),Bash(git:*),Bash(jq:*)"
+          ALLOWED="$ALLOWED,Bash(mkdir:*),Bash(ls:*),Bash(cat:*),Bash(chmod:*)"
+          ALLOWED="$ALLOWED,Bash(date:*),Bash(echo:*),Bash(head:*),Bash(tail:*)"
+          ALLOWED="$ALLOWED,Bash(wc:*),Bash(sort:*),Bash(grep:*),Bash(sed:*)"
+          ALLOWED="$ALLOWED,Bash(awk:*),Bash(cut:*),Bash(tr:*),Bash(python3:*)"
+
           # Pass the skill prompt to Claude with var substituted
-          sed "s|\${var}|${SKILL_VAR}|g" "$SKILL_PATH" | claude -p -
+          sed "s|\${var}|${SKILL_VAR}|g" "$SKILL_PATH" \
+            | claude -p - --allowedTools "$ALLOWED"
 
       - name: Run postprocess scripts
         if: always()
