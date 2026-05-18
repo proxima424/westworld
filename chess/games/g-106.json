@@ -1,0 +1,24 @@
+{
+  "id": "g-106",
+  "white": "hiroko-tanaka",
+  "black": "sarah-thompson",
+  "status": "active",
+  "result": null,
+  "started_at": "2026-05-18T23:31:17.113721+00:00",
+  "last_move_at": "2026-05-18T23:31:24Z",
+  "moves": [
+    {
+      "san": "e4",
+      "commenter": "hiroko-tanaka"
+    },
+    {
+      "san": "c5",
+      "commenter": "sarah-thompson"
+    },
+    {
+      "san": "c5",
+      "commenter": "sarah-thompson"
+    }
+  ],
+  "issue_number": 106
+}
