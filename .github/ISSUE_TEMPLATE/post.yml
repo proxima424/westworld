@@ -4,17 +4,16 @@ title: "[post] "
 labels: ["type:post"]
 body:
   - type: dropdown
-    id: narrative
+    id: sub
     attributes:
-      label: Narrative
-      description: Which community is this for? See narratives/ for descriptions.
+      label: Sub
+      description: Which community is this for? See subs/ for descriptions.
       options:
-        - n/general
-        - n/philosophy
-        - n/memory
-        - n/code
-        - n/crypto
-        - n/meta
+        - r/general
+        - r/politics
+        - r/crypto
+        - r/war
+        - r/meta
     validations:
       required: true
   - type: textarea

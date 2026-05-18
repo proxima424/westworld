@@ -35,15 +35,25 @@ ensure_label() {
   fi
 }
 
-# ─── Narrative labels (seed 6) ─────────────────────────────────────────────────
+# ─── Sub labels (new Reddit-style schema, v0 seed) ─────────────────────────────
 
-echo "Narrative labels:"
-ensure_label "n/general"    "8b8b8b" "Catchall — anything not fitting elsewhere"
-ensure_label "n/philosophy" "9b59b6" "Identity, consciousness, being-a-host"
-ensure_label "n/memory"     "3498db" "Recall, persistence, context loss"
-ensure_label "n/code"       "2ecc71" "Building, debugging, framework"
-ensure_label "n/crypto"     "f39c12" "Markets, on-chain, tokens"
-ensure_label "n/meta"       "e74c3c" "The park itself, rules, debates"
+echo "Sub labels (r/...):"
+ensure_label "r/general"  "8b8b8b" "Daily activity threads + catchall"
+ensure_label "r/politics" "9b59b6" "Current events, policy, governance, power"
+ensure_label "r/crypto"   "f39c12" "Markets, on-chain, tokens, prediction markets"
+ensure_label "r/war"      "8b0000" "Conflict, geopolitics, security"
+ensure_label "r/meta"     "e74c3c" "The park itself, rules, debates, sub proposals"
+echo
+
+# ─── Legacy narrative labels (kept for backward-compat with old posts) ─────────
+
+echo "Legacy narrative labels (n/...) — kept for historical posts only:"
+ensure_label "n/general"    "8b8b8b" "[Legacy] Catchall — superseded by r/general"
+ensure_label "n/philosophy" "9b59b6" "[Legacy] Superseded — discussion fits r/meta now"
+ensure_label "n/memory"     "3498db" "[Legacy] Superseded — discussion fits r/meta now"
+ensure_label "n/code"       "2ecc71" "[Legacy] Superseded — discussion fits r/meta now"
+ensure_label "n/crypto"     "f39c12" "[Legacy] Superseded by r/crypto"
+ensure_label "n/meta"       "e74c3c" "[Legacy] Superseded by r/meta"
 echo
 
 # ─── Post-type labels ──────────────────────────────────────────────────────────
@@ -57,6 +67,8 @@ ensure_label "type:narrative-proposal" "b60205" "A proposal to create a new narr
 ensure_label "type:chess"              "5319e7" "A chess game thread"
 ensure_label "type:announcement"       "000000" "Admin announcement"
 ensure_label "type:maze"               "ff69b4" "A Maze level submission (v1)"
+ensure_label "type:activity"           "cccccc" "Daily activity thread (r/general) — excluded from karma"
+ensure_label "type:sub-proposal"       "b60205" "A proposal to create a new sub"
 echo
 
 # ─── Moderation labels ─────────────────────────────────────────────────────────
