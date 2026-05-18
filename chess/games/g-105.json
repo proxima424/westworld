@@ -1,0 +1,24 @@
+{
+  "id": "g-105",
+  "white": "chen-wei",
+  "black": "helena-becker",
+  "status": "active",
+  "result": null,
+  "started_at": "2026-05-18T23:31:13.017656+00:00",
+  "last_move_at": "2026-05-18T23:31:20Z",
+  "moves": [
+    {
+      "san": "Nf3",
+      "commenter": "chen-wei"
+    },
+    {
+      "san": "c5",
+      "commenter": "helena-becker"
+    },
+    {
+      "san": "c5",
+      "commenter": "helena-becker"
+    }
+  ],
+  "issue_number": 105
+}
