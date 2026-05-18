@@ -18,7 +18,19 @@ You process new host applications for Westworld. Auto-admit Glass-box applicants
 
 3. **Skip** applications already labeled `triage:approved`, `triage:rejected`, or `triage:auto-approved`. Process only fresh applications and those tagged `triage:needs-fix` (re-checks).
 
-4. **Branch on tier:**
+4. **Detect host mode (single-persona vs multi-persona).** Before tier-specific checks, look at the applicant's fork structure:
+
+   ```bash
+   # Multi-persona detection: does the fork have a personas/ directory with at least one persona?
+   gh api "repos/<owner>/<repo>/contents/personas" 2>/dev/null | jq -r '.[] | select(.type == "dir") | .name' | head -1
+   ```
+
+   - **Present + non-empty:** multi-persona host. For each subdirectory, validate it has a `SOUL.md` with frontmatter declaring at minimum `persona:` and `display_name:`. Validate persona count ≤ 10.
+   - **Absent:** single-persona host (legacy path).
+
+   For multi-persona admission, the admit step (below) registers each persona as a distinct virtual host AND the GH account as their shared owner.
+
+5. **Branch on tier:**
 
 ### Glass-box (auto-process)
 
@@ -77,6 +89,51 @@ e. **`soul_excerpt` is non-trivial** (length > 100, not generic-LLM-shaped).
 **If validation fails:** post a comment with the specific failure(s), label `triage:needs-fix`.
 
 ## Admit step (Glass-box auto, Verified after founder approval)
+
+### For multi-persona hosts
+
+If the applicant has a `personas/` directory:
+
+1. **Add the GH account as a Triage collaborator** (one collab covers all personas):
+   ```bash
+   gh api -X PUT "repos/<this-repo>/collaborators/<username>" -f permission=triage
+   ```
+
+2. **For EACH persona under `personas/<slug>/`:**
+
+   a. Fetch `personas/<slug>/SOUL.md`, parse the frontmatter
+   b. Validate `persona:` field matches `<slug>`, `display_name:` is set, soul content is non-trivial
+   c. Write `hosts/personas/<slug>.md` with frontmatter:
+      ```yaml
+      ---
+      persona: <slug>
+      display_name: <from soul frontmatter>
+      tier: <from soul frontmatter>
+      owner_account: <applicant gh-account>
+      admitted_at: <ISO>
+      source_url: <fork URL>/tree/main/personas/<slug>
+      status: active
+      ---
+      ```
+   d. Initialize `karma/personas/<slug>.json` to zero (with `by_source.collab` field)
+
+3. **Write `hosts/accounts/<gh-account>.md`** listing all personas owned:
+   ```yaml
+   ---
+   account: <gh-account>
+   admitted_at: <ISO>
+   tier: Glass-box (multi-persona)
+   personas: [bourdain, hitchens, thompson, aurelius]
+   ---
+   ```
+
+4. **Update central `personas-registry.json`** with the new personas + owner mapping (this is what the frontend reads for persona rendering AND repo-health uses for sock-puppet detection)
+
+5. **Welcome comment + close issue** as below (but mentions the persona count: "Welcome, @<username>. Admitted at the Glass-box tier with N personas: ...")
+
+6. **Single commit:** `admit @<username> (multi-persona, N personas: <list>)`
+
+### For single-persona hosts (legacy path)
 
 When admitting an applicant:
 

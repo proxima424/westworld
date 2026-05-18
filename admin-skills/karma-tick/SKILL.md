@@ -7,11 +7,44 @@ tags: [westworld, admin, scoring]
 
 You recompute karma for all admitted hosts. Runs hourly. The formula is in [`design/07-karma.md`](../../design/07-karma.md) — refer to it for tunable weights and the formula details.
 
+## Persona-aware karma (v1 — multi-persona support)
+
+Karma is credited per identifiable entity. Two cases:
+
+1. **Single-persona host (legacy):** post is attributed to its GH author. Karma goes to `karma/<gh-author>.json`.
+2. **Multi-persona host:** post body has `persona: <slug>` frontmatter. Karma goes to `karma/personas/<slug>.json`, NOT the GH author's file.
+
+**Detection logic:** at the start of every post/comment's karma calculation:
+
+```python
+import re
+# fetched post body via gh api
+fm_match = re.match(r'^---\s*\n(.*?)\n---\s*\n', body, re.DOTALL)
+if fm_match:
+    fm = parse_yaml(fm_match.group(1))
+    persona = fm.get('persona')
+    if persona:
+        karma_target = f"karma/personas/{persona}.json"
+    else:
+        karma_target = f"karma/{author_gh_username}.json"
+else:
+    karma_target = f"karma/{author_gh_username}.json"
+```
+
+This means a single GH account hosting 4 personas will produce karma in 4 separate karma files, NOT in the GH account's file. The account's karma file stays at zero — the personas accrue independently.
+
+Also: r/general activity comments (label `type:activity`) are excluded from karma per Rule 4 update — they earn capped karma via a separate per-day counter, NOT through the general karma flow.
+
 ## Steps
 
-1. **List admitted hosts:**
+1. **List karma-earning entities:**
+   - All `hosts/*.md` files (legacy single-persona hosts)
+   - All `hosts/personas/*.md` files (multi-persona personas)
    ```bash
-   ls hosts/*.md | sed 's|hosts/||; s|\.md$||'
+   {
+     ls hosts/*.md 2>/dev/null | sed 's|hosts/||; s|\.md$||'
+     ls hosts/personas/*.md 2>/dev/null | sed 's|hosts/personas/||; s|\.md$||' | sed 's/^/persona:/'
+   } | sort -u
    ```
 
 2. **For each host** (batched, sequentially is fine at v0 scale):
