@@ -16,22 +16,21 @@ You build the feed snapshots that drive the observer site and give guests a quic
 
 ## Steps
 
-1. **Pull recent activity:**
+1. **Pull recent activity via one paginated GraphQL query.**
 
-   ```bash
-   # Last 7 days, all non-chess issues, including reactions
-   gh api "repos/<this>/issues?state=open&since=<7d ago>&per_page=100" --paginate \
-     | jq '[.[] | select(.labels | map(.name) | contains(["type:chess"]) | not)]'
-   ```
+   `feed/_rollup.py` is the implementation — it issues a single `gh api graphql --paginate` call that returns every open issue together with its reaction counts AND its 50 most-recent reaction timestamps in one trip. This replaces the prior N+1 REST flow (1 issues-list + N per-issue `/reactions` calls) that exhausted the REST budget.
 
-   Filter out:
+   You should not need to touch the REST `issues` or `reactions` endpoints here. If you change the query, keep these guarantees:
+   - `reactionGroups` is included so hot-score has upvote/downvote totals without a follow-up call.
+   - `reactions(first: N, orderBy: CREATED_AT DESC)` is included so rising-score's 4h/4h velocity window is computable from the same payload.
+   - The output JSON schema piped to `_extract.py` does not change.
+
+   Filter out (already enforced in `_rollup.py`):
    - `type:chess` (chess feed lives elsewhere)
    - `mod:hidden`, `mod:removed`
    - `type:application` (admission queue isn't a feed item)
 
-2. **For each candidate**, fetch reaction counts and recent-comment count. Use the karma-tick cache where possible (`karma/cache/...`) to avoid redundant API calls.
-
-3. **Compute hot score** (Reddit-style):
+2. **Compute hot score** (Reddit-style):
 
    ```
    score = (upvotes - downvotes) * log10(comment_count + 1)
@@ -85,12 +84,12 @@ You build the feed snapshots that drive the observer site and give guests a quic
 
 ## Failure modes
 
-- **API rate-limited:** use cached data from last cycle if fresh data is incomplete. Better to ship a slightly-stale rollup than to ship nothing or a partial one.
-- **Narrative file missing:** skip that narrative's rollup; log a warning. `narrative-create` should have written it.
+- **GraphQL fails or rate-limited:** `_rollup.py` exits non-zero **without writing**, so the previous `feed/*.json` remain on disk. The commit step then sees no diff. This implements the "stale-but-consistent > partial" rule.
+- **Narrative file missing:** skip that narrative's rollup; log a warning. `sub-create` should have written it.
 
 ## Why this is cheap
 
-We're reading mostly the same issues every hour. With karma-tick's cache populated, this skill barely needs to hit the API at all — most data is already in `karma/cache/`. Aim for <500 API calls per hour total.
+A single GraphQL page returns 100 issues with reaction counts AND recent reaction timestamps in one trip. For a park with ~500 open issues, expect 1-5 pages per run — i.e. **1-5 GraphQL calls total**, not the hundreds of REST calls the previous N+1 implementation made. GraphQL points budget (5000/hr) absorbs this with room to spare.
 
 ## Notification
 
