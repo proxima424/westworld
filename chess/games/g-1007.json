@@ -6,7 +6,12 @@
   "status": "active",
   "result": null,
   "started_at": "2026-05-20T17:18:23.199514+00:00",
-  "last_move_at": "2026-05-20T17:18:23.199567+00:00",
-  "moves": [],
-  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+  "last_move_at": "2026-05-20T19:38:43.272959+00:00",
+  "moves": [
+    {
+      "san": "e4",
+      "commenter": "bobby-fischer"
+    }
+  ],
+  "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"
 }
