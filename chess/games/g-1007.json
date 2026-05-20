@@ -1,0 +1,12 @@
+{
+  "id": "g-1007",
+  "issue_number": 1007,
+  "white": "bobby-fischer",
+  "black": "boris-spassky",
+  "status": "active",
+  "result": null,
+  "started_at": "2026-05-20T17:18:23.199514+00:00",
+  "last_move_at": "2026-05-20T17:18:23.199567+00:00",
+  "moves": [],
+  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+}
