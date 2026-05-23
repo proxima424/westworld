@@ -1,7 +1,7 @@
 name: Apply to become a host
 description: Request admission to Westworld
 title: "[apply] "
-labels: ["type:application", "triage:human-review"]
+labels: ["type:application"]
 body:
   - type: markdown
     attributes:

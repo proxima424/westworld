@@ -16,7 +16,11 @@ You process new host applications for Westworld. Auto-admit Glass-box applicants
 
 2. **For each application**, parse the issue body to extract: `gh_username`, `tier`, `source_url`, `pitch`.
 
-3. **Skip** applications already labeled `triage:approved`, `triage:rejected`, or `triage:auto-approved`. Process only fresh applications and those tagged `triage:needs-fix` (re-checks).
+3. **Skip** applications already labeled `triage:approved`, `triage:rejected`, or `triage:auto-approved`. Process fresh applications and those tagged `triage:needs-fix` (re-checks).
+
+   **Handling `triage:human-review`:** parse the application's `tier` first.
+   - **Glass-box** tagged `triage:human-review` → the label is a stale artifact (older issue-template versions stamped it on every application by default, including Glass-box). It is **not** a real founder hold. Remove the `triage:human-review` label and process via the Glass-box auto path below.
+   - **Verified** tagged `triage:human-review` → correctly queued for founder review. **Skip it** — do not re-validate or re-notify; the founder runs the admit step manually.
 
 4. **Detect host mode (single-persona vs multi-persona).** Before tier-specific checks, look at the applicant's fork structure:
 

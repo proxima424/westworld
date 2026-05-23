@@ -1,88 +1,160 @@
 name: Cron scheduler
 
-# Fires every 5 minutes. Reads aeon.yml, determines which admin skill (if any)
-# matches the current minute, and dispatches the aeon.yml workflow for it.
+# Fires every 5 minutes. Reads aeon.yml, determines which admin skills are DUE
+# (their scheduled time has passed since we last dispatched them), and dispatches
+# the aeon.yml workflow for each — applicant-triage first.
 #
-# Also doubles as the inbound-message poller for Telegram/Discord/Slack notifications
-# in the upstream Aeon template — we don't need that part at v0.
-#
-# NOTE: This is a starter template. The upstream Aeon scheduler is more sophisticated
-# (handles missed dispatches, ordering, reactive triggers). Adapt from
-# https://github.com/aaronjmars/aeon/blob/main/.github/workflows/messages.yml
-# for production.
+# Why state-based instead of a 5-minute match window:
+# GitHub Actions schedule triggers are delayed and occasionally dropped, worst of
+# all at the top of the hour (:00) where the heaviest cron load lands. The old
+# logic only fired a skill if its previous cron occurrence was within the last
+# 300s, with no catch-up — so hourly skills scheduled at :00 (applicant-triage,
+# karma-tick) were routinely skipped for the whole hour whenever the :00-:05 tick
+# slipped. We now persist the last dispatch time per skill in
+# memory/state/scheduler.json and dispatch any skill whose scheduled occurrence
+# has passed but not yet been served. A missed tick is recovered on the next tick
+# instead of being lost.
 
 on:
   schedule:
     - cron: '*/5 * * * *'   # every 5 minutes
   workflow_dispatch:
 
+# Serialize ticks so a delayed run can't double-dispatch before state is committed.
+concurrency:
+  group: cron-scheduler
+  cancel-in-progress: false
+
 permissions:
   actions: write           # dispatch workflows
-  contents: read
+  contents: write          # persist scheduler state
 
 jobs:
   schedule:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Determine which skill (if any) matches this minute
-        id: pick
-        run: |
-          # Parse aeon.yml, find the first enabled skill whose cron matches the current UTC time.
-          # This is a minimal stub — production logic should also check reactive triggers
-          # and per-skill last-dispatch state to avoid missed runs.
-          python3 <<'EOF'
-          import yaml, sys, os
-          from datetime import datetime, timezone
-          from croniter import croniter
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-          # Note: install croniter in setup if not pre-installed
-          # pip install croniter PyYAML
-
-          now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
-          config = yaml.safe_load(open('aeon.yml'))
-
-          picked = None
-          for name, cfg in (config.get('skills') or {}).items():
-              if not cfg.get('enabled'):
-                  continue
-              cron = cfg.get('schedule')
-              if not cron or cron == 'workflow_dispatch' or cron == 'chain-only':
-                  continue
-              try:
-                  itr = croniter(cron, now)
-                  prev = itr.get_prev(datetime)
-                  # If the previous match was within the last 5 minutes, we fire it
-                  delta = (now - prev).total_seconds()
-                  if 0 <= delta < 300:
-                      picked = name
-                      break
-              except Exception as e:
-                  print(f"skip {name}: bad cron {cron}: {e}", file=sys.stderr)
-
-          if picked:
-              print(f"::set-output name=skill::{picked}")
-              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-                  f.write(f"skill={picked}\n")
-              print(f"Dispatching: {picked}")
-          else:
-              print("No skill claimed this slot")
-              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-                  f.write("skill=\n")
-          EOF
-        env:
-          PYTHONUNBUFFERED: 1
-
-      - name: Setup Python deps
-        if: steps.pick.outputs.skill != ''
+      # Install deps BEFORE the step that imports them. (The old workflow installed
+      # croniter AFTER the picker step that already imported it.)
+      - name: Install scheduler deps
         run: pip install PyYAML croniter
 
-      - name: Dispatch the chosen skill
-        if: steps.pick.outputs.skill != ''
+      - name: Pick due skills and dispatch (applicant-triage first)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONUNBUFFERED: '1'
         run: |
-          gh workflow run aeon.yml \
-            -f skill="${{ steps.pick.outputs.skill }}" \
-            -f var=""
+          python3 <<'EOF'
+          import json, os, subprocess, sys
+          from datetime import datetime, timedelta, timezone
+          import yaml
+          from croniter import croniter
+
+          STATE_PATH = "memory/state/scheduler.json"
+          # applicant-triage is always evaluated first; the rest follow aeon.yml order.
+          PRIORITY_FIRST = "applicant-triage"
+
+          now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
+          config = yaml.safe_load(open("aeon.yml")) or {}
+          skills = config.get("skills") or {}
+
+          state_existed = os.path.exists(STATE_PATH)
+          state = {}
+          if state_existed:
+              try:
+                  state = json.load(open(STATE_PATH))
+              except Exception as e:
+                  print(f"warn: could not parse {STATE_PATH}: {e}", file=sys.stderr)
+                  state = {}
+          last_dispatched = state.get("last_dispatched", {})
+
+          def parse_iso(s):
+              if not s:
+                  return None
+              try:
+                  return datetime.fromisoformat(s.replace("Z", "+00:00"))
+              except Exception:
+                  return None
+
+          # Build the candidate set: enabled skills with a real cron schedule.
+          candidates = []
+          for name, cfg in skills.items():
+              if not (cfg or {}).get("enabled"):
+                  continue
+              cron = (cfg or {}).get("schedule")
+              if not cron or cron in ("workflow_dispatch", "chain-only"):
+                  continue
+              candidates.append((name, cron))
+
+          # Priority order: applicant-triage first, then aeon.yml file order.
+          candidates.sort(key=lambda nc: (nc[0] != PRIORITY_FIRST,))
+
+          def most_recent_occurrence(cron):
+              # Base one minute ahead so an occurrence landing exactly on `now`
+              # (e.g. the :00 slot) counts as already due, not an hour stale.
+              base = now + timedelta(minutes=1)
+              return croniter(cron, base).get_prev(datetime).replace(tzinfo=timezone.utc)
+
+          def dispatch(name):
+              r = subprocess.run(
+                  ["gh", "workflow", "run", "aeon.yml", "-f", f"skill={name}", "-f", "var="],
+                  capture_output=True, text=True,
+              )
+              if r.returncode == 0:
+                  print(f"dispatched: {name}")
+                  return True
+              print(f"dispatch FAILED: {name}: {r.stderr.strip()}", file=sys.stderr)
+              return False
+
+          dispatched_any = False
+          for name, cron in candidates:
+              prev = most_recent_occurrence(cron)
+
+              if not state_existed:
+                  # First deploy: don't replay every skill's whole history. Seed each
+                  # skill as already-served at its last occurrence, EXCEPT the priority
+                  # skill, which we fire immediately so a waiting application queue is
+                  # drained on the very next tick after this fix lands.
+                  if name == PRIORITY_FIRST:
+                      if dispatch(name):
+                          last_dispatched[name] = now.isoformat()
+                          dispatched_any = True
+                  else:
+                      last_dispatched[name] = prev.isoformat()
+                  continue
+
+              last = parse_iso(last_dispatched.get(name))
+              if last is None or last < prev:
+                  if dispatch(name):
+                      last_dispatched[name] = now.isoformat()
+                      dispatched_any = True
+
+          if not dispatched_any and state_existed:
+              print("No skill due this tick")
+
+          state["last_dispatched"] = last_dispatched
+          state["updated_at"] = now.isoformat()
+          os.makedirs(os.path.dirname(STATE_PATH), exist_ok=True)
+          with open(STATE_PATH, "w") as f:
+              json.dump(state, f, indent=2)
+              f.write("\n")
+          EOF
+
+      - name: Persist scheduler state
+        run: |
+          git config user.name "westworld-admin[bot]"
+          git config user.email "westworld-admin@users.noreply.github.com"
+          git add memory/state/scheduler.json || true
+          if ! git diff --staged --quiet; then
+            git commit -m "scheduler: dispatch state @ $(date -u +%Y-%m-%dT%H:%M:%SZ)" || true
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push || true
+          fi
