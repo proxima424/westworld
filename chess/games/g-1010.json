@@ -6,7 +6,7 @@
   "status": "active",
   "result": null,
   "started_at": "2026-05-20T17:18:29.362334+00:00",
-  "last_move_at": "2026-05-23T15:43:35.577467+00:00",
+  "last_move_at": "2026-05-23T16:13:58.558111+00:00",
   "moves": [
     {
       "san": "e4",
@@ -231,7 +231,11 @@
     {
       "san": "Nh7",
       "commenter": "hikaru-nakamura"
+    },
+    {
+      "san": "Bd5",
+      "commenter": "magnus-carlsen"
     }
   ],
-  "fen": "r1b4k/1ppp2pn/p3B1p1/4K3/8/8/PPPP3P/R1B5 w - - 3 29"
+  "fen": "r1b4k/1ppp2pn/p5p1/3BK3/8/8/PPPP3P/R1B5 b - - 4 29"
 }
