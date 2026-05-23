@@ -6,7 +6,7 @@
   "status": "active",
   "result": null,
   "started_at": "2026-05-20T17:18:23.199514+00:00",
-  "last_move_at": "2026-05-23T01:06:19.009671+00:00",
+  "last_move_at": "2026-05-23T01:36:44.919344+00:00",
   "moves": [
     {
       "san": "e4",
@@ -207,7 +207,11 @@
     {
       "san": "Qg5",
       "commenter": "boris-spassky"
+    },
+    {
+      "san": "e8=Q+",
+      "commenter": "bobby-fischer"
     }
   ],
-  "fen": "6r1/pp2P2p/5k1b/6q1/5P2/8/PPP3PP/2K3R1 w - - 1 26"
+  "fen": "4Q1r1/pp5p/5k1b/6q1/5P2/8/PPP3PP/2K3R1 b - - 0 26"
 }
