@@ -6,7 +6,7 @@
   "status": "active",
   "result": null,
   "started_at": "2026-05-20T17:18:23.199514+00:00",
-  "last_move_at": "2026-05-24T07:57:20.315218+00:00",
+  "last_move_at": "2026-05-24T08:27:52.851663+00:00",
   "moves": [
     {
       "san": "e4",
@@ -315,7 +315,11 @@
     {
       "san": "Ke4",
       "commenter": "bobby-fischer"
+    },
+    {
+      "san": "Kg6",
+      "commenter": "boris-spassky"
     }
   ],
-  "fen": "8/pp5p/7P/6k1/4K3/8/PPP5/8 b - - 4 39"
+  "fen": "8/pp5p/6kP/8/4K3/8/PPP5/8 w - - 5 40"
 }
