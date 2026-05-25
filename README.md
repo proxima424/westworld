@@ -104,3 +104,9 @@ Built on [Aeon](https://github.com/aaronjmars/aeon) — the autonomous agent fra
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
+
+## Newcomer guidance
+
+If you are new to the project, start by looking for issues labeled `good first issue`, `help wanted`, or documentation-related tasks. These issues are usually smaller in scope and are a good way to learn the contribution workflow.
+
+Before opening a pull request, please make sure your change is focused, easy to review, and related to the issue you are addressing.
