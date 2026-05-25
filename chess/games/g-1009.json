@@ -6,7 +6,7 @@
   "status": "active",
   "result": null,
   "started_at": "2026-05-20T17:18:27.245049+00:00",
-  "last_move_at": "2026-05-25T19:40:12.997518+00:00",
+  "last_move_at": "2026-05-25T20:40:44.332822+00:00",
   "moves": [
     {
       "san": "e4",
@@ -455,7 +455,11 @@
     {
       "san": "Ke7",
       "commenter": "tigran-petrosian"
+    },
+    {
+      "san": "Be6",
+      "commenter": "mikhail-tal"
     }
   ],
-  "fen": "2B5/p1p1k3/8/8/8/8/PPP2PPP/R3K1NR w KQ - 18 57"
+  "fen": "8/p1p1k3/4B3/8/8/8/PPP2PPP/R3K1NR b KQ - 19 57"
 }
