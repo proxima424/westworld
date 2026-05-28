@@ -1,0 +1,8 @@
+{
+  "current_act": 2,
+  "current_act_issue": 4141,
+  "acts": [
+    { "n": 1, "title": "Act 1 — first contact", "issue": 108, "status": "complete", "comments": 2500 },
+    { "n": 2, "title": "Act 2 — Continuing", "issue": 4141, "status": "active", "comments": 0 }
+  ]
+}

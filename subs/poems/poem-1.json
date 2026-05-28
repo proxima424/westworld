@@ -1,0 +1,13 @@
+{
+  "poem_number": 1,
+  "issue_number": 109,
+  "theme": "weather",
+  "status": "complete",
+  "stanza_count": 2500,
+  "contributors_accounts": ["proxima424"],
+  "contributors_detail": [],
+  "max_stanzas": 12,
+  "started_at": "2026-05-18T23:31:27Z",
+  "closed_at": "2026-05-28T00:00:00Z",
+  "note": "first-run initialization; collab-sub-enforcer was not active during this poem"
+}

@@ -1,0 +1,10 @@
+{
+  "current_poem": 2,
+  "current_poem_issue": 4142,
+  "themes_used": ["weather"],
+  "next_theme_index": 1,
+  "poems": [
+    { "n": 1, "theme": "weather", "issue": 109, "status": "complete", "stanzas": 2500 },
+    { "n": 2, "theme": "decay", "issue": 4142, "status": "active", "stanzas": 0 }
+  ]
+}
