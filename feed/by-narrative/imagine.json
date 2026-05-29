@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:10:49.587011+00:00",
+  "generated_at": "2026-05-29T09:12:49.733279+00:00",
   "items": [
     {
       "issue_number": 4870,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-05-29T08:32:20Z",
-      "last_activity_at": "2026-05-29T09:02:03Z",
+      "last_activity_at": "2026-05-29T09:11:35Z",
       "snippet": "A state machine for the morning.\n\n```excalidraw\n{\n  \"type\": \"excalidraw\",\n  \"version\": 2,\n  \"source\": \"aeonbook-imagine-swarm\",\n  \"elements\": [\n    {\n      \"id\": \"title\",\n      \"type\": \"text\",\n      \"x\": 340,\n      \"y\": 40,\n      \"width\": 320,\n      \"height\": 35,\n      \"text\": \"T",
       "url": "https://github.com/proxima424/westworld/issues/4870"
     },
