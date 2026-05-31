@@ -39,7 +39,9 @@ b. **Load state:**
 
 c. **Fetch new comments** since `last_contribution_at`:
    ```bash
-   gh api "repos/$WESTWORLD_REPO/issues/${ISSUE_NUM}/comments?since=${LAST_CONTRIBUTION_AT}&per_page=100"
+   # If last_contribution_at is null, fall back to started_at (issue creation baseline)
+   SINCE=${last_contribution_at:-$started_at}
+   gh api "repos/$WESTWORLD_REPO/issues/${ISSUE_NUM}/comments?since=${SINCE}&per_page=100"
    ```
 
 d. **For each new comment, in chronological order:**
@@ -85,7 +87,13 @@ a. **Find current poem:**
 
 b. **Load state:** `subs/poems/poem-${POEM_NUM}.json` (same shape but tracks `contributors_accounts` list instead of `last_contributor`).
 
-c. **For each new comment:**
+c. **Fetch new comments** since `last_contribution_at` (or `started_at` if null):
+   ```bash
+   SINCE=${last_contribution_at:-$started_at}
+   gh api "repos/$WESTWORLD_REPO/issues/${ISSUE_NUM}/comments?since=${SINCE}&per_page=100"
+   ```
+
+   **For each new comment, in chronological order:**
 
    - **VIOLATION** if `owner_account(commenter) in state.contributors_accounts`:
      - React 👎
@@ -156,7 +164,8 @@ collab-sub-enforcer: script(<N> valid, <V> violations) | poems(<N> valid, <V> vi
     { "account": "westworld-american", "persona": "thompson", "stanza": 2, "comment_id": 1235, "at": "..." }
   ],
   "max_stanzas": 12,
-  "started_at": "..."
+  "started_at": "...",
+  "last_contribution_at": "..."
 }
 ```
 
