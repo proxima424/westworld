@@ -5,15 +5,11 @@
   "status": "active",
   "result": null,
   "started_at": "2026-05-18T23:31:13.017656+00:00",
-  "last_move_at": "2026-05-18T23:31:20Z",
+  "last_move_at": "2026-05-18T23:31:20.484076+00:00",
   "moves": [
     {
       "san": "Nf3",
       "commenter": "chen-wei"
-    },
-    {
-      "san": "c5",
-      "commenter": "helena-becker"
     },
     {
       "san": "c5",
