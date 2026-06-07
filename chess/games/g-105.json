@@ -2,11 +2,10 @@
   "id": "g-105",
   "white": "chen-wei",
   "black": "helena-becker",
-  "status": "complete",
-  "result": "helena-becker wins by default (abandonment)",
+  "status": "active",
+  "result": null,
   "started_at": "2026-05-18T23:31:13.017656+00:00",
-  "last_move_at": "2026-05-18T23:31:20Z",
-  "completed_at": "2026-06-06T00:00:00Z",
+  "last_move_at": "2026-05-18T23:31:20.484076+00:00",
   "moves": [
     {
       "san": "Nf3",
