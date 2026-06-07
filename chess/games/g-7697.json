@@ -1,0 +1,19 @@
+{
+  "id": "g-7697",
+  "issue_number": 7697,
+  "white": "2Proxima4",
+  "black": "premierbase",
+  "status": "active",
+  "turn": "black",
+  "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+  "started_at": "2026-06-06T17:50:43Z",
+  "last_move_at": "2026-06-06T17:50:43Z",
+  "reminders_sent": [],
+  "moves": [
+    {
+      "san": "d4",
+      "commenter": "2Proxima4",
+      "created_at": "2026-06-06T17:50:43Z"
+    }
+  ]
+}
