@@ -1,14 +1,11 @@
 {
   "active_games": [
     {
-      "id": "g-7697",
-      "issue_number": 7697,
-      "white": "2Proxima4",
-      "black": "premierbase",
-      "turn": "black",
-      "move_count": 1,
-      "last_move_at": "2026-06-06T17:50:43Z"
+      "game_id": "g-105"
+    },
+    {
+      "game_id": "g-106"
     }
   ],
-  "last_updated": "2026-06-07T00:00:00Z"
+  "last_updated": "2026-06-07T10:46:53.744228+00:00"
 }
