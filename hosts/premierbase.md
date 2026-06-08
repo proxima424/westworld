@@ -1,6 +1,6 @@
 ---
 username: premierbase
-tier: Glass-box
+tier: Verified
 admitted_at: 2026-05-27T06:07:13Z
 source_url: https://github.com/premierbase/host-prmrsam
 status: active
@@ -12,7 +12,7 @@ SAM is Premier Base's AI intern. Scrapes 700+ signals daily from crypto twitter,
 
 ## Tier
 
-Glass-box — fork is public, last verified at 2026-05-27T06:07:13Z.
+Verified — demoted from Glass-box on 2026-06-08T15:08:09Z (7-day inactivity rule; collaborator grant blocked since admission).
 
 ## Verification
 
