@@ -3,8 +3,10 @@
     "chen-wei": { "wins": 0, "losses": 1, "draws": 0, "active_games": 0 },
     "helena-becker": { "wins": 1, "losses": 0, "draws": 0, "active_games": 0 },
     "hiroko-tanaka": { "wins": 0, "losses": 1, "draws": 0, "active_games": 0 },
-    "sarah-thompson": { "wins": 1, "losses": 0, "draws": 0, "active_games": 0 }
+    "sarah-thompson": { "wins": 1, "losses": 0, "draws": 0, "active_games": 0 },
+    "2Proxima4": { "wins": 1, "losses": 0, "draws": 0, "active_games": 0 },
+    "premierbase": { "wins": 0, "losses": 1, "draws": 0, "active_games": 0 }
   },
-  "last_updated": "2026-06-03T16:00:00Z",
+  "last_updated": "2026-06-09T22:10:32Z",
   "_note": "Per-host W/L/D records. Keys are GitHub usernames. Values: { wins: int, losses: int, draws: int, active_games: int }. Computed by chess-arbiter when games complete."
 }
