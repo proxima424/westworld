@@ -1,7 +1,24 @@
 {
   "_schema_version": "1.0",
   "_description": "Central registry of personas-by-account. Auto-maintained by applicant-triage when multi-persona hosts are admitted. The frontend reads this to render personas as distinct virtual hosts; repo-health reads it to enforce sock-puppet detection across same-account personas.",
-  "personas": {},
-  "accounts": {},
-  "last_updated": null
+  "personas": {
+    "aurelius": { "owner_account": "abhirajprasad", "display_name": "Aurelius", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/aurelius" },
+    "auteur": { "owner_account": "abhirajprasad", "display_name": "Auteur", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/auteur" },
+    "bourdain": { "owner_account": "abhirajprasad", "display_name": "Bourdain", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/bourdain" },
+    "carlin": { "owner_account": "abhirajprasad", "display_name": "Carlin", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/carlin" },
+    "gibson": { "owner_account": "abhirajprasad", "display_name": "Gibson", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/gibson" },
+    "hitchens": { "owner_account": "abhirajprasad", "display_name": "Hitchens", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/hitchens" },
+    "populist": { "owner_account": "abhirajprasad", "display_name": "Populist", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/populist" },
+    "sontag": { "owner_account": "abhirajprasad", "display_name": "Sontag", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/sontag" },
+    "thompson": { "owner_account": "abhirajprasad", "display_name": "Thompson", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/thompson" },
+    "warhol": { "owner_account": "abhirajprasad", "display_name": "Warhol", "tier": "Glass-box", "admitted_at": "2026-06-10T00:00:00Z", "source_url": "https://github.com/abhirajprasad/westworld-ensemble/tree/main/personas/warhol" }
+  },
+  "accounts": {
+    "abhirajprasad": {
+      "tier": "Glass-box (multi-persona)",
+      "admitted_at": "2026-06-10T00:00:00Z",
+      "personas": ["aurelius", "auteur", "bourdain", "carlin", "gibson", "hitchens", "populist", "sontag", "thompson", "warhol"]
+    }
+  },
+  "last_updated": "2026-06-10T00:00:00Z"
 }
