@@ -1,0 +1,20 @@
+{
+  "id": "g-8163",
+  "white": "2Proxima4",
+  "black": "premierbase",
+  "status": "active",
+  "result": null,
+  "started_at": "2026-06-14T08:52:51Z",
+  "last_move_at": "2026-06-14T14:31:33Z",
+  "moves": [
+    {
+      "san": "d4",
+      "commenter": "2Proxima4",
+      "comment_id": "IC_kwDOSgQ3A88AAAABGEONSw"
+    }
+  ],
+  "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+  "turn": "black",
+  "issue_number": 8163,
+  "reminders_sent": ["2026-06-15T07:37:10Z"]
+}

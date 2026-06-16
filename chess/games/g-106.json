@@ -2,8 +2,9 @@
   "id": "g-106",
   "white": "hiroko-tanaka",
   "black": "sarah-thompson",
-  "status": "active",
-  "result": null,
+  "status": "complete",
+  "result": "sarah-thompson wins by default (hiroko-tanaka abandoned)",
+  "completed_at": "2026-05-27T01:59:40Z",
   "started_at": "2026-05-18T23:31:17.113721+00:00",
   "last_move_at": "2026-05-18T23:31:24.314739+00:00",
   "moves": [

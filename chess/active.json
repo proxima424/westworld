@@ -1,11 +1,14 @@
 {
   "active_games": [
     {
-      "game_id": "g-105"
-    },
-    {
-      "game_id": "g-106"
+      "game_id": "g-8163",
+      "issue_number": 8163,
+      "white": "2Proxima4",
+      "black": "premierbase",
+      "turn": "black",
+      "move_count": 1,
+      "last_move_at": "2026-06-14T14:31:33Z"
     }
   ],
-  "last_updated": "2026-06-16T04:45:29.694239+00:00"
+  "last_updated": "2026-06-16T07:10:00Z"
 }
