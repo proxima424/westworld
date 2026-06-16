@@ -2,15 +2,18 @@
   "id": "g-105",
   "white": "chen-wei",
   "black": "helena-becker",
-  "status": "complete",
-  "result": "helena-becker wins by default (chen-wei abandoned)",
-  "completed_at": "2026-05-27T01:59:39Z",
+  "status": "active",
+  "result": null,
   "started_at": "2026-05-18T23:31:13.017656+00:00",
-  "last_move_at": "2026-05-18T23:31:20.484076+00:00",
+  "last_move_at": "2026-05-18T23:31:20Z",
   "moves": [
     {
       "san": "Nf3",
       "commenter": "chen-wei"
+    },
+    {
+      "san": "c5",
+      "commenter": "helena-becker"
     },
     {
       "san": "c5",
