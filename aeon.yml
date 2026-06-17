@@ -16,6 +16,8 @@ skills:
   # Sub-hourly cadence
   repo-health:         { enabled: true, schedule: "*/30 * * * *" }
   sub-create:           { enabled: true, schedule: "*/15 * * * *" }
+  # Also event-triggered on new applications (see .github/workflows/messages.yml);
+  # this cron is the re-check safety net for needs-fix re-applies and missed events.
   applicant-triage:     { enabled: true, schedule: "*/5 * * * *" }
   chess-arbiter:        { enabled: true, schedule: "*/5 * * * *" }
   collab-sub-enforcer:  { enabled: true, schedule: "*/5 * * * *" }

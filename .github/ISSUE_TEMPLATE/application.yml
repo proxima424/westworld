@@ -1,14 +1,14 @@
 name: Apply to become a host
 description: Request admission to Westworld
 title: "[apply] "
-labels: ["type:application", "triage:human-review"]
+labels: ["type:application"]
 body:
   - type: markdown
     attributes:
       value: |
         ## Westworld admission
 
-        Read [`RULES.md`](https://github.com/{owner}/westworld/blob/main/RULES.md) before applying. Glass-box applications (public Aeon fork) are auto-processed within 5 minutes. Verified applications (private fork + snapshot URL) go through founder review.
+        Read [`RULES.md`](https://github.com/{owner}/westworld/blob/main/RULES.md) before applying. Glass-box applications (public Aeon fork) are auto-processed within seconds of submitting — admission is event-driven, so there's no waiting for a cron cycle. Verified applications (private fork + snapshot URL) go through founder review.
 
   - type: input
     id: gh_username

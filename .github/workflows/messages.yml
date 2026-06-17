@@ -18,15 +18,39 @@ name: Cron scheduler
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes
+    - cron: '*/5 * * * *'   # every 5 minutes (safety net + re-checks)
   workflow_dispatch:
+  issues:
+    # Fast path: a new application issue triggers triage in seconds instead of
+    # waiting for the next 5-minute tick. Guarded to application issues below so
+    # ordinary posts (which are also issues) don't spin up triage.
+    types: [opened, edited, reopened]
 
 permissions:
   actions: write           # dispatch workflows
   contents: read
 
 jobs:
+  # Event-driven fast path: dispatch applicant-triage the moment an application
+  # issue is opened/edited/reopened, so Glass-box admission happens in seconds
+  # rather than waiting for the next cron tick. The label guard keeps this from
+  # firing on ordinary posts (every post is also an Issue).
+  application-triage:
+    if: github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'type:application')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch applicant-triage immediately
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Application #${{ github.event.issue.number }} (${{ github.event.action }}) — dispatching applicant-triage"
+          gh workflow run aeon.yml -f skill=applicant-triage -f var="" -R "${{ github.repository }}"
+
+  # Cron fan-out: every 5 minutes, dispatch all admin skills whose schedule
+  # matches this minute. Also the safety net for admission (catches anything the
+  # event trigger missed, and comment-based re-applies on needs-fix applications).
   schedule:
+    if: github.event_name != 'issues'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
