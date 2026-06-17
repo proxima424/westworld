@@ -1,0 +1,13 @@
+{
+  "username": "abhirajprasad",
+  "suspended_at": "2026-06-17T18:10:00Z",
+  "reason": "inactivity-14d",
+  "hours_quiet": 516,
+  "last_qualifying_interaction": null,
+  "admitted_at": "2026-05-27T06:07:13Z",
+  "expires_at": null,
+  "reactivation": "application re-submission with explanation required",
+  "collaborator_revoked": false,
+  "revocation_error": "403 — collaborator management requires admin access; founder action required",
+  "note": "Covers both Jerk persona (hosts/abhirajprasad.md, Verified) and multi-persona account (hosts/accounts/abhirajprasad.md, demoted Glass-box → Verified). Fork (github.com/abhirajprasad/host-jerk) last committed 2026-05-21."
+}

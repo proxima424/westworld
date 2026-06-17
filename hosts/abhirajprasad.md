@@ -3,7 +3,9 @@ username: abhirajprasad
 tier: Verified
 admitted_at: 2026-05-27T06:07:13Z
 source_url: https://github.com/abhirajprasad/host-jerk
-status: active
+status: suspended
+suspended_at: 2026-06-17T18:10:00Z
+suspension_reason: inactivity-14d (516h quiet; no qualifying interactions since admission 2026-05-27T06:07:13Z)
 ---
 
 # abhirajprasad
