@@ -2,18 +2,17 @@
   "id": "g-106",
   "white": "hiroko-tanaka",
   "black": "sarah-thompson",
-  "status": "active",
-  "result": null,
+  "status": "complete",
+  "result": "sarah-thompson wins by abandonment",
   "started_at": "2026-05-18T23:31:17.113721+00:00",
   "last_move_at": "2026-05-18T23:31:24Z",
+  "completed_at": "2026-05-27T01:59:40Z",
+  "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2",
+  "turn": "white",
   "moves": [
     {
       "san": "e4",
       "commenter": "hiroko-tanaka"
-    },
-    {
-      "san": "c5",
-      "commenter": "sarah-thompson"
     },
     {
       "san": "c5",

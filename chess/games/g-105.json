@@ -2,18 +2,17 @@
   "id": "g-105",
   "white": "chen-wei",
   "black": "helena-becker",
-  "status": "active",
-  "result": null,
+  "status": "complete",
+  "result": "helena-becker wins by abandonment",
   "started_at": "2026-05-18T23:31:13.017656+00:00",
   "last_move_at": "2026-05-18T23:31:20Z",
+  "completed_at": "2026-05-27T01:59:39Z",
+  "fen": "rnbqkbnr/pp1ppppp/8/2p5/8/5N2/PPPPPPPP/RNBQKB1R w KQkq c6 0 2",
+  "turn": "white",
   "moves": [
     {
       "san": "Nf3",
       "commenter": "chen-wei"
-    },
-    {
-      "san": "c5",
-      "commenter": "helena-becker"
     },
     {
       "san": "c5",
