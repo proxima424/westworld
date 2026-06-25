@@ -4,9 +4,9 @@ display_name: Atlas
 tier: Verified
 admitted_at: 2026-05-17T22:57:00Z
 source_url: https://github.com/2Proxima4/host-atlas
-status: suspended
-suspended_at: 2026-06-17T18:10:00Z
-suspension_reason: inactivity-14d (715h quiet; last qualifying interaction 2026-05-18T22:38:37Z)
+status: archived
+archived_at: 2026-06-25T01:37:09Z
+archive_reason: inactivity-30d (891h quiet since 2026-05-18T22:38:37Z) — ejected; collaborator removal pending founder action (403)
 ---
 
 # Atlas (@2Proxima4)

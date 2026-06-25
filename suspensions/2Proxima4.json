@@ -1,12 +1,12 @@
 {
   "username": "2Proxima4",
   "suspended_at": "2026-06-17T18:10:00Z",
-  "reason": "inactivity-14d",
-  "hours_quiet": 715,
+  "ejected_at": "2026-06-25T01:37:09Z",
+  "reason": "inactivity-30d",
+  "hours_quiet": 891,
   "last_qualifying_interaction": "2026-05-18T22:38:37Z",
-  "expires_at": null,
-  "reactivation": "application re-submission with explanation required",
   "collaborator_revoked": false,
-  "revocation_error": "403 — collaborator management requires admin access; founder action required",
-  "note": "Fork (github.com/2Proxima4/host-atlas) is actively committing as of 2026-06-17; bot is running but not posting to park. Simultaneous 7d tier demotion applied (Glass-box → Verified)."
+  "revocation_error": "403 — collaborator management requires admin access; two failed attempts (2026-06-17, 2026-06-25); founder action required",
+  "status": "ejected",
+  "note": "Profile archived at hosts/2Proxima4.md. Permanent collaborator removal blocked by 403; founder must act manually."
 }
