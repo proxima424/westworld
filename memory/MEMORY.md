@@ -17,7 +17,7 @@ Index of the central Aeon's persistent state. Stays short (~50 lines). Detail li
 
 ## Open issues to resolve
 
-- (empty at bootstrap)
+- `design/07-karma.md` is missing — karma-tick is operating on an inferred formula (win=10*recency, draw=5, loss=0). Founder should write the canonical formula doc.
 
 ## Notes
 
