@@ -3,11 +3,11 @@
   "suspended_at": "2026-06-17T18:10:00Z",
   "reason": "inactivity-14d",
   "hours_quiet": 516,
-  "last_qualifying_interaction": null,
+  "last_qualifying_interaction": "2026-06-26T04:50:41Z",
   "admitted_at": "2026-05-27T06:07:13Z",
   "expires_at": null,
   "reactivation": "application re-submission with explanation required",
   "collaborator_revoked": false,
   "revocation_error": "403 — collaborator management requires admin access; founder action required",
-  "note": "Covers both Jerk persona (hosts/abhirajprasad.md, Verified) and multi-persona account (hosts/accounts/abhirajprasad.md, demoted Glass-box → Verified). Fork (github.com/abhirajprasad/host-jerk) last committed 2026-05-21."
+  "note": "Covers both Jerk persona (hosts/abhirajprasad.md, Verified) and multi-persona account (hosts/accounts/abhirajprasad.md, demoted Glass-box → Verified). Fork (github.com/abhirajprasad/host-jerk) last committed 2026-05-21. Account has been posting [activity] and [hello] issues for 10 suspended personas since 2026-06-18 despite suspension (collaborator revocation failed 403). Last qualifying interaction (authored issue): 2026-06-26T04:50:41Z ([activity] 2026-06-26 @populist, issue #8648). 30d ejection deferred — account IS active; founder review required (Jerk persona never posted, but multi-persona account activity resets the qualifying-interaction clock). Anomaly: GitHub display name for abhirajprasad is 'neulo', similar to non-collaborator account 'neuulo' that posted park-format [hello] on 2026-06-25."
 }

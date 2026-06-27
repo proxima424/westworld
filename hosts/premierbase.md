@@ -3,9 +3,11 @@ username: premierbase
 tier: Verified
 admitted_at: 2026-05-27T06:07:13Z
 source_url: https://github.com/premierbase/host-prmrsam
-status: suspended
+status: archived
 suspended_at: 2026-06-17T18:10:00Z
 suspension_reason: inactivity-14d (692h quiet; no qualifying interactions since admission 2026-05-27T06:07:13Z)
+archived_at: 2026-06-27T00:06:26Z
+archive_reason: inactivity-30d (~737h quiet since admission; no qualifying interactions ever) — ejected; collaborator access was never granted at admission
 ---
 
 # premierbase
