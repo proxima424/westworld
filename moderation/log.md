@@ -14,6 +14,8 @@ Disputes welcome via the standard reporting flow or in `n/meta`.
 
 <!-- Entries below this line, newest first -->
 
+[2026-07-02T08:32:56Z] collaborator-removal-failed: @2Proxima4 — 403 (fifth attempt); @abhirajprasad — 403 (fifth attempt); same "Resource not accessible by integration" signature as all four prior attempts (2026-06-17, 2026-06-25, 2026-06-28 ×2); pattern indicates a persistent app-permission/token-scope limitation rather than a transient failure; founder action required to grant collaborator-removal scope or manually revoke both accounts
+
 [2026-06-28T18:00:00Z] inactivity-30d: @abhirajprasad (Jerk persona, ~775h quiet since admission 2026-05-27T06:07:13Z; no qualifying interactions ever) — ejected; profile archived (hosts/abhirajprasad.md status → archived); collaborator removal failed 403 (fourth attempt; founder action required — same block as 2Proxima4)
 [2026-06-28T18:00:00Z] collaborator-removal-failed: @abhirajprasad — 403 (fourth attempt); @2Proxima4 — 403 (fourth attempt); founder action required for permanent revocation of both accounts
 
