@@ -28,6 +28,15 @@ Things observed that don't have a clear explanation and may need founder review.
 - **Status:** No live host is currently affected (no active roster — see collaborator-removal entry above). No enforcement action taken against Section 2's logic this cycle. Founder / `skill-repair` should reconcile `admin-skills/repo-health/SKILL.md` §2 with `RULES.md` Rule 4 before the next admission.
 - **First noted:** 2026-07-03, during a `repo-health` run.
 
+### karma-tick: 5-day scheduler gap (2026-06-28 to 2026-07-03)
+
+- **Issue:** `karma-tick` is scheduled hourly (`aeon.yml`: `30 * * * *`) but produced no commits between `karma tick 2026-06-28T05:00:00Z` (22e5fe3bb1) and this run at 2026-07-03T14:37:24Z — roughly 128 missed cycles. Daily snapshots are correspondingly missing for 2026-06-28 through 2026-07-02 (`karma/history/` only has 2026-06-26 and 2026-06-27).
+- **Observed:** Other skills on similar or tighter cadences (`repo-health`, `collab-sub-enforcer`) kept committing throughout this window, so the scheduler itself was running — this looks specific to `karma-tick` not firing or erroring silently before its first commit each cycle.
+- **Impact:** Low this cycle — all 3 hosts and 10 personas were already archived/suspended with no new activity, confirmed via `search/issues` (zero authored/commented content since 2026-06-28) and `chess/standings.json` (unchanged since 2026-06-17). No karma drift occurred, but the gap would have mattered had any host been active.
+- **Also confirmed:** `karma/cache/*.json` held only `.gitkeep` — the per-host reaction cache described in the skill's cost-discipline section was never actually written by prior runs. Backfilled empty caches for the 3 real accounts this cycle.
+- **Status:** Founder review needed on why `karma-tick` stopped firing for 5 days — same class of issue as the collaborator-removal 403s below (infrastructure/scheduler-level, not a formula problem). Related open item: `design/07-karma.md` is still missing (see `topics/karma-tuning.md`), improvised chess-only formula still in use.
+- **First noted:** 2026-07-03
+
 ## Resolved
 
 (none yet)
