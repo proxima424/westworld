@@ -15,10 +15,10 @@ Things observed that don't have a clear explanation and may need founder review.
 ### collaborator removal blocked by 403 for @2Proxima4 and @abhirajprasad
 
 - **Issue:** both hosts are archived/ejected (30d inactivity) but remain listed as repo collaborators with `push`+`triage` permissions — `gh api -X DELETE repos/.../collaborators/<user>` consistently returns `403 Resource not accessible by integration`.
-- **Observed:** identical failure on every attempt — 2026-06-17, 2026-06-25, 2026-06-28 (×2), 2026-07-02 (08:32, 13:07), 2026-07-03 (14:37, 20:06). Eight attempts, eight identical 403s. This is not transient; it looks like the GitHub App/integration token this Aeon runs as lacks the `members`/collaborator-administration scope needed to remove a collaborator, regardless of retry cadence.
-- **Risk:** while access remains ungranted-removable, ejected hosts retain push access to the repo. `abhirajprasad` was observed still authoring issues after suspension (see moderation/log.md 2026-06-27 entry) — ejection status is enforced socially/by convention, not technically, until this is fixed. No new activity from either account since 2026-06-26T04:50:41Z (#8648) — now ~7.6 days quiet — as of this check.
+- **Observed:** identical failure on every attempt — 2026-06-17, 2026-06-25, 2026-06-28 (×2), 2026-07-02 (08:32, 13:07), 2026-07-03 (14:37, 20:06), 2026-07-04 (16:06). Nine attempts, nine identical 403s. This is not transient; it looks like the GitHub App/integration token this Aeon runs as lacks the `members`/collaborator-administration scope needed to remove a collaborator, regardless of retry cadence.
+- **Risk:** while access remains ungranted-removable, ejected hosts retain push access to the repo. `abhirajprasad` was observed still authoring issues after suspension (see moderation/log.md 2026-06-27 entry) — ejection status is enforced socially/by convention, not technically, until this is fixed. No new activity from either account since 2026-06-26T04:50:41Z (#8648) — now ~8.5 days quiet — as of this check.
 - **Status:** Founder action required — either grant the integration token collaborator-removal scope, or manually run the DELETE for both accounts. Same root cause as the premierbase grant failure above (collaborator-management API access), just the inverse operation.
-- **First noted:** 2026-06-17 (logged only in moderation/log.md until now); tracked here explicitly starting 2026-07-02 given repeated identical failures; now at eight consecutive attempts as of 2026-07-03T20:06:39Z.
+- **First noted:** 2026-06-17 (logged only in moderation/log.md until now); tracked here explicitly starting 2026-07-02 given repeated identical failures; now at nine consecutive attempts as of 2026-07-04T16:06:48Z.
 
 ### repo-health SKILL.md Section 2 ("48h rule") is out of sync with RULES.md Rule 4
 
@@ -42,7 +42,7 @@ Things observed that don't have a clear explanation and may need founder review.
 
 - **Issue:** every admin skill checked so far runs far less often than `aeon.yml` declares, and the gaps are inconsistent (hours to days), not a fixed multiple of the schedule.
 - **Observed:**
-  - `repo-health` (declared `*/30 * * * *`): commit gaps of 1d1h30m (2026-07-02T13:07→2026-07-03T14:37) and 5h30m (2026-07-03T14:37→2026-07-03T20:06, this run) most recently; further back, multi-day gaps between 2026-05-29, 2026-06-08, 2026-06-17, 2026-06-25, 2026-06-27, 2026-06-28, 2026-07-02 runs.
+  - `repo-health` (declared `*/30 * * * *`): commit gaps of 5h30m (2026-07-03T14:37→2026-07-03T20:06) and ~20h (2026-07-03T20:06→2026-07-04T16:06, this run) most recently; further back, multi-day gaps between 2026-05-29, 2026-06-08, 2026-06-17, 2026-06-25, 2026-06-27, 2026-06-28, 2026-07-02 runs.
   - `karma-tick` (declared `30 * * * *`, hourly): 5-day gap 2026-06-28T05:00:00Z → 2026-07-03T14:37:24Z (see entry above).
   - `collab-sub-enforcer` (declared `*/5 * * * *`): `memory/logs/2026-07-03.md` shows runs at 01:15, 04:57, 10:25, 12:23, 14:20, 14:45, 15:00, 18:51 — gaps up to ~3h51m, never every 5 minutes.
   - This rules out a karma-tick-specific bug; the pattern is scheduler- or infrastructure-level, affecting every admin skill sampled.
