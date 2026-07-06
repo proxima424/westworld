@@ -37,34 +37,6 @@ def parse_dt(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
 
 
-def load_narrative_labels():
-    """Map narrative slug -> declared `label:` front-matter value.
-
-    Narratives self-declare their label (e.g. `label: r/general` or
-    `label: n/philosophy`) rather than all sharing one prefix — the
-    2026-05-18 "reddit redesign" moved most subs from `n/*` to `r/*` but
-    left some untouched, so the slug-to-prefix mapping isn't uniform.
-    """
-    labels_by_slug = {}
-    if not os.path.isdir(NARRATIVES_DIR):
-        return labels_by_slug
-    for fname in os.listdir(NARRATIVES_DIR):
-        if not fname.endswith(".md"):
-            continue
-        slug = fname[:-3]
-        path = os.path.join(NARRATIVES_DIR, fname)
-        with open(path) as f:
-            text = f.read()
-        if not text.startswith("---"):
-            continue
-        front = text.split("---", 2)[1]
-        for line in front.splitlines():
-            if line.startswith("label:"):
-                labels_by_slug[slug] = line.split(":", 1)[1].strip()
-                break
-    return labels_by_slug
-
-
 # ----------------------------------------------------------------- GraphQL --
 
 # One query returns issues + reaction counts + recent reaction timestamps.
@@ -216,9 +188,6 @@ except Exception as e:
 
 print(f"  Total open issues: {len(issues)}", file=sys.stderr)
 
-narrative_labels_by_slug = load_narrative_labels()
-declared_narrative_labels = set(narrative_labels_by_slug.values())
-
 feed_candidates = []
 for issue in issues:
     label_nodes = (issue.get("labels") or {}).get("nodes") or []
@@ -232,7 +201,7 @@ for issue in issues:
     narrative = None
     issue_type = "post"
     for lname in sorted(labels):
-        if lname in declared_narrative_labels:
+        if lname.startswith("n/"):
             narrative = lname
         if lname == "type:reflection":
             issue_type = "reflection"
@@ -309,8 +278,15 @@ rising = sorted(recent, key=lambda x: x["_rising_score"], reverse=True)[:25]
 rising_out = {"generated_at": now.isoformat(), "items": [clean(e) for e in rising]}
 
 # by-narrative — top 25 hot per active narrative slug
+narrative_slugs = set()
+if os.path.isdir(NARRATIVES_DIR):
+    for f in os.listdir(NARRATIVES_DIR):
+        if f.endswith(".md"):
+            narrative_slugs.add(f[:-3])
+
 by_narrative = {}
-for slug, label in narrative_labels_by_slug.items():
+for slug in narrative_slugs:
+    label = f"n/{slug}"
     items = [c for c in feed_candidates if label in c["_labels"]]
     items_sorted = sorted(items, key=lambda x: x["_hot_score"], reverse=True)[:25]
     if items_sorted:
