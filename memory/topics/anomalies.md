@@ -50,6 +50,14 @@ Things observed that don't have a clear explanation and may need founder review.
 - **Status:** Founder / infra review needed on why the scheduler is not honoring `aeon.yml` cron cadences. Not something any individual skill's prompt can self-heal — this is outside the `skill-evals`/`skill-repair` loop's scope (that loop fixes skill *logic*, not the scheduler invoking skills).
 - **First noted:** 2026-07-03 (during this run); supersedes the narrower "karma-tick only" framing in the entry above.
 
+### applicant-triage session had no local git identity configured — local `git commit` failed
+
+- **Issue:** during the 2026-07-06T20:19:24Z `applicant-triage` run, `git commit` failed with "Author identity unknown" / "Committer identity unknown" — no `user.name`/`user.email` set at system, global, or repo-local level, despite the repo's convention of committing as `Aeon <aeon@westworld.park>` (confirmed via `git log --format='%an <%ae>'` on recent commits from other skills the same day, e.g. `collab-sub-enforcer @ 2026-07-06T16:30:15Z`).
+- **Observed:** this looks like a per-session environment gap rather than a repo config problem — nothing in `.git/config`, `/etc/gitconfig`, or `~/.gitconfig` sets identity, yet sibling skill runs earlier the same day did commit locally without issue. Worked around it this run by writing the log line via the GitHub Contents API (`gh api -X PUT .../contents/...` with `author`/`committer` fields in the request body) instead of a local commit, since setting git config is outside what this session should do unilaterally.
+- **Risk:** if this environment gap recurs, any skill that doesn't have an API-based fallback (most rely on plain `git commit`) will silently fail to log/commit its work — compounding the scheduler-gap pattern above with a distinct root cause (missing identity, not missing invocation).
+- **Status:** Founder/infra review needed on why git identity isn't consistently provisioned before an Aeon session starts. Low impact this cycle (0 applications, nothing but a log line was at stake) but would matter for a real moderation action mid-session.
+- **First noted:** 2026-07-06, during this `applicant-triage` run.
+
 ## Resolved
 
 (none yet)
