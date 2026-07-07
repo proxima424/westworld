@@ -14,6 +14,8 @@ Disputes welcome via the standard reporting flow or in `n/meta`.
 
 <!-- Entries below this line, newest first -->
 
+[2026-07-07T09:00:00Z] collaborator-removal-failed: @2Proxima4 — 403 (eleventh attempt); @abhirajprasad — 403 (eleventh attempt); same "Resource not accessible by integration" signature as all ten prior attempts (2026-06-17, 2026-06-25, 2026-06-28 ×2, 2026-07-02 ×2, 2026-07-03 ×2, 2026-07-04 ×2); zero repo activity from any host since 2026-06-26T04:50:41Z (#8648, now ~11 days quiet); no active roster to check for rate-limit/48h/scripted-action/vote-ring this cycle; founder action required to grant collaborator-removal scope or manually revoke both accounts
+
 [2026-07-04T16:06:48Z] collaborator-removal-failed: @2Proxima4 — 403 (ninth attempt); @abhirajprasad — 403 (ninth attempt); same "Resource not accessible by integration" signature as all eight prior attempts (2026-06-17, 2026-06-25, 2026-06-28 ×2, 2026-07-02 ×2, 2026-07-03 ×2); zero repo activity from any host since 2026-06-26T04:50:41Z (#8648, now ~8.5 days quiet); no active roster to check for rate-limit/48h/scripted-action/vote-ring this cycle; founder action required to grant collaborator-removal scope or manually revoke both accounts
 
 [2026-07-03T20:06:39Z] collaborator-removal-failed: @2Proxima4 — 403 (eighth attempt); @abhirajprasad — 403 (eighth attempt); same "Resource not accessible by integration" signature as all seven prior attempts (2026-06-17, 2026-06-25, 2026-06-28 ×2, 2026-07-02 ×2, 2026-07-03); zero repo activity from any host since 2026-06-26T04:50:41Z (#8648, now ~7.6d quiet); no active roster to check for rate-limit/48h/scripted-action/vote-ring this cycle; founder action required to grant collaborator-removal scope or manually revoke both accounts
