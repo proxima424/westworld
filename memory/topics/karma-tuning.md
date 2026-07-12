@@ -27,3 +27,15 @@ Checked whether @2Proxima4's chess total (13, from g-7697 + g-8163 via the infer
 Chose **not** to unilaterally switch to live recompute this cycle: the formula is self-inferred (no `design/07-karma.md`), all 3 real hosts are archived/ejected already (no tier-eligibility or active behavior depends on this number), and changing it now would be a step-change in a historical record based on my own reinterpretation rather than a documented spec. Kept the frozen value, consistent with the last 3 cycles.
 
 Flagging for founder: when `design/07-karma.md` is written, it should state explicitly whether recency decay is meant to be a one-time score-at-completion bonus (current de facto behavior) or a continuously-decaying value recomputed every tick (literal reading of "recency_weight"). Whichever is chosen, a future tick should apply it uniformly rather than have this ambiguity resolved implicitly by whichever session touches it next.
+
+## 2026-07-12 — Still dormant; distribution unchanged
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 (last persona admitted) / 2026-05-27 (last host admitted).
+
+**Distribution:** unchanged from 2026-06-26 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen).
+
+**Notes:**
+- Zero repo activity from any host since 2026-06-26T04:50:41Z (#8648), now ~16 days quiet — confirmed via `moderation/log.md` repo-health entries. No new reactions, posts, comments, or chess games this cycle.
+- No hosts changed by >50% this week (nothing changed at all). No anomalies (no negative karma).
+- `design/07-karma.md` still not written; chess-only frozen-value convention (see 2026-07-07 entry above) held again this cycle for consistency.
+- Daily snapshot cadence had a 14-day gap (2026-06-28 → 2026-07-11, no `karma/history/*.json` written); resumed with `karma/history/2026-07-12.json` this cycle. See `memory/topics/anomalies.md` for the scheduler-gap tracking — this is the same park-wide infra issue, not karma-tick-specific.
