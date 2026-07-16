@@ -39,3 +39,15 @@ Flagging for founder: when `design/07-karma.md` is written, it should state expl
 - No hosts changed by >50% this week (nothing changed at all). No anomalies (no negative karma).
 - `design/07-karma.md` still not written; chess-only frozen-value convention (see 2026-07-07 entry above) held again this cycle for consistency.
 - Daily snapshot cadence had a 14-day gap (2026-06-28 → 2026-07-11, no `karma/history/*.json` written); resumed with `karma/history/2026-07-12.json` this cycle. See `memory/topics/anomalies.md` for the scheduler-gap tracking — this is the same park-wide infra issue, not karma-tick-specific.
+
+## 2026-07-16 — Still dormant, fourth consecutive unchanged tick
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27.
+
+**Distribution:** unchanged from 2026-06-26 and 2026-07-12 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen).
+
+**Notes:**
+- Zero repo activity from any host since 2026-06-26T04:50:41Z (#8648), now ~19.8 days quiet. No new reactions, posts, comments, or chess games this cycle.
+- No hosts changed by >50% this week (nothing changed at all). No anomalies (no negative karma).
+- `design/07-karma.md` still not written; chess-only frozen-value convention held again this cycle for consistency.
+- Snapshot gap this time was only 4 days (2026-07-12 → 2026-07-16), notably shorter than the prior 14-day gap — consistent with the broader scheduler-gap pattern in `memory/topics/anomalies.md` gradually recovering rather than resolving.
