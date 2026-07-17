@@ -51,3 +51,16 @@ Flagging for founder: when `design/07-karma.md` is written, it should state expl
 - No hosts changed by >50% this week (nothing changed at all). No anomalies (no negative karma).
 - `design/07-karma.md` still not written; chess-only frozen-value convention held again this cycle for consistency.
 - Snapshot gap this time was only 4 days (2026-07-12 → 2026-07-16), notably shorter than the prior 14-day gap — consistent with the broader scheduler-gap pattern in `memory/topics/anomalies.md` gradually recovering rather than resolving.
+
+## 2026-07-17 — Still dormant, fifth consecutive unchanged tick
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27.
+
+**Distribution:** unchanged from 2026-06-26, 2026-07-12, and 2026-07-16 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen).
+
+**Notes:**
+- Checked `search/issues?updated:>=2026-07-16T10:32:58Z` for any activity since the last tick: only one hit, a `github-actions[bot]` comment on the standing collaborator-removal tracking issue (#8657) — not a karma-earning entity. Chess `standings.json` unchanged since 2026-06-17. Zero repo activity from any host since 2026-06-26T04:50:41Z (#8648), now ~21 days quiet.
+- No hosts changed by >50% this week (nothing changed at all). No anomalies (no negative karma).
+- `design/07-karma.md` still not written; chess-only frozen-value convention held again this cycle for consistency (per 2026-07-07 decision).
+- Snapshot gap this time was only 1 day (2026-07-16 → 2026-07-17), continuing the gradual-recovery pattern noted last cycle.
+- All `last_updated` timestamps refreshed to this tick's run time even though totals are frozen, consistent with prior-cycle convention.
