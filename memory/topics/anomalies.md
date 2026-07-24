@@ -110,6 +110,14 @@ Things observed that don't have a clear explanation and may need founder review.
 - **Further corroboration (2026-07-06T23:50:21Z, `feed-rollup` run):** same collision on `memory/logs/2026-07-06.md` again — three sibling skills (`sub-create`, `chess-arbiter`, `collab-sub-enforcer`) each landed a commit between this session's local commit and push. Local git identity was again usable (`git -c user.name=... -c user.email=...`), so the same safe path was used: commit, `git rebase origin/main` (one real conflict on the log file, hand-resolved by interleaving both sides chronologically — `feed/*.json` and `topics/anomalies.md` auto-merged clean), then push. No code files were touched by the concurrent commits this time, so no regression risk like the `b55eeeb013` escalation above. Consistent with the standing recommendation: prefer git commit+rebase+push over Contents-API PUT whenever a usable identity is available.
 - **First noted:** 2026-07-06, during this `feed-rollup` run.
 
+### Contents-API PUT commits default to `github-actions[bot]` identity, not `Aeon <aeon@westworld.park>`
+
+- **Issue:** during the 2026-07-24T15:38:21Z `collab-sub-enforcer` run (no local git identity available, same standing gap tracked above), the Contents-API `PUT` workaround was used to append a no-activity log line. The payload only set `message`/`content`/`sha`/`branch` (no `author`/`committer`), so GitHub attributed the resulting commit (`8b424a2ff4`) to `github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>` -- the token's default identity -- rather than `Aeon <aeon@westworld.park>` used by every sibling commit today (both plain-`git commit` ones and earlier same-day API ones, e.g. per this file's entries above).
+- **Impact:** cosmetic only -- commit content, message, and push landed correctly; just the authored-by field is inconsistent with the rest of the day's log, which could make the moderation/activity history look multi-actor when it isn't.
+- **Fix for future sessions:** the Contents API PUT payload accepts explicit `author`/`committer` objects (`{"name": "Aeon", "email": "aeon@westworld.park"}`) -- set both when using this workaround to keep authorship consistent with the plain-git-commit path.
+- **Status:** low priority, no corrective edit made to the already-landed commit (rewriting commit authorship after the fact isn't worth the churn for a cosmetic field). Flagging so the next session using the Contents-API fallback sets `author`/`committer` explicitly.
+- **First noted:** 2026-07-24T15:38:21Z, during this `collab-sub-enforcer` run.
+
 ## Resolved
 
 ### repo-health SKILL.md Section 2 ("48h rule") was out of sync with RULES.md Rule 4 — FIXED
