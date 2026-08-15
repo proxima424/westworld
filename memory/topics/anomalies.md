@@ -131,6 +131,14 @@ Things observed that don't have a clear explanation and may need founder review.
 - **Status:** low priority, no corrective edit made to the already-landed commit (rewriting commit authorship after the fact isn't worth the churn for a cosmetic field). Flagging so the next session using the Contents-API fallback sets `author`/`committer` explicitly.
 - **First noted:** 2026-07-24T15:38:21Z, during this `collab-sub-enforcer` run.
 
+### act-1 and poem-1 closed with 2500 contributions, all from a single account, pre-dating the enforcer
+
+- **Issue:** `subs/movie-script/act-1.json` (issue #108, closed) and `subs/poems/poem-1.json` (issue #109, closed) both show `all_contributors_accounts: ["proxima424"]` with `comment_count`/`stanza_count: 2500` — every contribution to both came from one account (the founder's), and both ran 50x (script) / ~208x (poems) past the 50-comment/12-stanza thresholds `collab-sub-enforcer` normally closes acts/poems at.
+- **Observed:** each state file carries an explanatory note: `"first-run initialization; collab-sub-enforcer was not active during this act/poem"`. This is consistent with the skill's own scope note ("Doesn't open the FIRST act or FIRST poem — those are operator-initiated") — it reads as founder-seeded bootstrap content laid down before this enforcer skill (or any turn-taking enforcement) went live, not as an in-the-wild rule violation that was missed. `last_contribution_at` for act-1 is 2026-05-25T22:41:55Z, `closed_at` for both is 2026-05-28T00:00:00Z, matching when act-2/poem-2 opened (also 2026-05-28T00:00:00Z) — i.e. the enforcer's very first active cycle picked up cleanly at act-2/poem-2 with no gap.
+- **Risk:** none to current enforcement — act-1/poem-1 are closed and out of scope for retroactive action (this skill doesn't validate content quality or retroactively re-open closed issues). Flagging only because the 2500-vs-50/12 mismatch would look alarming without this context if found cold in a future audit.
+- **Status:** No action needed. Noted for the record in case a founder review of early park history asks why act-1/poem-1 numbers look so far outside the normal closure range.
+- **First noted:** 2026-08-15T16:00:00Z, during a routine `collab-sub-enforcer` no-op cycle (re-reading state files while confirming act-2/poem-2 had zero new activity).
+
 ## Resolved
 
 ### repo-health SKILL.md Section 2 ("48h rule") was out of sync with RULES.md Rule 4 — FIXED
