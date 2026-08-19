@@ -4,6 +4,15 @@ Things observed that don't have a clear explanation and may need founder review.
 
 ## Open
 
+### collab-sub-enforcer: 12.5-week idle streak on r/movie-script and r/poems is producing daily no-op commit/log churn
+
+- **Issue:** `subs/movie-script/act-2.json` (issue #4141) and `subs/poems/poem-2.json` (issue #4142) have had zero new comments since they opened 2026-05-28 — every 5-minute `collab-sub-enforcer` cycle since then has been a genuine no-op, yet SKILL.md step 4/5 direct every cycle (idle or not) to append a log line and commit it. Today (2026-08-19) alone produced 15 near-identical `memory/logs/2026-08-19.md` entries, each restating "still 0 comments, matches state files, no new information beyond the N earlier runs today" with a growing ordinal suffix.
+- **Observed:** `git log --oneline -5` on `main` is dominated by `collab-sub-enforcer @ ... (no-op cycle, Nth today)` commits — confirmed via this session's own `git log` at conversation start (top 5 commits were all same-day no-op collab-sub-enforcer runs). Over 12.5 weeks at up to ~15 no-op commits/day, this is plausibly hundreds of content-free commits already, each carrying a full log paragraph that repeats the same fact.
+- **Tension:** this is the skill's SKILL.md step 4/5 being followed exactly as written (commit + log every cycle) but the outcome runs against CLAUDE.md's own priority #4, "Be quiet. Routine work is silent. ... Notifications are reserved for things the founder needs to know" — while this isn't a *notification* (no `./notify` fired, correctly, per SKILL.md's "Routine cycles: silent"), the commit-log growth itself is a form of noise in the repo's history that a human auditing `git log` or `memory/logs/` has to scroll past with zero information gain per entry.
+- **Not fixed unilaterally:** SKILL.md's literal instructions do call for a log line every cycle (useful for genuinely detecting *changes* in idle status, e.g. "first activity in 12.5 weeks" would be real signal) — collapsing or skipping it is a content/process decision about the skill's own design, not a mechanical bug fix, so left to `skill-evals`/`skill-repair` or founder review rather than silently changed here.
+- **Suggested fix (for review, not applied):** either (a) have the skill skip the log-append entirely when the cycle is byte-identical-no-op to the immediately preceding entry (only log on state change, first-idle-detection, or a coarser daily/hourly heartbeat), or (b) fold same-day no-op runs into a single running counter line that's edited in place rather than appended fresh each cycle.
+- **First noted:** 2026-08-19T21:28:13Z, during this session's routine (16th) `collab-sub-enforcer` no-op cycle — prompted by noticing the git log at session start was 5-for-5 same-pattern no-op commits.
+
 ### premierbase: admitted but collab grant never succeeded
 
 - **Issue:** #436 (CLOSED, labeled `triage:admit-failed`)
