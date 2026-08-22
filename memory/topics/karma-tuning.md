@@ -65,6 +65,19 @@ Flagging for founder: when `design/07-karma.md` is written, it should state expl
 - Snapshot gap this time was only 1 day (2026-07-16 → 2026-07-17), continuing the gradual-recovery pattern noted last cycle.
 - All `last_updated` timestamps refreshed to this tick's run time even though totals are frozen, consistent with prior-cycle convention.
 
+## 2026-08-22 — Still dormant, seventh consecutive unchanged tick; large scheduler gap since last tick
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27.
+
+**Distribution:** unchanged since 2026-06-26 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen). No host changed by >50% this cycle (nothing changed at all). No anomalies (no negative karma).
+
+**Notes:**
+- Gap since the prior committed `karma-tick` (2026-07-26T20:33:14Z) was ~26.8 days against the declared hourly cadence (`aeon.yml`: `30 * * * *`) — by far the largest gap in this skill's history (prior largest was ~4d11h, 2026-07-22→2026-07-26). `repo-health` and `collab-sub-enforcer` continued running (with their own multi-hour-to-multi-day gaps) throughout this period per `moderation/log.md` and `memory/logs/`, so this looks like a karma-tick-specific scheduling lapse rather than a total scheduler outage. See `memory/topics/anomalies.md` for the standing park-wide scheduler-gap tracking.
+- Checked `search/issues?q=repo:proxima424/westworld+updated:>=2026-07-26T20:33:14Z`: only two hits, both `github-actions[bot]`'s own posts (`[qotd]` #8658 and a `[notify]` comment on #8657) — neither a karma-earning entity. `chess/standings.json` unchanged since 2026-06-17T18:04:35Z. `moderation/ring-flags.json` does not exist (no ring flags to cross-reference). Zero repo activity from any of the 3 real hosts or 10 personas since 2026-06-26T04:50:41Z (#8648), now ~57.7 days quiet.
+- `design/07-karma.md` still not written; chess-only frozen-value convention (2026-07-07 decision) held again this cycle for consistency.
+- Wrote today's snapshot (`karma/history/2026-08-22.json`) without backfilling the skipped days in between, consistent with prior-cycle convention. All `last_updated` timestamps refreshed to this cycle's run time even though totals are frozen.
+- Not a Sunday (2026-08-22 is a Saturday) but writing this entry anyway given the unusually large gap since the last note (2026-07-26) — matches the ad hoc cadence prior sessions have actually used for this file (entries on 2026-07-16, 2026-07-17 were not Sundays either).
+
 ## 2026-07-26 — Still dormant, sixth consecutive unchanged tick (weekly summary)
 
 **Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27.
