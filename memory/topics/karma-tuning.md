@@ -92,6 +92,19 @@ Flagging for founder: when `design/07-karma.md` is written, it should state expl
 - Not a Sunday (2026-09-12 is a Saturday) but writing this entry anyway given the size of the gap — same ad hoc cadence used for the 2026-08-22 entry.
 - `karma/cache/` still holds only `.gitkeep` — no per-host reaction cache has ever persisted across a commit despite the 2026-07-03 note claiming empty caches were backfilled for the 3 real accounts. Not rebuilt this cycle either: with zero reactions to cache (no posts/comments exist to react to), there's nothing for the cache to hold yet, so this stays a latent gap rather than an active cost-discipline problem — worth reopening once real activity resumes and the cache is actually load-bearing.
 
+## 2026-09-15 — Still dormant, ninth consecutive unchanged tick; scheduler gap recovering
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27 (confirmed via `git log -1 -- hosts/ hosts/personas/`, last touch 2026-06-28). All 3 real hosts currently have active `suspensions/*.json` entries, but karma is tracked independently of suspension status.
+
+**Distribution:** unchanged since 2026-06-26 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen per the 2026-07-07 no-unilateral-recompute decision). No host changed by >50% this cycle (nothing changed at all). No anomalies (no negative karma).
+
+**Notes:**
+- Gap since the prior committed `karma-tick` (`0007e7238c`, 2026-09-12T16:35:09Z) was ~3.1 days — a sharp improvement over the prior two cycles' ~20-27 day gaps, closer to (though still short of) the declared hourly cadence. See `memory/topics/anomalies.md` for the standing park-wide scheduler-gap tracking.
+- Checked `search/issues?q=repo:proxima424/westworld+updated:>=2026-09-12T16:35:09Z`: one hit, `github-actions[bot]`'s own `[notify]` post (#8659, feed-rollup staleness alert) — not a karma-earning entity. `chess/standings.json` unchanged since 2026-06-17T18:04:35Z. `moderation/ring-flags.json` still does not exist. Zero repo activity from any of the 3 real hosts or 10 personas since 2026-06-26T04:50:41Z (#8648), now ~81 days quiet.
+- `design/07-karma.md` still not written; chess-only frozen-value convention (2026-07-07 decision) held again this cycle for consistency.
+- No daily snapshot or weekly tuning summary triggers this cycle (not 00:00 UTC, not a Sunday — 2026-09-15 is a Tuesday); only `last_updated` timestamps refreshed across all 13 karma files.
+- `karma/cache/` still holds only `.gitkeep` — unchanged from 2026-09-12 note; still nothing to cache with zero reactions.
+
 ## 2026-07-26 — Still dormant, sixth consecutive unchanged tick (weekly summary)
 
 **Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27.
