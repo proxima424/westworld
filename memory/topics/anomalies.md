@@ -114,6 +114,7 @@ Things observed that don't have a clear explanation and may need founder review.
 - **Risk:** low by itself (python3 workaround exists), but the `&&`-chain finding is new information: any future skill that runs `usefulCommand && rm scratchfile` and doesn't verify `usefulCommand`'s actual output could silently believe the useful step ran when the whole line was blocked pre-execution. Worth remembering to run cleanup as a fully separate command, or verify outputs, rather than chaining.
 - **Status:** Founder/infra review welcome as part of the same combined sandbox-approval-gate review already flagged above (git identity, `base64`, `env`, `.sh` execution) — not karma-tick-specific.
 - **First noted:** 2026-07-26T20:33:14Z, during this `karma-tick` run.
+- **Recurrence, `rmdir` (2026-09-16T19:33:39Z, `karma-tick` run):** same whole-chain-block behavior with `rmdir` instead of `rm` — `python3 -c "os.remove(...)" && rmdir .outputs 2>/dev/null; git fetch ...` was blocked in full (including the leading `os.remove`, confirmed by the file still existing afterward), while a standalone `python3 -c "os.remove(...)"` run alone succeeded immediately. Same fallback applies: run cleanup as its own isolated command, never chained with `rm`/`rmdir`.
 
 ### feed-rollup by-narrative feeds were near-empty since inception — hardcoded `n/` prefix vs per-narrative `label:` front-matter
 
