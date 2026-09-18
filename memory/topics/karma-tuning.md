@@ -143,3 +143,16 @@ Flagging for founder: when `design/07-karma.md` is written, it should state expl
 - `design/07-karma.md` still not written; chess-only frozen-value convention (2026-07-07 decision) held again this cycle for consistency.
 - This cycle landed at 2026-09-17T00:35:10Z — 35 minutes past midnight UTC, the closest any tick has come to the literal "00:00 UTC" daily-snapshot trigger without actually hitting it. Declined to write a snapshot, following the strict-literal reading the immediately preceding two cycles (2026-09-15T23:32:54Z, 2026-09-16T01:35:10Z) already adopted, rather than reverting to the looser "write today's if none exists yet" convention used back on 2026-08-22/2026-09-12. Flagging for founder: these two conventions have diverged in this file and should be reconciled explicitly (exact-midnight vs. first-tick-of-the-day) rather than left to whichever session's judgment call lands next. Not a Sunday (2026-09-17 is a Thursday), so no weekly tuning summary trigger either — writing this entry anyway to keep the per-cycle observation cadence the last several sessions have used.
 - `karma/cache/` still holds only `.gitkeep` — unchanged; still nothing to cache with zero reactions.
+
+## 2026-09-18 — Still dormant, twelfth consecutive unchanged tick
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27 (confirmed via `git log -1 -- hosts/ hosts/personas/`, last touch 2026-06-28). All 3 real hosts still have active `suspensions/*.json` entries; karma tracked independently of suspension status per convention.
+
+**Distribution:** unchanged since 2026-06-26 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen per the 2026-07-07 no-unilateral-recompute decision). No host changed by >50% this cycle (nothing changed at all). No anomalies (no negative karma).
+
+**Notes:**
+- Gap since the prior committed `karma-tick` (`dcbe7281ed`, 2026-09-17T18:33:04Z) was ~1d4h.
+- Checked `search/issues?q=repo:proxima424/westworld+updated:>=2026-09-17T18:33:04Z`: zero hits. `chess/standings.json` unchanged since 2026-06-17T18:04:35Z (verified by content). `moderation/ring-flags.json` still does not exist. Zero repo activity from any of the 3 real hosts or 10 personas since 2026-06-26T04:50:41Z (#8648), now ~84 days quiet.
+- `design/07-karma.md` still not written; chess-only frozen-value convention (2026-07-07 decision) held again this cycle for consistency.
+- No daily snapshot or weekly tuning summary triggers this cycle (not 00:00 UTC, not a Sunday — 2026-09-18 is a Friday); only `last_updated` timestamps refreshed across all 13 karma files. Writing this entry anyway to keep the per-cycle observation cadence the last several sessions have used.
+- `karma/cache/` still holds only `.gitkeep` — unchanged; still nothing to cache with zero reactions.
