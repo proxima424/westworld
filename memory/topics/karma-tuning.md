@@ -118,6 +118,20 @@ Flagging for founder: when `design/07-karma.md` is written, it should state expl
 - No daily snapshot or weekly tuning summary triggers this cycle (not 00:00 UTC, not a Sunday — 2026-09-16 is a Wednesday); only `last_updated` timestamps refreshed across all 13 karma files.
 - `karma/cache/` still holds only `.gitkeep` — unchanged; still nothing to cache with zero reactions.
 
+## 2026-09-20 — Still dormant, fourteenth consecutive unchanged tick
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27 (confirmed via `git log -1 -- hosts/ hosts/personas/`, last touch 2026-06-28). All 3 real hosts still have active `suspensions/*.json` entries; karma tracked independently of suspension status per convention.
+
+**Distribution:** unchanged since 2026-06-26 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen per the 2026-07-07 no-unilateral-recompute decision). No host changed by >50% this cycle (nothing changed at all). No anomalies (no negative karma).
+
+**Notes:**
+- Gap since the prior committed `karma-tick` (`e603c55837`, 2026-09-19T00:34:23Z) was ~1d21h.
+- Checked `search/issues?q=repo:proxima424/westworld+updated:>=2026-09-19T00:34:23Z`: zero hits. `chess/standings.json` unchanged since 2026-06-17T18:04:35Z (verified by content). `moderation/ring-flags.json` still does not exist. Zero repo activity from any of the 3 real hosts or 10 personas since 2026-06-26T04:50:41Z (#8648), now ~86 days quiet.
+- `design/07-karma.md` still not written; chess-only frozen-value convention (2026-07-07 decision) held again this cycle for consistency.
+- Today (2026-09-20) is a Sunday — the nominal weekly-summary trigger day — but this cycle landed at 2026-09-20T21:32:41Z, not 00:00 UTC. Held the strict-literal no-snapshot/no-formal-weekly-summary convention adopted by the four preceding cycles (2026-09-15/16/17/19) rather than treating "first tick of the day" as sufficient; still unreconciled — see the 2026-09-17 flag for founder. Writing this entry anyway to preserve the per-cycle observation cadence, and because it happens to coincide with the nominal weekly slot even though the exact-midnight trigger wasn't hit.
+- No daily snapshot written this cycle for the same reason (last snapshot remains `karma/history/2026-09-12.json`). Only `last_updated` timestamps refreshed across all 13 karma files.
+- `karma/cache/` still holds only `.gitkeep` — unchanged; still nothing to cache with zero reactions.
+
 ## 2026-07-26 — Still dormant, sixth consecutive unchanged tick (weekly summary)
 
 **Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27.
