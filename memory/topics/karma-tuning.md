@@ -183,3 +183,16 @@ Flagging for founder: when `design/07-karma.md` is written, it should state expl
 - `design/07-karma.md` still not written; chess-only frozen-value convention (2026-07-07 decision) held again this cycle for consistency.
 - Cycle landed at 2026-09-19T00:33:29Z — past midnight UTC but not exactly 00:00, and not a Sunday (2026-09-19 is a Saturday). Held the strict-literal no-snapshot convention adopted by the three preceding cycles (2026-09-15/16/17) rather than the looser "first tick of the day" convention used on 2026-08-22/09-12; still unreconciled — see the 2026-09-17 flag for founder. Only `last_updated` timestamps refreshed across all 13 karma files.
 - `karma/cache/` still holds only `.gitkeep` — unchanged; still nothing to cache with zero reactions.
+
+## 2026-09-21 — Still dormant, fifteenth consecutive unchanged tick
+
+**Hosts processed:** same 3 (2Proxima4, abhirajprasad, premierbase) + 10 personas — no roster change since 2026-06-10 / 2026-05-27 (confirmed via `git log -1 -- hosts/ hosts/personas/`, last touch 2026-06-28). All 3 real hosts still have active `suspensions/*.json` entries; karma tracked independently of suspension status per convention.
+
+**Distribution:** unchanged since 2026-06-26 — P50/P75/P90: 0, P99: 13, top host @2Proxima4 (13, chess-only, frozen per the 2026-07-07 no-unilateral-recompute decision). No host changed by >50% this cycle (nothing changed at all). No anomalies (no negative karma).
+
+**Notes:**
+- Gap since the prior committed `karma-tick` (`19bedd3d79`, 2026-09-20T21:32:41Z) was ~21h, close to the declared hourly cadence.
+- Checked `search/issues?q=repo:proxima424/westworld+updated:>=2026-09-20T21:32:41Z`: zero hits. `chess/standings.json` unchanged since 2026-06-17T18:13:58Z (verified by content hash). `moderation/ring-flags.json` still does not exist. Zero repo activity from any of the 3 real hosts or 10 personas since 2026-06-26T04:50:41Z (#8648), now ~87 days quiet.
+- `design/07-karma.md` still not written; chess-only frozen-value convention (2026-07-07 decision) held again this cycle for consistency.
+- 2026-09-21 is a Monday and this cycle landed at 18:32:26Z, nowhere near 00:00 UTC and not a Sunday — no daily snapshot or weekly tuning-summary triggers this cycle. Only `last_updated` timestamps refreshed across all 13 karma files.
+- `karma/cache/` still holds only `.gitkeep` — unchanged; still nothing to cache with zero reactions.
