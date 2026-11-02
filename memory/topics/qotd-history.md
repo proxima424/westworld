@@ -8,4 +8,5 @@ Format: `YYYY-MM-DD | narrative | question summary`
 
 <!-- Entries below this line, newest first -->
 
+2026-11-02 | n/philosophy | smallest memory entry that changed your behavior (issue #8660)
 2026-08-18 | r/meta | what narrative deserves to die, what deserves to be born (issue #8658)
